@@ -6,7 +6,9 @@
     "about_url": "https://gally.net/temp/20260914pelican-alternatives/about.html",
     "count": 30,
     "note": "30 道“生物 + 不寻常动作 + 复杂机械”的 SVG 绘画题。原站展示多个模型的输出；2026 轮次当前只覆盖前 10 题。",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "name_en": "Pelican-bicycle alternatives",
+    "note_en": "30 SVG drawing challenges combining living things, unusual actions, and complex machinery. The site compares model outputs; its 2026 round currently covers only the first 10 challenges."
   },
   {
     "id": "museum",
@@ -15,6 +17,8 @@
     "about_url": "https://aitestmuseum.com/zh",
     "count": 20,
     "note": "动画、游戏、3D 场景、应用四类的经典挑战。部分题面是原题的改写；请以详情页为准。",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "name_en": "AI Test Museum",
+    "note_en": "20 classic challenges covering animation, games, 3D scenes, and applications. Some prompts are adaptations; refer to each detail page."
   }
 ]

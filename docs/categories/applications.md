@@ -1,12 +1,18 @@
 # 应用与交互
 
+**简体中文** | [English](../en/categories/applications.md)
+
 > 从好看的界面走向可用的功能 · 共 **2 道**
 
 [← 返回首页](../../README.md) · [全部案例](../INDEX.md)
 
+> 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
+
 ## 一个 HTML 文件里的操作系统
 
 **编号**：`museum-012` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/web-os-desktop)（原站第 12 题）
+
+**英文标题**：An operating system in one HTML file
 
 在单个 HTML 页面中做一个含窗口和多种应用的桌面系统。
 
@@ -27,6 +33,8 @@
 ## 积木搭建器
 
 **编号**：`museum-014` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/brick-builder)（原站第 14 题）
+
+**英文标题**：Brick builder
 
 创建可放置、旋转、改色和删除积木的 3D 编辑器。
 

@@ -1,9 +1,11 @@
 # Awesome AI Tests · 有趣的 AI 测试案例收藏夹
 
+**简体中文** | [English](README.en.md)
+
 > 收集互联网上那些好玩、奇怪、让人忍不住想拿去考一考大模型的测试题。  
 > **不做模型排行榜，先把值得尝试的题目收集好。**
 
-A curated collection of fun and reproducible AI model challenges — Chinese-first, source-linked.
+A curated collection of fun and reproducible AI model challenges — in Chinese and English, with source links.
 
 **📦 首批收录：50 道案例 · 2 个资源网站 · 5 个分类**（后续数量以 [完整索引](docs/INDEX.md) 为准）  
 **🗓️ 本次整理：2026-11-07**（来源网站可能继续更新）
@@ -12,7 +14,7 @@ A curated collection of fun and reproducible AI model challenges — Chinese-fir
 
 ---
 
-## 🏷️ 按能力找题
+## 🏷️ 按类型找题
 
 | 分类 | 可以测什么 | 入口 |
 | --- | --- | --- |
@@ -58,6 +60,7 @@ A curated collection of fun and reproducible AI model challenges — Chinese-fir
 ```text
 awesome-ai-tests/
 ├── README.md                   # 首页与精选入口
+├── README.en.md                # English homepage
 ├── data/
 │   ├── cases.json              # 50 道案例的结构化元数据（编辑入口）
 │   └── sources.json            # 资源网站元数据
@@ -65,13 +68,15 @@ awesome-ai-tests/
 │   ├── INDEX.md                # 自动生成的全部案例索引
 │   ├── categories/             # 自动生成的 5 类案例详解
 │   ├── SOURCES.md              # 资源网站导航
-│   └── GUIDE.md                # 使用方式、字段与测试建议
+│   ├── GUIDE.md                # 使用方式、字段与测试建议
+│   └── en/                     # 英文索引、分类、来源和使用指南
 ├── scripts/
 │   ├── build.py                # 从 JSON 生成 Markdown
 │   └── validate.py             # 数据校验、查重
 ├── tests/                      # 数据校验的单元测试
 ├── .github/                    # CI 与投稿 Issue 模板
 ├── CONTRIBUTING.md
+├── CONTRIBUTING.en.md
 └── LICENSE
 ```
 
@@ -95,6 +100,6 @@ python -m unittest discover -s tests -v
 
 ### 版权与致谢
 
-本仓库只整理原创中文简介、观察点和来源索引。原站的 Prompt、网页、SVG、模型输出及其权利归相应权利人或按其许可处理。**仓库的 MIT 许可仅覆盖本仓库原创内容与代码，不对第三方内容授予任何许可。**
+本仓库只整理原创中英文简介、观察点和来源索引。原站的 Prompt、网页、SVG、模型输出及其权利归相应权利人或按其许可处理。**仓库的 MIT 许可仅覆盖本仓库原创内容与代码，不对第三方内容授予任何许可。**
 
 感谢 [Tom Gally](https://gally.net/temp/20260914pelican-alternatives/index.html) 与 [AI 考题博物馆](https://aitestmuseum.com/zh) 的整理；请访问原站查看完整题面与模型成果。本站与上述项目无官方关联。

@@ -9,6 +9,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = {"svg", "animation", "3d", "games", "applications"}
 REQUIRED = {"id", "title", "category", "summary", "checks", "tags", "source_id", "source_item_no", "source_url", "source_credit", "prompt_status", "status", "verified_on"}
+REQUIRED |= {'title_en', 'summary_en', 'checks_en', 'tags_en', 'source_credit_en'}
 
 def check_data(cases, sources):
     errors=[]
@@ -34,6 +35,15 @@ def check_data(cases, sources):
         if not isinstance(c.get('summary'), str) or not c['summary'].strip(): errors.append(f"{prefix}: empty summary")
         if not isinstance(c.get('checks'), list) or len(c['checks']) < 2: errors.append(f"{prefix}: need two checkpoints")
         if not isinstance(c.get('tags'), list) or not c['tags']: errors.append(f"{prefix}: missing tags")
+        for field in ('title_en', 'summary_en', 'source_credit_en'):
+            if not isinstance(c.get(field), str) or not c[field].strip(): errors.append(f"{prefix}: empty {field}")
+        for field in ('checks_en', 'tags_en'):
+            values = c.get(field)
+            minimum = 2 if field == 'checks_en' else 1
+            if not isinstance(values, list) or len(values) < minimum or any(not isinstance(v, str) or not v.strip() for v in values):
+                errors.append(f"{prefix}: invalid {field}")
+            elif len(values) != len(c.get(field.removesuffix('_en'), [])):
+                errors.append(f"{prefix}: translation count mismatch for {field}")
         url = c.get('source_url','')
         try:
             p = urlparse(url)
@@ -44,6 +54,8 @@ def check_data(cases, sources):
         if c.get('status') != 'collected_not_tested': errors.append(f"{prefix}: no unverified test claims")
         counts[c.get('source_id')]+=1
     for s in sources:
+        for field in ('name_en', 'note_en'):
+            if not isinstance(s.get(field), str) or not s[field].strip(): errors.append(f"source {s['id']}: empty {field}")
         if counts[s['id']] != s['count']: errors.append(f"source {s['id']}: advertised {s['count']}, actual {counts[s['id']]}")
     return errors
 

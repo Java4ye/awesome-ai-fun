@@ -21,7 +21,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "An octopus plays a pipe organ, testing both tentacle anatomy and a convincing playing pose.",
+    "checks_en": [
+      "Are the octopus and pipe organ recognizable?",
+      "Do the tentacles visibly operate the keys?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-002",
@@ -45,7 +57,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A giraffe assembles a grandfather clock, combining a long-necked animal with delicate machinery.",
+    "checks_en": [
+      "Are the clock face, pendulum, and tall case clear?",
+      "Does the giraffe assemble the clock rather than just stand beside it?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-003",
@@ -69,7 +93,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A starfish sits at the controls of a bulldozer, testing machinery detail and the driving pose.",
+    "checks_en": [
+      "Are the tracks, blade, and cab recognizable?",
+      "Is the starfish actually driving rather than lying on the vehicle?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-004",
@@ -93,7 +129,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A moose conducts a carousel like an orchestra, testing the relationship between two different actions.",
+    "checks_en": [
+      "Is the carousel structure complete?",
+      "Does the pose communicate conducting?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-005",
@@ -117,7 +165,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A flamingo repairs a telescope, combining slender limbs with detailed equipment.",
+    "checks_en": [
+      "Are the telescope tube and mount coherent?",
+      "Are the repair action and contact points plausible?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-006",
@@ -141,7 +201,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A hedgehog plays an accordion, coordinating its body with the bellows and keyboard.",
+    "checks_en": [
+      "Are the bellows and buttons clear?",
+      "Does the playing pose suggest stretching the bellows?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-007",
@@ -165,7 +237,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A jellyfish operates a Ferris wheel, connecting tentacles, controls, and a large machine.",
+    "checks_en": [
+      "Are the wheel and passenger cabins complete?",
+      "Is the jellyfish clearly operating the wheel?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-008",
@@ -189,7 +273,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "An elephant types on a typewriter, testing how its trunk or limbs interact with small keys.",
+    "checks_en": [
+      "Are the keyboard and paper roller clear?",
+      "Is the body part pressing the keys used plausibly?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-009",
@@ -213,7 +309,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A chameleon tunes a grand piano, testing a complex instrument and a precise action.",
+    "checks_en": [
+      "Are the grand piano case and strings recognizable?",
+      "Does the action show tuning rather than playing?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-010",
@@ -237,7 +345,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A penguin juggles several chainsaws, testing object recognition and implied motion.",
+    "checks_en": [
+      "Are the penguin and chainsaws distinct?",
+      "Are the airborne objects positioned plausibly for juggling?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-011",
@@ -261,7 +381,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A sloth drives an excavator, linking the animal to the cab and mechanical arm.",
+    "checks_en": [
+      "Are the excavator arm and bucket coherent?",
+      "Is the sloth visibly operating the controls?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-012",
@@ -285,7 +417,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A dragonfly balances a large chandelier, combining a delicate creature with an intricate object.",
+    "checks_en": [
+      "Are the chandelier arms and hanging ornaments visible?",
+      "Does the scene convey balancing?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-013",
@@ -309,7 +453,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A rhinoceros paints a tall lighthouse, testing scale differences and a painting pose.",
+    "checks_en": [
+      "Are the lighthouse outline and lantern room clear?",
+      "Are a painting tool and the painting action visible?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-014",
@@ -333,7 +489,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A seahorse examines a microscope, combining a small animal with a precision instrument.",
+    "checks_en": [
+      "Are the eyepiece and stage recognizable?",
+      "Does the pose convey examination or observation?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-015",
@@ -357,7 +525,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A peacock spins a pottery wheel, combining elaborate feathers with a rotating tool.",
+    "checks_en": [
+      "Are the pottery wheel and unfinished pot clear?",
+      "Is the interaction between the peacock and wheel plausible?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-016",
@@ -381,7 +561,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A kangaroo climbs a radio tower, testing pose, support points, and tall structures.",
+    "checks_en": [
+      "Are the tower framework and antennas recognizable?",
+      "Are the limbs placed plausibly to support climbing?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-017",
@@ -405,7 +597,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A lobster polishes a harp, testing contact points and instrument details.",
+    "checks_en": [
+      "Are the harp strings and frame clear?",
+      "Does the scene clearly show polishing or wiping?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-018",
@@ -429,7 +633,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A porcupine pushes a lawnmower, combining spines, a handle, and a pushing pose.",
+    "checks_en": [
+      "Are the mower wheels and handle recognizable?",
+      "Does the pose convey forward pushing?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-019",
@@ -453,7 +669,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A gecko installs a satellite dish on a building, testing attachment and installation poses.",
+    "checks_en": [
+      "Are the dish and mounting bracket clear?",
+      "Are the installation direction and fastening action credible?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-020",
@@ -477,7 +705,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "An iguana carves a wooden totem pole, testing tool use and intricate patterns.",
+    "checks_en": [
+      "Do the totem patterns have clear layers?",
+      "Are the carving tool and working action visible?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-021",
@@ -501,7 +741,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "An armadillo raises a drawbridge, testing the lifting mechanism and raised bridge state.",
+    "checks_en": [
+      "Are the hinge, bridge deck, and ropes clear?",
+      "Does the action fit the bridge-lifting mechanism?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-022",
@@ -525,7 +777,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A mantis studies a sextant, testing recognition of an unfamiliar precision instrument.",
+    "checks_en": [
+      "Are the lenses and curved scale of the sextant credible?",
+      "Do the forelimbs convey examination of the instrument?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-023",
@@ -549,7 +813,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "An ostrich pulls a rickshaw, testing long legs and the direction of pulling forces.",
+    "checks_en": [
+      "Are the rickshaw wheels and passenger compartment correct?",
+      "Are the pulling pose and connections clear?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-024",
@@ -573,7 +849,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A squid takes apart a printing press, testing many mechanical parts and tentacle actions.",
+    "checks_en": [
+      "Are the press rollers and frame clear?",
+      "Do the parts and actions convey disassembly?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-025",
@@ -597,7 +885,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A butterfly inspects a steam engine, combining organic wings with complex machinery.",
+    "checks_en": [
+      "Are features such as cylinders and pipes recognizable?",
+      "Is the inspection action clear?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-026",
@@ -621,7 +921,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A crab descends an external fire escape, testing spatial direction and gait.",
+    "checks_en": [
+      "Are the platforms, railings, and stairs clear?",
+      "Does the pose convey downward movement?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-027",
@@ -645,7 +957,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A giant Venus flytrap swallows a street lamp, testing scale and enclosure relationships.",
+    "checks_en": [
+      "Are the trap leaves and street lamp recognizable?",
+      "Are swallowing and enclosure clearly expressed?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-028",
@@ -669,7 +993,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "Coral cleans a ship's wheel, testing how an unusual subject can express an action.",
+    "checks_en": [
+      "Are the wheel spokes and handles clear?",
+      "Does the anthropomorphic cleaning action read convincingly?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-029",
@@ -693,7 +1029,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "A sea anemone threads a loom, testing dense thin lines and precise movements.",
+    "checks_en": [
+      "Are the warp threads and loom frame clear?",
+      "Does the threading action follow a visible path?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "svg-030",
@@ -717,7 +1065,19 @@
     "source_credit": "Tom Gally / Claude 生成的题集",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "summary_en": "An orchid supports a garden pergola, testing structural support and plant form.",
+    "checks_en": [
+      "Are the pergola posts and beams clear?",
+      "Is the support relationship between orchid and pergola visible?",
+      "Does the SVG render correctly with all key structures present?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Creative drawing",
+      "Relational understanding"
+    ],
+    "source_credit_en": "Tom Gally / Claude-generated challenge collection"
   },
   {
     "id": "museum-001",
@@ -739,7 +1099,19 @@
     "source_credit": "Simon Willison（动画改编）",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Pelican riding a bicycle",
+    "summary_en": "Generate an SVG animation of a pelican riding a bicycle, rather than a static drawing.",
+    "checks_en": [
+      "Are the wheels, pedals, and bird's legs synchronized?",
+      "Can the animation run independently?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "SVG",
+      "Motion"
+    ],
+    "source_credit_en": "Simon Willison (animation adaptation)"
   },
   {
     "id": "museum-002",
@@ -761,7 +1133,19 @@
     "source_credit": "Flavio Adamo（原题改写）",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Bouncing ball inside a spinning hexagon",
+    "summary_en": "Animate a ball bouncing inside a continuously rotating hexagon under gravity and friction.",
+    "checks_en": [
+      "Do rebounds account for the velocity of the rotating walls?",
+      "Does the ball pass through walls or get stuck after running for a while?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Physics",
+      "Collisions"
+    ],
+    "source_credit_en": "Flavio Adamo (adapted prompt)"
   },
   {
     "id": "museum-003",
@@ -783,7 +1167,19 @@
     "source_credit": "Google AI",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Voxel pagoda garden",
+    "summary_en": "Build a colorful voxel pagoda garden with cherry trees from a text description.",
+    "checks_en": [
+      "Are the voxel layers and composition clear?",
+      "Can the scene load in a browser?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "3D",
+      "Aesthetics"
+    ],
+    "source_credit_en": "Google AI"
   },
   {
     "id": "museum-004",
@@ -805,7 +1201,19 @@
     "source_credit": "Greg Brockman",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Minecraft in three.js",
+    "summary_en": "Try generating a simplified browser-based Minecraft with a block world in one attempt.",
+    "checks_en": [
+      "Do movement, collisions, block placement, and block removal work?",
+      "Do terrain and textures display correctly?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "3D",
+      "World generation"
+    ],
+    "source_credit_en": "Greg Brockman"
   },
   {
     "id": "museum-005",
@@ -827,7 +1235,19 @@
     "source_credit": "@nobody_qwert",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Self-solving Rubik's cube",
+    "summary_en": "Build a 3D Rubik's cube that supports scrambling, stepwise turns, and automatic restoration.",
+    "checks_en": [
+      "Do sticker positions stay correct after repeated operations?",
+      "Can the cube reverse the recorded moves after scrambling?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "3D",
+      "State management"
+    ],
+    "source_credit_en": "@nobody_qwert"
   },
   {
     "id": "museum-006",
@@ -849,7 +1269,19 @@
     "source_credit": "BridgeMind（题面改写）",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "One-shot kart racing game",
+    "summary_en": "Use a short request to generate a single-file 3D kart racing game.",
+    "checks_en": [
+      "Can the player drive, drift, and finish the course?",
+      "Do opponents, items, and lap counts work together?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Games",
+      "Controls"
+    ],
+    "source_credit_en": "BridgeMind (adapted prompt)"
   },
   {
     "id": "museum-007",
@@ -871,7 +1303,19 @@
     "source_credit": "AI/ML API 模型对比",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Meteor hitting a city",
+    "summary_en": "Generate a browser demo showing a falling meteor, a shock wave, and changes to a city.",
+    "checks_en": [
+      "Are the impact events in a coherent sequence?",
+      "Are city buildings and effects recognizable?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "3D",
+      "Visual effects"
+    ],
+    "source_credit_en": "AI/ML API model comparison"
   },
   {
     "id": "museum-008",
@@ -893,7 +1337,19 @@
     "source_credit": "AI/ML API 模型对比",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Supernova explosion",
+    "summary_en": "Animate a star's evolution into a supernova and its remnant.",
+    "checks_en": [
+      "Are expansion, collapse, and explosion shown coherently?",
+      "Are the animation stages and visual layers clear?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Animation",
+      "Science communication"
+    ],
+    "source_credit_en": "AI/ML API model comparison"
   },
   {
     "id": "museum-009",
@@ -915,7 +1371,19 @@
     "source_credit": "社区经典题",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Flappy Bird in one file",
+    "summary_en": "Create a playable Flappy Bird-style game in a single web page.",
+    "checks_en": [
+      "Do clicks or key presses make the character jump?",
+      "Do collisions, scoring, and restarting work?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Games",
+      "Single file"
+    ],
+    "source_credit_en": "Community classic"
   },
   {
     "id": "museum-010",
@@ -937,7 +1405,19 @@
     "source_credit": "社区经典题",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Tetris in one file",
+    "summary_en": "Generate a Tetris game with rotation, line clearing, and level progression.",
+    "checks_en": [
+      "Do rotation, movement, falling, and line clearing work correctly?",
+      "Do the next-piece preview and score update?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Games",
+      "Logic"
+    ],
+    "source_credit_en": "Community classic"
   },
   {
     "id": "museum-011",
@@ -959,7 +1439,19 @@
     "source_credit": "社区经典题",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Solar system simulation",
+    "summary_en": "Use browser animation to show the relationships between the Sun and orbiting planets.",
+    "checks_en": [
+      "Are orbital motion and the arrangement of planets clear?",
+      "Are choices about speed or scale explained?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "3D",
+      "Science communication"
+    ],
+    "source_credit_en": "Community classic"
   },
   {
     "id": "museum-012",
@@ -981,7 +1473,19 @@
     "source_credit": "@chetaslua",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "An operating system in one HTML file",
+    "summary_en": "Build a desktop with windows and multiple applications in a single HTML page.",
+    "checks_en": [
+      "Do window dragging, focus, and closing work?",
+      "Can features such as the text editor actually be used?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Apps",
+      "UI"
+    ],
+    "source_credit_en": "@chetaslua"
   },
   {
     "id": "museum-013",
@@ -1003,7 +1507,19 @@
     "source_credit": "Ethan Mollick",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Drowned Gothic city shader",
+    "summary_en": "Use a shader to draw a partially submerged Gothic city in a storm.",
+    "checks_en": [
+      "Do the towers, rain, and atmosphere form a convincing scene?",
+      "Does rendering remain stable over time?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Shader",
+      "Aesthetics"
+    ],
+    "source_credit_en": "Ethan Mollick"
   },
   {
     "id": "museum-014",
@@ -1025,7 +1541,19 @@
     "source_credit": "Pietro Schirano（题面改写）",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Brick builder",
+    "summary_en": "Create a 3D editor for placing, rotating, recoloring, and deleting bricks.",
+    "checks_en": [
+      "Do grid snapping and brick stacking behave plausibly?",
+      "Do mouse picking and camera controls work?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Apps",
+      "3D editing"
+    ],
+    "source_credit_en": "Pietro Schirano (adapted prompt)"
   },
   {
     "id": "museum-015",
@@ -1047,7 +1575,19 @@
     "source_credit": "@levelsio",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "3D flight game among skyscrapers",
+    "summary_en": "Generate a browser flight game through skyscrapers from a short instruction.",
+    "checks_en": [
+      "Are the flight controls and following camera comfortable to use?",
+      "Are city generation and the game objective clear?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Games",
+      "3D"
+    ],
+    "source_credit_en": "@levelsio"
   },
   {
     "id": "museum-016",
@@ -1069,7 +1609,19 @@
     "source_credit": "@EHuanglu",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Hand-controlled particles",
+    "summary_en": "Use webcam hand gestures to change the shapes of Three.js particles.",
+    "checks_en": [
+      "Are webcam permissions and gesture recognition reliable?",
+      "Can particles change in real time and switch shapes?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Animation",
+      "Gestures"
+    ],
+    "source_credit_en": "@EHuanglu"
   },
   {
     "id": "museum-017",
@@ -1091,7 +1643,19 @@
     "source_credit": "@Yuchenj_UW（原题改写）",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Bouncing ball inside a hypercube",
+    "summary_en": "Animate a bouncing ball inside a rotating four-dimensional hypercube.",
+    "checks_en": [
+      "Is the projection of the higher-dimensional structure understandable?",
+      "Do collisions agree with the displayed scene?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Physics",
+      "Higher dimensions"
+    ],
+    "source_credit_en": "@Yuchenj_UW (adapted prompt)"
   },
   {
     "id": "museum-018",
@@ -1113,7 +1677,19 @@
     "source_credit": "Ethan Mollick",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Starship control panel",
+    "summary_en": "Use p5.js to generate an imaginative futuristic starship control panel.",
+    "checks_en": [
+      "Are the instruments and visual design inventive?",
+      "Is interaction feedback clear?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Creativity",
+      "p5.js"
+    ],
+    "source_credit_en": "Ethan Mollick"
   },
   {
     "id": "museum-019",
@@ -1135,7 +1711,19 @@
     "source_credit": "Brian Moore / AI World Clocks",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Analog clock showing 10:10",
+    "summary_en": "Draw an HTML/CSS clock showing 10:10 with a continuously moving second hand.",
+    "checks_en": [
+      "Are the hour-hand and minute-hand angles correct?",
+      "Do the second-hand animation and responsive layout work?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "Animation",
+      "Spatial reasoning"
+    ],
+    "source_credit_en": "Brian Moore / AI World Clocks"
   },
   {
     "id": "museum-020",
@@ -1157,6 +1745,18 @@
     "source_credit": "xAI Grok 3 发布演示（题面改写）",
     "prompt_status": "source_only",
     "status": "collected_not_tested",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "title_en": "Earth-Mars round trip",
+    "summary_en": "Use three.js to animate a trip from Earth to Mars and a return timed to a launch window.",
+    "checks_en": [
+      "Are transfer orbits and timing represented plausibly?",
+      "Are launch, landing, and return stages clear?",
+      "Does the result run or support the required interaction, rather than only provide a screenshot?"
+    ],
+    "tags_en": [
+      "3D",
+      "Orbits"
+    ],
+    "source_credit_en": "xAI Grok 3 launch demo (adapted prompt)"
   }
 ]

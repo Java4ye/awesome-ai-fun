@@ -1,12 +1,18 @@
 # 动画与物理
 
+**简体中文** | [English](../en/categories/animation.md)
+
 > 让画面真正动起来 · 共 **8 道**
 
 [← 返回首页](../../README.md) · [全部案例](../INDEX.md)
 
+> 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
+
 ## 鹈鹕骑自行车
 
 **编号**：`museum-001` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/pelican-bicycle)（原站第 1 题）
+
+**英文标题**：Pelican riding a bicycle
 
 使用代码生成鹈鹕骑车的 SVG 动画，不只是静态画面。
 
@@ -28,6 +34,8 @@
 
 **编号**：`museum-002` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon)（原站第 2 题）
 
+**英文标题**：Bouncing ball inside a spinning hexagon
+
 小球在持续旋转的六边形里弹跳，涉及重力与摩擦。
 
 **原站署名 / 来源线索**：Flavio Adamo（原题改写）
@@ -47,6 +55,8 @@
 ## 超新星爆发
 
 **编号**：`museum-008` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/supernova)（原站第 8 题）
+
+**英文标题**：Supernova explosion
 
 展示恒星演化到超新星爆发及残骸的动画。
 
@@ -68,6 +78,8 @@
 
 **编号**：`museum-013` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/drowned-gothic-city)（原站第 13 题）
 
+**英文标题**：Drowned Gothic city shader
+
 使用着色器绘制暴风雨中的半淹没哥特城市。
 
 **原站署名 / 来源线索**：Ethan Mollick
@@ -87,6 +99,8 @@
 ## 用双手控制的粒子
 
 **编号**：`museum-016` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/hand-gesture-particles)（原站第 16 题）
+
+**英文标题**：Hand-controlled particles
 
 摄像头双手手势驱动 Three.js 粒子形状变化。
 
@@ -108,6 +122,8 @@
 
 **编号**：`museum-017` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/tesseract-ball)（原站第 17 题）
 
+**英文标题**：Bouncing ball inside a hypercube
+
 旋转四维超立方体里弹跳的小球，挑战高维可视化。
 
 **原站署名 / 来源线索**：@Yuchenj_UW（原题改写）
@@ -128,6 +144,8 @@
 
 **编号**：`museum-018` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/starship-control-panel)（原站第 18 题）
 
+**英文标题**：Starship control panel
+
 借助 p5.js 生成充满想象力的未来星舰控制台。
 
 **原站署名 / 来源线索**：Ethan Mollick
@@ -147,6 +165,8 @@
 ## 指向 10:10 的指针时钟
 
 **编号**：`museum-019` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/ai-world-clock)（原站第 19 题）
+
+**英文标题**：Analog clock showing 10:10
 
 用 HTML/CSS 画出指向 10:10 并持续走秒的时钟。
 

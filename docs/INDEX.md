@@ -1,8 +1,10 @@
 # 全部测试案例
 
+**简体中文** | [English](en/INDEX.md)
+
 > 收录 **50 道**公开来源的 AI 测试案例。这里是导航与整理，不代表已经由本仓库实测。
 
-按类别查看：[SVG 绘画 (30)](categories/svg.md) · [动画与物理 (8)](categories/animation.md) · [3D 与空间 (6)](categories/3d.md) · [游戏开发 (4)](categories/games.md) · [应用与交互 (2)](categories/applications.md)
+按类型查看：[SVG 绘画 (30)](categories/svg.md) · [动画与物理 (8)](categories/animation.md) · [3D 与空间 (6)](categories/3d.md) · [游戏开发 (4)](categories/games.md) · [应用与交互 (2)](categories/applications.md)
 
 | 编号 | 案例 | 分类 | 来源 |
 | --- | --- | --- | --- |
