@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gally",
+    "name": "Pelican-bicycle alternatives",
+    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+    "about_url": "https://gally.net/temp/20260914pelican-alternatives/about.html",
+    "count": 30,
+    "note": "30 道“生物 + 不寻常动作 + 复杂机械”的 SVG 绘画题。原站展示多个模型的输出；2026 轮次当前只覆盖前 10 题。",
+    "verified_on": "2026-11-07"
+  },
+  {
+    "id": "museum",
+    "name": "AI 考题博物馆",
+    "url": "https://aitestmuseum.com/zh",
+    "about_url": "https://aitestmuseum.com/zh",
+    "count": 20,
+    "note": "动画、游戏、3D 场景、应用四类的经典挑战。部分题面是原题的改写；请以详情页为准。",
+    "verified_on": "2026-11-07"
+  }
+]

@@ -1,0 +1,20 @@
+name: Validate catalog
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate cases
+        run: python scripts/validate.py
+      - name: Verify generated Markdown is up to date
+        run: python scripts/build.py --check
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
