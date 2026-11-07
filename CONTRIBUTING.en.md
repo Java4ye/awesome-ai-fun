@@ -42,3 +42,9 @@ Direct JSON contributions need complete bilingual fields to pass validation. If 
 Our descriptions and translations are not original prompts or official scoring rules. If you test a translated or adapted prompt, record its language and version. Request corrections or removal through an Issue.
 
 All third-party materials remain subject to their owners' rights. This repository's license does not automatically license linked works, images, code, or prompts.
+
+## Add historical outputs
+
+Add a record to `data/history.json` linked to a case ID. Record the creator or publisher, model version, run period, source, and output URL. Do not confuse a task's originator with the author of a later reproduction. Leave undisclosed dates and parameters unknown. Prefer source-site playback for videos.
+
+Saved previews also need an original image URL, specific license basis, preserved license, fixed revision, SHA-256, and run-record snapshot. Validate and regenerate both languages. See the [media notice](THIRD_PARTY_MEDIA.en.md). Use media feedback Issues for attribution corrections, broken links, or removal requests.

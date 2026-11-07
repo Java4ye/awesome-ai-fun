@@ -5,18 +5,20 @@ from collections import Counter
 import argparse
 import json
 import sys
+from history import check_history, group_history, history_lines, render_history
 
 ROOT=Path(__file__).resolve().parents[1]
 CATEGORIES=[('svg','SVG 绘画','画出来，更要画得对'),('animation','动画与物理','让画面真正动起来'),('3d','3D 与空间','把空间关系做正确'),('games','游戏开发','不仅能看，还要能玩'),('applications','应用与交互','从好看的界面走向可用的功能')]
 EN_CATEGORIES=[('svg','SVG Drawing','Draw recognizable objects and believable relationships'),('animation','Animation & Physics','Make motion and simulation work'),('3d','3D & Spatial Scenes','Build coherent spatial relationships'),('games','Games','Make something playable'),('applications','Apps & Interaction','Turn interfaces into usable features')]
 
 
-def render(cases, sources, language='zh'):
+def render(cases, sources, language='zh', history=()):
     english = language == 'en'
     categories = EN_CATEGORIES if english else CATEGORIES
     suffix = '_en' if english else ''
     base = Path('docs/en') if english else Path('docs')
     source_names = {s['id']: s['name'+suffix] for s in sources}
+    historical = group_history(history)
     count=Counter(c['category'] for c in cases)
     order={name:i for i,(name,_,_) in enumerate(CATEGORIES)}
     cases=sorted(cases,key=lambda c:(order[c['category']],c['source_id'],c['source_item_no']))
@@ -47,6 +49,7 @@ def render(cases, sources, language='zh'):
                 f'**Prompts and outputs**: [View the source]({c["source_url"]}) · **Test status in this repository**: Not tested' if english else f'**提示词与作品**：[前往原站查看]({c["source_url"]}) · **本库测试情况**：未实测', ''])
             if c['source_id']=='gally':
                 lines.extend([f'> All Gally challenges share one page. Find source item **{c["source_item_no"]}** after opening it.' if english else f'> 提示：Gally 的题目都在同一页面，进入后按原站编号 **{c["source_item_no"]}** 查找。', ''])
+            lines.extend(history_lines(historical[c['id']], language, '../../../' if english else '../../'))
             lines.extend(['---',''])
         pages[base/'categories'/f'{key}.md']='\n'.join(lines).rstrip()+'\n'
         for c in entries:
@@ -68,9 +71,12 @@ def main():
     from validate import check_data
     sources=json.loads((ROOT/'data/sources.json').read_text(encoding='utf-8'))
     problems=check_data(cases,sources)
+    history=json.loads((ROOT/'data/history.json').read_text(encoding='utf-8'))
+    problems.extend(check_history(cases,history,ROOT))
     if problems:
         print('Catalog invalid: '+ '; '.join(problems));return 1
-    pages={**render(cases,sources), **render(cases,sources,'en')}
+    pages={**render(cases,sources,history=history), **render(cases,sources,'en',history),
+           **render_history(cases,history,'zh'), **render_history(cases,history,'en')}
     mismatch=[]
     for rel,contents in pages.items():
         path=ROOT/rel

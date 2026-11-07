@@ -28,6 +28,14 @@ An octopus plays a pipe organ, testing both tentacle anatomy and a convincing pl
 
 > All Gally challenges share one page. Find source item **1** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-1) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A giraffe assembling a grandfather clock
@@ -49,6 +57,14 @@ A giraffe assembles a grandfather clock, combining a long-necked animal with del
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **2** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-2) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -72,6 +88,14 @@ A starfish sits at the controls of a bulldozer, testing machinery detail and the
 
 > All Gally challenges share one page. Find source item **3** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-3) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A moose conducting a carousel
@@ -93,6 +117,14 @@ A moose conducts a carousel like an orchestra, testing the relationship between 
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **4** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-4) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -116,6 +148,14 @@ A flamingo repairs a telescope, combining slender limbs with detailed equipment.
 
 > All Gally challenges share one page. Find source item **5** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-5) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A hedgehog playing an accordion
@@ -137,6 +177,14 @@ A hedgehog plays an accordion, coordinating its body with the bellows and keyboa
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **6** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-6) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -160,6 +208,14 @@ A jellyfish operates a Ferris wheel, connecting tentacles, controls, and a large
 
 > All Gally challenges share one page. Find source item **7** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-7) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## An elephant typing on a typewriter
@@ -181,6 +237,14 @@ An elephant types on a typewriter, testing how its trunk or limbs interact with 
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **8** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-8) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -204,6 +268,14 @@ A chameleon tunes a grand piano, testing a complex instrument and a precise acti
 
 > All Gally challenges share one page. Find source item **9** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-9) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A penguin juggling chainsaws
@@ -225,6 +297,14 @@ A penguin juggles several chainsaws, testing object recognition and implied moti
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **10** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-10) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -248,6 +328,14 @@ A sloth drives an excavator, linking the animal to the cab and mechanical arm.
 
 > All Gally challenges share one page. Find source item **11** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-11) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A dragonfly balancing a chandelier
@@ -269,6 +357,14 @@ A dragonfly balances a large chandelier, combining a delicate creature with an i
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **12** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-12) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -292,6 +388,14 @@ A rhinoceros paints a tall lighthouse, testing scale differences and a painting 
 
 > All Gally challenges share one page. Find source item **13** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-13) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A seahorse examining a microscope
@@ -313,6 +417,14 @@ A seahorse examines a microscope, combining a small animal with a precision inst
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **14** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-14) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -336,6 +448,14 @@ A peacock spins a pottery wheel, combining elaborate feathers with a rotating to
 
 > All Gally challenges share one page. Find source item **15** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-15) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A kangaroo climbing a radio tower
@@ -357,6 +477,14 @@ A kangaroo climbs a radio tower, testing pose, support points, and tall structur
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **16** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-16) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -380,6 +508,14 @@ A lobster polishes a harp, testing contact points and instrument details.
 
 > All Gally challenges share one page. Find source item **17** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-17) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A porcupine pushing a lawnmower
@@ -401,6 +537,14 @@ A porcupine pushes a lawnmower, combining spines, a handle, and a pushing pose.
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **18** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-18) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -424,6 +568,14 @@ A gecko installs a satellite dish on a building, testing attachment and installa
 
 > All Gally challenges share one page. Find source item **19** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-19) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## An iguana carving a totem pole
@@ -445,6 +597,14 @@ An iguana carves a wooden totem pole, testing tool use and intricate patterns.
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **20** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-20) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -468,6 +628,14 @@ An armadillo raises a drawbridge, testing the lifting mechanism and raised bridg
 
 > All Gally challenges share one page. Find source item **21** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-21) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A mantis studying a sextant
@@ -489,6 +657,14 @@ A mantis studies a sextant, testing recognition of an unfamiliar precision instr
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **22** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-22) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -512,6 +688,14 @@ An ostrich pulls a rickshaw, testing long legs and the direction of pulling forc
 
 > All Gally challenges share one page. Find source item **23** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-23) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A squid disassembling a printing press
@@ -533,6 +717,14 @@ A squid takes apart a printing press, testing many mechanical parts and tentacle
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **24** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-24) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -556,6 +748,14 @@ A butterfly inspects a steam engine, combining organic wings with complex machin
 
 > All Gally challenges share one page. Find source item **25** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-25) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## A crab descending a fire escape
@@ -577,6 +777,14 @@ A crab descends an external fire escape, testing spatial direction and gait.
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **26** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-26) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -600,6 +808,14 @@ A giant Venus flytrap swallows a street lamp, testing scale and enclosure relati
 
 > All Gally challenges share one page. Find source item **27** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-27) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## Coral cleaning a ship's wheel
@@ -621,6 +837,14 @@ Coral cleans a ship's wheel, testing how an unusual subject can express an actio
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **28** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-28) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---
 
@@ -644,6 +868,14 @@ A sea anemone threads a loom, testing dense thin lines and precise movements.
 
 > All Gally challenges share one page. Find source item **29** after opening it.
 
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-29) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
 ---
 
 ## An orchid supporting a pergola
@@ -665,5 +897,13 @@ An orchid supports a garden pergola, testing structural support and plant form.
 **Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **30** after opening it.
+
+### Historical outputs
+
+**Gemini 2.5 Pro** · Autumn 2025 · Tom Gally / Pelican-bicycle alternatives
+
+[View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-30) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
 
 ---

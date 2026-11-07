@@ -26,6 +26,14 @@ Build a desktop with windows and multiple applications in a single HTML page.
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/web-os-desktop) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [Source record](https://aitestmuseum.com/zh/tests/web-os-desktop) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## Brick builder
@@ -45,5 +53,13 @@ Create a 3D editor for placing, rotating, recoloring, and deleting bricks.
 **Tags**: `Apps`, `3D editing`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/brick-builder) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [Source record](https://aitestmuseum.com/zh/tests/brick-builder) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---

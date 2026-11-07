@@ -4,6 +4,11 @@
 
 ## Unreleased
 
+- Add historical output links, model attribution, run periods, and environments for all original 50 tasks.
+- Add a separate Pelican SDF 3D extension: 51 tasks, 3 sources, and 55 output records.
+- Add five MIT-licensed upstream thumbnails, source snapshots, full license, and bilingual history galleries.
+- Add media correction / removal templates and image integrity validation.
+
 - Add language switches to homepages, contribution guides, usage guides, source directories, and changelogs.
 - Complete English titles, summaries, observation points, tags, and attribution leads for all 50 challenges.
 - Generate Chinese and English indexes and five category pages from shared JSON, with translation-field and count validation.

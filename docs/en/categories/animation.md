@@ -26,6 +26,14 @@ Generate an SVG animation of a pelican riding a bicycle, rather than a static dr
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/pelican-bicycle) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/pelican-bicycle/output.html) · [Source record](https://aitestmuseum.com/zh/tests/pelican-bicycle) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## Bouncing ball inside a spinning hexagon
@@ -45,6 +53,14 @@ Animate a ball bouncing inside a continuously rotating hexagon under gravity and
 **Tags**: `Physics`, `Collisions`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/bouncing-ball-hexagon/output.html) · [Source record](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---
 
@@ -66,6 +82,14 @@ Animate a star's evolution into a supernova and its remnant.
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/supernova) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/supernova/output.html) · [Source record](https://aitestmuseum.com/zh/tests/supernova) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## Drowned Gothic city shader
@@ -85,6 +109,14 @@ Use a shader to draw a partially submerged Gothic city in a storm.
 **Tags**: `Shader`, `Aesthetics`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/drowned-gothic-city) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/drowned-gothic-city/output.html) · [Source record](https://aitestmuseum.com/zh/tests/drowned-gothic-city) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---
 
@@ -106,6 +138,14 @@ Use webcam hand gestures to change the shapes of Three.js particles.
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/hand-gesture-particles) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/hand-gesture-particles/output.html) · [Source record](https://aitestmuseum.com/zh/tests/hand-gesture-particles) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## Bouncing ball inside a hypercube
@@ -125,6 +165,14 @@ Animate a bouncing ball inside a rotating four-dimensional hypercube.
 **Tags**: `Physics`, `Higher dimensions`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/tesseract-ball) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/tesseract-ball/output.html) · [Source record](https://aitestmuseum.com/zh/tests/tesseract-ball) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---
 
@@ -146,6 +194,14 @@ Use p5.js to generate an imaginative futuristic starship control panel.
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/starship-control-panel) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/starship-control-panel/output.html) · [Source record](https://aitestmuseum.com/zh/tests/starship-control-panel) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## Analog clock showing 10:10
@@ -165,5 +221,13 @@ Draw an HTML/CSS clock showing 10:10 with a continuously moving second hand.
 **Tags**: `Animation`, `Spatial reasoning`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/ai-world-clock) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/ai-world-clock/output.html) · [Source record](https://aitestmuseum.com/zh/tests/ai-world-clock) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---

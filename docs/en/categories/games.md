@@ -26,6 +26,14 @@ Use a short request to generate a single-file 3D kart racing game.
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/kart-racer) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [Source record](https://aitestmuseum.com/zh/tests/kart-racer) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## Flappy Bird in one file
@@ -45,6 +53,14 @@ Create a playable Flappy Bird-style game in a single web page.
 **Tags**: `Games`, `Single file`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/flappy-bird) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [Source record](https://aitestmuseum.com/zh/tests/flappy-bird) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---
 
@@ -66,6 +82,14 @@ Generate a Tetris game with rotation, line clearing, and level progression.
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/tetris) · **Test status in this repository**: Not tested
 
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [Source record](https://aitestmuseum.com/zh/tests/tetris) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
 ---
 
 ## 3D flight game among skyscrapers
@@ -85,5 +109,13 @@ Generate a browser flight game through skyscrapers from a short instruction.
 **Tags**: `Games`, `3D`
 
 **Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/flight-sim) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [Source record](https://aitestmuseum.com/zh/tests/flight-sim) · [Test context](https://aitestmuseum.com/zh#methodology)
+
+Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
 
 ---

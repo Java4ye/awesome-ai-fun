@@ -20,5 +20,16 @@
     "verified_on": "2026-11-07",
     "name_en": "AI Test Museum",
     "note_en": "20 classic challenges covering animation, games, 3D scenes, and applications. Some prompts are adaptations; refer to each detail page."
+  },
+  {
+    "id": "pelican-sdf",
+    "name": "Pelican SDF",
+    "name_en": "Pelican SDF",
+    "url": "https://github.com/AzatJalilov/PelicanSdf",
+    "about_url": "https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/README.md",
+    "count": 1,
+    "note": "可交互 3D SDF 鹈鹕骑车挑战，保留原始输出、逐次记录及缩略图。这里只收录一道题，多个模型输出不重复计数。",
+    "note_en": "An interactive 3D SDF pelican challenge with original outputs, run records, and thumbnails. Indexed as one task; model outputs are not counted as extra tasks.",
+    "verified_on": "2026-11-07"
   }
 ]

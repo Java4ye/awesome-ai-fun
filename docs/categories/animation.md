@@ -28,6 +28,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/pelican-bicycle) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/pelican-bicycle/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/pelican-bicycle) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 旋转六边形里的弹跳球
@@ -49,6 +57,14 @@
 **标签**：`物理`, `碰撞`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/bouncing-ball-hexagon/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---
 
@@ -72,6 +88,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/supernova) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/supernova/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/supernova) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 沉没的哥特城市着色器
@@ -93,6 +117,14 @@
 **标签**：`Shader`, `审美`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/drowned-gothic-city) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/drowned-gothic-city/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/drowned-gothic-city) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---
 
@@ -116,6 +148,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/hand-gesture-particles) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/hand-gesture-particles/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/hand-gesture-particles) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 超立方体里的弹跳球
@@ -137,6 +177,14 @@
 **标签**：`物理`, `高维`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/tesseract-ball) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/tesseract-ball/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/tesseract-ball) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---
 
@@ -160,6 +208,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/starship-control-panel) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/starship-control-panel/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/starship-control-panel) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 指向 10:10 的指针时钟
@@ -181,5 +237,13 @@
 **标签**：`动画`, `空间`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/ai-world-clock) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/ai-world-clock/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/ai-world-clock) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---

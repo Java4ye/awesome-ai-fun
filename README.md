@@ -7,10 +7,10 @@
 
 A curated collection of fun and reproducible AI model challenges — in Chinese and English, with source links.
 
-**📦 首批收录：50 道案例 · 2 个资源网站 · 5 个分类**（后续数量以 [完整索引](docs/INDEX.md) 为准）  
+**📦 当前收录：51 道案例 · 3 个资源网站 · 5 个分类**（首批版本为 50 道）  
 **🗓️ 本次整理：2026-11-07**（来源网站可能继续更新）
 
-[📚 浏览全部 50 道题](docs/INDEX.md) · [🔎 资源网站导航](docs/SOURCES.md) · [🧭 怎么使用](docs/GUIDE.md) · [🤝 贡献新案例](CONTRIBUTING.md)
+[📚 全部案例](docs/INDEX.md) · [🖼️ 效果预览](docs/GALLERY.md) · [🕰️ 历史效果](docs/HISTORY.md) · [🔎 资源网站](docs/SOURCES.md) · [🧭 使用指南](docs/GUIDE.md) · [🤝 贡献](CONTRIBUTING.md)
 
 ---
 
@@ -39,12 +39,26 @@ A curated collection of fun and reproducible AI model challenges — in Chinese 
 
 ## 📚 资源网站
 
-这版先从两个真实存在、可访问的合集开始，不为了凑数添加未经核实的链接。
+从可追溯的合集与项目收录题目，并保留实际模型输出的观看入口。
 
 1. **[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)** — 30 个脑洞 SVG 绘画题，重点是生物、机器与意想不到的动作关系。原站提供模型生成结果对比。
 2. **[AI 考题博物馆](https://aitestmuseum.com/zh)** — 20 个经典代码与视觉挑战，覆盖动画、3D、小游戏和应用，提供题面与运行作品。
 
+3. **[Pelican SDF](https://github.com/AzatJalilov/PelicanSdf)** — 用代码构建可交互的 3D 鹈鹕骑车场景，保留逐次记录、输出与缩略图。按一道独立的 3D 题收录。
+
 → [查看来源介绍及原站说明](docs/SOURCES.md)
+
+## 🖼️ 先看看实际效果
+
+以下是 **Pelican SDF 的 3D 延伸题**在不同模型下的原项目缩略图。运行日期均为 **2026-07-18**；不是现有 SVG 动画题的结果，也不构成模型排名。静态图不能验证交互。
+
+| Gemini 3.1 Pro Preview · high | GLM 5.2 · high | GPT-5.5 · 构图问题示例 |
+| --- | --- | --- |
+| [![Gemini 3.1 Pro Preview](assets/previews/pelican-sdf/gemini-3-1-pro-high-run-01.jpg)](https://pelican.vibe-overflow.com/result.html?id=gemini-3-1-pro-high-run-01) | [![GLM 5.2](assets/previews/pelican-sdf/glm-5-2-high-run-01.jpg)](https://pelican.vibe-overflow.com/result.html?id=glm-5-2-high-run-01) | [![GPT-5.5 构图问题](assets/previews/pelican-sdf/gpt-5-5-run-01.jpg)](https://pelican.vibe-overflow.com/result.html?id=gpt-5-5-run-01) |
+
+图片出处：**AzatJalilov / Pelican SDF contributors**，Copyright (c) 2026 Pelican SDF contributors，[MIT 许可](assets/licenses/pelican-sdf-MIT.txt)，原项目缩略图未修改。逐张原图、模型记录和局限说明见 [全部 5 张预览](docs/GALLERY.md)及 [素材署名说明](THIRD_PARTY_MEDIA.md)。
+
+原有 50 道题也已补齐观看入口：SVG 题可回到原站的具体题号及历史 SVG，动画、3D、游戏、应用题可打开来源方原始答案。查看 [55 条历史效果记录](docs/HISTORY.md)。这些都是来源方记录，本库未重新调用旧模型或验证其生成过程。
 
 ## 🧪 怎么测试？
 
@@ -53,7 +67,7 @@ A curated collection of fun and reproducible AI model challenges — in Chinese 
 3. 使用你自己的 AI 模型复现，记录模型名称、运行方式、日期，以及是否修改过提示词。
 4. 对照每道题的“可以观察什么”做判断：**能运行**和**效果好**是两回事。
 
-注意：这个仓库是**资料索引**，并未跑过这 50 道题；不应把原站不同模型、不同运行环境下的结果当作统一排行榜。查看 [测试记录建议](docs/GUIDE.md)。
+注意：这个仓库是**资料索引**，并未独立实测这些题目；不应把原站不同模型、不同运行环境下的结果当作统一排行榜。查看 [测试记录建议](docs/GUIDE.md)。
 
 ## 📁 仓库结构
 
@@ -62,10 +76,14 @@ awesome-ai-tests/
 ├── README.md                   # 首页与精选入口
 ├── README.en.md                # English homepage
 ├── data/
-│   ├── cases.json              # 50 道案例的结构化元数据（编辑入口）
-│   └── sources.json            # 资源网站元数据
+│   ├── cases.json              # 案例的结构化元数据（编辑入口）
+│   ├── sources.json            # 资源网站元数据
+│   ├── history.json            # 历史效果、出处与素材许可
+│   └── upstream/               # 采用素材的来源记录快照
+├── assets/                     # 有许可的预览与许可证副本
 ├── docs/
 │   ├── INDEX.md                # 自动生成的全部案例索引
+│   ├── HISTORY.md / GALLERY.md  # 历史效果与精选预览
 │   ├── categories/             # 自动生成的 5 类案例详解
 │   ├── SOURCES.md              # 资源网站导航
 │   ├── GUIDE.md                # 使用方式、字段与测试建议
@@ -100,6 +118,6 @@ python -m unittest discover -s tests -v
 
 ### 版权与致谢
 
-本仓库只整理原创中英文简介、观察点和来源索引。原站的 Prompt、网页、SVG、模型输出及其权利归相应权利人或按其许可处理。**仓库的 MIT 许可仅覆盖本仓库原创内容与代码，不对第三方内容授予任何许可。**
+本仓库整理原创中英文简介、观察点和来源索引，并按具体许可展示少量第三方预览。原站的 Prompt、网页、SVG、模型输出及其权利归相应权利人或按其许可处理。**仓库的 MIT 许可仅覆盖本仓库原创内容与代码；第三方预览按其各自许可处理，见[素材说明](THIRD_PARTY_MEDIA.md)。**
 
 感谢 [Tom Gally](https://gally.net/temp/20260914pelican-alternatives/index.html) 与 [AI 考题博物馆](https://aitestmuseum.com/zh) 的整理；请访问原站查看完整题面与模型成果。本站与上述项目无官方关联。

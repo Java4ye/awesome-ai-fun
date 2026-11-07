@@ -4,7 +4,7 @@
 
 [← 返回首页](../README.md) · [全部案例](INDEX.md)
 
-当前只收录以下两个实际核对过的来源。收录数量是 **2026-11-07 整理时的页面数量**，并非网站永久固定数量。
+当前收录以下三个可追溯的来源。收录数量是 **2026-11-07 整理时的页面数量**，并非网站永久固定数量。
 
 ## 1. Pelican-bicycle alternatives
 
@@ -24,6 +24,14 @@
 - **注意**：原站注明有些题目是改写版；原站展示结果处于特定 Agent 环境，部分题目有重新作答的记录。对比时不能忽略这些条件。
 - **使用条款**：https://aitestmuseum.com/zh/terms
 - **本仓库做了什么**：逐条建立直达案例页面的索引，新增原创中文介绍与观察要点。
+
+## 3. Pelican SDF
+
+- **项目**：[AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)
+- **题面与版本**：[固定版本原题](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)
+- **本库收录**：1 道独立的 3D SDF 鹈鹕骑车题，不与 SVG 动画题混为一题。
+- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [精选预览](GALLERY.md)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。
+- **条件**：上游模型输出来自不同 CLI / SDK 环境，记录标为 unverified；本库未独立复现，不用缩略图建立成绩排名。
 
 ## 推荐的收录流程
 

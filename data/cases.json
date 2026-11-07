@@ -1758,5 +1758,43 @@
       "Orbits"
     ],
     "source_credit_en": "xAI Grok 3 launch demo (adapted prompt)"
+  },
+  {
+    "id": "pelican-sdf-001",
+    "title": "用 SDF 构建可交互的 3D 鹈鹕骑车",
+    "title_en": "Interactive 3D pelican on a bicycle with SDFs",
+    "category": "3d",
+    "summary": "用代码定义有符号距离场、光线步进、材质和相机，构建可旋转、缩放检查的 3D 鹈鹕骑车场景。这是独立的 3D 延伸题，不是 SVG 动画题的同题结果。",
+    "summary_en": "Build a 3D pelican-on-a-bicycle scene with signed distance fields, ray marching, materials, and camera controls. This is a separate 3D extension, not an output for the SVG animation task.",
+    "checks": [
+      "鸟、车轮、车架和骑车姿态能否从多个角度辨认",
+      "旋转、缩放与近距离观察是否正常",
+      "初始构图是否完整，是否出现裁切或空白画面"
+    ],
+    "checks_en": [
+      "Are the bird, wheels, frame, and riding pose recognizable from several angles?",
+      "Do orbit, zoom, and close-up inspection work?",
+      "Does the initial framing show the subject, rather than a cropped or blank scene?"
+    ],
+    "tags": [
+      "3D",
+      "SDF",
+      "光线步进",
+      "相机控制"
+    ],
+    "tags_en": [
+      "3D",
+      "SDF",
+      "Ray marching",
+      "Camera controls"
+    ],
+    "source_id": "pelican-sdf",
+    "source_item_no": 1,
+    "source_url": "https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt",
+    "source_credit": "AzatJalilov / Pelican SDF contributors（3D 延伸题）",
+    "source_credit_en": "AzatJalilov / Pelican SDF contributors (3D extension)",
+    "prompt_status": "source_only",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-07"
   }
 ]

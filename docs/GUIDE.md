@@ -46,7 +46,7 @@ notes: "物理碰撞、边界穿透、动画帧率等观察"
 | `checks_en` | 与中文条目一一对应的英文观察点 |
 | `tags` | 跨类别检索标签 |
 | `tags_en` | 与中文条目一一对应的英文标签 |
-| `source_id` | 来源网站：`gally` / `museum` |
+| `source_id` | 来源网站：`gally` / `museum` / `pelican-sdf` |
 | `source_item_no` | 在原站的题目编号，方便查找 |
 | `source_url` | 原站的真实链接 |
 | `source_credit` | 原站标注的来源，不保证等同作品最早作者 |
@@ -69,7 +69,7 @@ python scripts/build.py --check
 python -m unittest discover -s tests -v
 ```
 
-- 每次修改 JSON 后重新执行构建，生成 `docs/INDEX.md`、`docs/categories/*.md` 及 `docs/en/` 中对应的英文页面，共 12 页。
+- 每次修改 JSON 后重新执行构建，生成 `docs/INDEX.md`、`docs/categories/*.md` 及 `docs/en/` 中对应的英文页面，加上中英文历史效果档案与预览页，共 16 页。
 - CI 会检查 JSON 字段和生成文件是否同步，避免贡献者忘记更新目录。
 - 这里只验证数据结构，**不联网检测每个网址是否始终可访问**；源站链接未来可能失效，欢迎提 Issue。
 
@@ -81,3 +81,11 @@ python -m unittest discover -s tests -v
 - [ ] 如果案例增长明显，再考虑使用 GitHub Pages 做搜索与筛选
 
 本版**没有**自动调用模型、自动评分、在线预览或排行榜。
+
+## 历史效果与素材
+
+[历史效果档案](HISTORY.md)和[精选预览](GALLERY.md)从 `data/history.json` 自动生成。每条记录关联 `case_id`，包括发布者、模型、运行日期或时间范围、收录日期、来源、效果入口和测试条件。`published_on: null` 表示发布时间未公开，不用运行日或收录日代替。
+
+仅链接条目使用 `rights: link_only`。保存预览的条目必须包含具体许可依据、许可证副本、固定源提交、原图地址、SHA-256 和原始运行记录快照。当前支持 MIT 许可的本地预览；新增其他许可先补充明确的处理规则。来源方的未验证状态不改为本库实测。
+
+更多说明见[第三方素材与更正](../THIRD_PARTY_MEDIA.md)。

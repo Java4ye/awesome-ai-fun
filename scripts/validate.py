@@ -63,9 +63,12 @@ def main():
     cases=json.loads((ROOT/'data/cases.json').read_text(encoding='utf8'))
     sources=json.loads((ROOT/'data/sources.json').read_text(encoding='utf8'))
     errors=check_data(cases,sources)
+    from history import check_history
+    history=json.loads((ROOT/'data/history.json').read_text(encoding='utf8'))
+    errors.extend(check_history(cases,history,ROOT))
     if errors:
         print("❌ Catalog validation failed:\n" + "\n".join(f" - {e}" for e in errors))
         return 1
-    print(f"✅ {len(cases)} cases, {len(sources)} verified source indexes, no duplicate IDs/source positions")
+    print(f"✅ {len(cases)} cases, {len(sources)} source indexes, {len(history)} historical outputs; no duplicate IDs/source positions")
     return 0
 if __name__=='__main__': sys.exit(main())

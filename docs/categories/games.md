@@ -28,6 +28,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/kart-racer) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/kart-racer) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 一个文件写出 Flappy Bird
@@ -49,6 +57,14 @@
 **标签**：`游戏`, `单文件`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/flappy-bird) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/flappy-bird) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---
 
@@ -72,6 +88,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/tetris) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/tetris) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 摩天楼间的 3D 飞行游戏
@@ -93,5 +117,13 @@
 **标签**：`游戏`, `3D`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/flight-sim) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/flight-sim) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---

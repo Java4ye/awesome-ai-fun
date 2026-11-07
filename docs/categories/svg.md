@@ -30,6 +30,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **1** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-1) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 长颈鹿组装落地钟
@@ -53,6 +61,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **2** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-2) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -78,6 +94,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **3** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-3) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 驼鹿指挥旋转木马
@@ -101,6 +125,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **4** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-4) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -126,6 +158,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **5** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-5) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 刺猬演奏手风琴
@@ -149,6 +189,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **6** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-6) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -174,6 +222,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **7** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-7) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 大象使用打字机
@@ -197,6 +253,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **8** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-8) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -222,6 +286,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **9** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-9) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 企鹅玩杂耍抛电锯
@@ -245,6 +317,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **10** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-10) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -270,6 +350,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **11** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-11) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 蜻蜓平衡枝形吊灯
@@ -293,6 +381,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **12** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-12) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -318,6 +414,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **13** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-13) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 海马检查显微镜
@@ -341,6 +445,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **14** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-14) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -366,6 +478,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **15** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-15) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 袋鼠攀爬无线电塔
@@ -389,6 +509,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **16** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-16) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -414,6 +542,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **17** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-17) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 豪猪推割草机
@@ -437,6 +573,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **18** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-18) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -462,6 +606,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **19** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-19) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 鬣蜥雕刻图腾柱
@@ -485,6 +637,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **20** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-20) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -510,6 +670,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **21** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-21) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 螳螂研究六分仪
@@ -533,6 +701,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **22** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-22) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -558,6 +734,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **23** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-23) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 鱿鱼拆卸印刷机
@@ -581,6 +765,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **24** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-24) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -606,6 +798,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **25** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-25) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 螃蟹沿消防梯下楼
@@ -629,6 +829,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **26** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-26) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -654,6 +862,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **27** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-27) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 珊瑚清洁船舵
@@ -677,6 +893,14 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **28** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-28) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---
 
@@ -702,6 +926,14 @@
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **29** 查找。
 
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-29) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
 ---
 
 ## 兰花支撑藤架
@@ -725,5 +957,13 @@
 **提示词与作品**：[前往原站查看](https://gally.net/temp/20260914pelican-alternatives/index.html) · **本库测试情况**：未实测
 
 > 提示：Gally 的题目都在同一页面，进入后按原站编号 **30** 查找。
+
+### 历史效果
+
+**Gemini 2.5 Pro** · 2025 年秋 · Tom Gally / Pelican-bicycle alternatives
+
+[查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-30) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
+
+原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
 
 ---

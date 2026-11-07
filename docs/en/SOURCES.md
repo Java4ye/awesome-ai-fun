@@ -4,7 +4,7 @@
 
 [← Home](../../README.en.md) · [All challenges](INDEX.md)
 
-The current collection uses two sources. Counts reflect the pages indexed on **2026-11-07**, rather than permanent website totals. Source links retain their original URLs and may lead to Chinese pages.
+The current collection uses three sources. Counts reflect the pages indexed on **2026-11-07**, rather than permanent website totals. Source links retain their original URLs and may lead to Chinese pages.
 
 ## 1. Pelican-bicycle alternatives
 
@@ -24,6 +24,14 @@ The current collection uses two sources. Counts reflect the pages indexed on **2
 - **Context**: The source identifies some prompts as adaptations. Its displayed results come from specific agent environments, and some tasks have been answered again. Consider those conditions when comparing outputs.
 - **Terms**: https://aitestmuseum.com/zh/terms
 - **Our contribution**: Direct links to individual tasks, with original summaries and observation points in Chinese and English.
+
+## 3. Pelican SDF
+
+- **Project**: [AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)
+- **Versioned task**: [fixed prompt](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)
+- **Indexed here**: one separate 3D SDF pelican task, distinct from the SVG animation.
+- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [previews](GALLERY.md) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).
+- **Context**: upstream runs use different CLI / SDK environments and remain unverified. We have not reproduced them or ranked models from thumbnails.
 
 ## Recommending another source
 

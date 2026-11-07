@@ -43,7 +43,7 @@ Edit `data/cases.json` for challenges and `data/sources.json` for websites. Both
 | `summary` / `summary_en` | Our Chinese and English summaries, not full original prompts |
 | `checks` / `checks_en` | Corresponding editorial observation points, not official scoring rules |
 | `tags` / `tags_en` | Corresponding tags for abilities spanning multiple types |
-| `source_id` | Source website ID: currently `gally` or `museum` |
+| `source_id` | Source website ID: currently `gally`, `museum`, or `pelican-sdf` |
 | `source_item_no` | Item number on the source site |
 | `source_url` | Original source URL, shared by both languages |
 | `source_credit` / `source_credit_en` | Attribution leads as listed by the source; not necessarily the earliest author |
@@ -66,7 +66,7 @@ python scripts/build.py --check
 python -m unittest discover -s tests -v
 ```
 
-Rebuild after editing JSON. The generator writes the Chinese index and five category pages, plus their English counterparts under `docs/en/`: 12 pages in total. Edit the JSON rather than generated Markdown.
+Rebuild after editing JSON. The generator writes the Chinese index and five category pages, plus their English counterparts under `docs/en/`: 16 pages in total, including the bilingual history and preview galleries. Edit the JSON rather than generated Markdown.
 
 CI checks the data and generated pages for consistency. Local validation does not contact every external URL; links may become unavailable later. Report broken sources through Issues.
 
@@ -78,3 +78,11 @@ CI checks the data and generated pages for consistency. Local validation does no
 - Consider GitHub Pages search and filtering if the collection grows substantially.
 
 This version has no automatic model calls, scoring, online previews, or leaderboard.
+
+## Historical outputs and media
+
+[History](HISTORY.md) and [previews](GALLERY.md) are generated from `data/history.json`. Each record links a `case_id` to a publisher, model, run date or period, collection date, source, output, and conditions. A null `published_on` means the publication date is undisclosed; it is not replaced with the run or collection date.
+
+Link-only records use `rights: link_only`. Saved previews require a specific license basis, preserved license, fixed source revision, original image URL, SHA-256, and source-run snapshot. Local previews currently support MIT licensing; add an explicit policy before supporting another license. An upstream unverified record is not promoted to an independently verified result.
+
+See the [media and corrections notice](../../THIRD_PARTY_MEDIA.en.md).

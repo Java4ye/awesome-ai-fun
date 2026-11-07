@@ -2,9 +2,9 @@
 
 [简体中文](../INDEX.md) | **English**
 
-> **50 challenges** from public sources. This is a curated index; this repository has not tested these challenges.
+> **51 challenges** from public sources. This is a curated index; this repository has not tested these challenges.
 
-Browse by type: [SVG Drawing (30)](categories/svg.md) · [Animation & Physics (8)](categories/animation.md) · [3D & Spatial Scenes (6)](categories/3d.md) · [Games (4)](categories/games.md) · [Apps & Interaction (2)](categories/applications.md)
+Browse by type: [SVG Drawing (30)](categories/svg.md) · [Animation & Physics (8)](categories/animation.md) · [3D & Spatial Scenes (7)](categories/3d.md) · [Games (4)](categories/games.md) · [Apps & Interaction (2)](categories/applications.md)
 
 | ID | Challenge | Type | Source |
 | --- | --- | --- | --- |
@@ -52,6 +52,7 @@ Browse by type: [SVG Drawing (30)](categories/svg.md) · [Animation & Physics (8
 | `museum-007` | [Meteor hitting a city](categories/3d.md#meteor-hitting-a-city) | 3D & Spatial Scenes | [AI Test Museum](https://aitestmuseum.com/zh/tests/meteor-city) |
 | `museum-011` | [Solar system simulation](categories/3d.md#solar-system-simulation) | 3D & Spatial Scenes | [AI Test Museum](https://aitestmuseum.com/zh/tests/solar-system) |
 | `museum-020` | [Earth-Mars round trip](categories/3d.md#earth-mars-round-trip) | 3D & Spatial Scenes | [AI Test Museum](https://aitestmuseum.com/zh/tests/mars-round-trip) |
+| `pelican-sdf-001` | [Interactive 3D pelican on a bicycle with SDFs](categories/3d.md#interactive-3d-pelican-on-a-bicycle-with-sdfs) | 3D & Spatial Scenes | [Pelican SDF](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt) |
 | `museum-006` | [One-shot kart racing game](categories/games.md#one-shot-kart-racing-game) | Games | [AI Test Museum](https://aitestmuseum.com/zh/tests/kart-racer) |
 | `museum-009` | [Flappy Bird in one file](categories/games.md#flappy-bird-in-one-file) | Games | [AI Test Museum](https://aitestmuseum.com/zh/tests/flappy-bird) |
 | `museum-010` | [Tetris in one file](categories/games.md#tetris-in-one-file) | Games | [AI Test Museum](https://aitestmuseum.com/zh/tests/tetris) |

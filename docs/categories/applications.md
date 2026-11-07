@@ -28,6 +28,14 @@
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/web-os-desktop) · **本库测试情况**：未实测
 
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/web-os-desktop) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
 ---
 
 ## 积木搭建器
@@ -49,5 +57,13 @@
 **标签**：`应用`, `3D 编辑`
 
 **提示词与作品**：[前往原站查看](https://aitestmuseum.com/zh/tests/brick-builder) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5** · 2026-10-19 · AI Test Museum
+
+[查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/brick-builder) · [测试背景](https://aitestmuseum.com/zh#methodology)
+
+原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---

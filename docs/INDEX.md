@@ -2,9 +2,9 @@
 
 **简体中文** | [English](en/INDEX.md)
 
-> 收录 **50 道**公开来源的 AI 测试案例。这里是导航与整理，不代表已经由本仓库实测。
+> 收录 **51 道**公开来源的 AI 测试案例。这里是导航与整理，不代表已经由本仓库实测。
 
-按类型查看：[SVG 绘画 (30)](categories/svg.md) · [动画与物理 (8)](categories/animation.md) · [3D 与空间 (6)](categories/3d.md) · [游戏开发 (4)](categories/games.md) · [应用与交互 (2)](categories/applications.md)
+按类型查看：[SVG 绘画 (30)](categories/svg.md) · [动画与物理 (8)](categories/animation.md) · [3D 与空间 (7)](categories/3d.md) · [游戏开发 (4)](categories/games.md) · [应用与交互 (2)](categories/applications.md)
 
 | 编号 | 案例 | 分类 | 来源 |
 | --- | --- | --- | --- |
@@ -52,6 +52,7 @@
 | `museum-007` | [陨石撞击城市](categories/3d.md#陨石撞击城市) | 3D 与空间 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/meteor-city) |
 | `museum-011` | [太阳系模拟](categories/3d.md#太阳系模拟) | 3D 与空间 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/solar-system) |
 | `museum-020` | [地球到火星往返](categories/3d.md#地球到火星往返) | 3D 与空间 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/mars-round-trip) |
+| `pelican-sdf-001` | [用 SDF 构建可交互的 3D 鹈鹕骑车](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车) | 3D 与空间 | [Pelican SDF](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt) |
 | `museum-006` | [一次写出卡丁车游戏](categories/games.md#一次写出卡丁车游戏) | 游戏开发 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/kart-racer) |
 | `museum-009` | [一个文件写出 Flappy Bird](categories/games.md#一个文件写出-flappy-bird) | 游戏开发 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/flappy-bird) |
 | `museum-010` | [一个文件写出俄罗斯方块](categories/games.md#一个文件写出俄罗斯方块) | 游戏开发 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/tetris) |

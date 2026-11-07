@@ -1,18 +1,21 @@
 import json
 import sys
 import unittest
+from copy import deepcopy
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from validate import check_data
 from build import render
+from history import check_history, render_history
 
 class CatalogTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.cases=json.loads((ROOT/'data/cases.json').read_text(encoding='utf8'))
         cls.sources=json.loads((ROOT/'data/sources.json').read_text(encoding='utf8'))
+        cls.history=json.loads((ROOT/'data/history.json').read_text(encoding='utf8'))
 
     def test_valid_schema(self):
         self.assertEqual([],check_data(self.cases,self.sources))
@@ -53,5 +56,45 @@ class CatalogTests(unittest.TestCase):
                 self.assertIn(switch,index)
                 for case in self.cases:
                     self.assertEqual(index.count(f'`{case["id"]}`'),1)
+
+    def test_history_covers_every_case_with_valid_provenance(self):
+        self.assertEqual({c['id'] for c in self.cases},{r['case_id'] for r in self.history})
+        self.assertEqual([],check_history(self.cases,self.history,ROOT))
+
+    def test_link_only_media_cannot_become_a_local_preview(self):
+        record=deepcopy(next(r for r in self.history if r.get('preview')))
+        record['rights']='link_only'
+        self.assertTrue(any('redistribution license' in e for e in check_history(self.cases,[record],ROOT)))
+
+    def test_changed_or_mislabelled_preview_is_rejected(self):
+        record=deepcopy(next(r for r in self.history if r.get('preview')))
+        record['preview_sha256']='0'*64
+        record['model']='An unrelated model'
+        errors=check_history(self.cases,[record],ROOT)
+        self.assertTrue(any('checksum mismatch' in e for e in errors))
+        self.assertTrue(any('attribution mismatch' in e for e in errors))
+
+    def test_preview_paths_cannot_escape_repository(self):
+        record=deepcopy(next(r for r in self.history if r.get('preview')))
+        record['preview']='../outside.jpg'
+        self.assertTrue(any('unsafe or missing preview' in e for e in check_history(self.cases,[record],ROOT)))
+
+    def test_history_rejects_unknown_case_and_duplicate_record(self):
+        record=deepcopy(self.history[0])
+        record['case_id']='not-a-case'
+        errors=check_history(self.cases,[record,record],ROOT)
+        self.assertTrue(any('unknown case' in e for e in errors))
+        self.assertTrue(any('duplicate id' in e for e in errors))
+
+    def test_history_and_gallery_have_bilingual_navigation(self):
+        for language,base,switch in [('zh',Path('docs'),'en/'),('en',Path('docs/en'),'../')]:
+            pages=render_history(self.cases,self.history,language)
+            for name in ('HISTORY.md','GALLERY.md'):
+                self.assertIn(f'({switch}{name})',pages[base/name])
+            gallery=pages[base/'GALLERY.md']
+            for record in self.history:
+                if record.get('preview'):
+                    self.assertIn(record['preview'],gallery)
+                    self.assertIn(record['source_url'],gallery)
 
 if __name__=='__main__':unittest.main()
