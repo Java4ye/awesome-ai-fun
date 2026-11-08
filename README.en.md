@@ -1,9 +1,9 @@
-# Awesome AI Tests · A collection of fun AI challenges
+# Awesome AI Fun · Fun AI creations and things to try
 
 [简体中文](README.md) | **English**
 
-> A collection of fun, strange, and imaginative challenges to try with AI models.
-> Collect interesting tasks first, with clear sources and useful observation points.
+> Discover fun, strange, and imaginative AI creations: SVG art, animation, 3D scenes, games, and interactive apps.
+> See the results, find the original sources, and pick a challenge to try.
 
 ## Categories
 
@@ -1867,7 +1867,7 @@ Browser capture of a source-published historical work (2026-11-08), not a new mo
 
 ## Contribute
 
-Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-tests/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).
+Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).
 
 [Sources](docs/en/SOURCES.md) · [History](docs/en/HISTORY.md) · [Research leads](docs/en/RESEARCH.md) · [Guide](docs/en/GUIDE.md) · [Maintenance](docs/en/MAINTENANCE.md) · [Media credits](THIRD_PARTY_MEDIA.en.md)
 

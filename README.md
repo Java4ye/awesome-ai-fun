@@ -1,11 +1,12 @@
-# Awesome AI Tests · 有趣的 AI 测试案例收藏夹
+# Awesome AI Fun · 有趣的 AI 作品与玩法合集
 
 **简体中文** | [English](README.en.md)
 
-> 收集互联网上那些好玩、奇怪、让人忍不住想拿去考一考大模型的测试题。  
-> **不做模型排行榜，先把值得尝试的题目收集好。**
+> 收集互联网上好玩、奇怪、脑洞大开的 AI 作品与玩法，涵盖 SVG、动画、3D、游戏和交互应用。
+>
+> 看效果、找出处，再挑一个感兴趣的题目试试。
 
-A curated collection of fun and reproducible AI model challenges — in Chinese and English, with source links.
+A curated collection of fun AI creations and things to try — with visual previews, original sources, and challenges in Chinese and English.
 
 ## 分类导航
 
@@ -1869,7 +1870,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 ## 欢迎补充
 
-欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-tests/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。
+欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。
 
 [来源导航](docs/SOURCES.md) · [历史档案](docs/HISTORY.md) · [社区线索](docs/RESEARCH.md) · [使用指南](docs/GUIDE.md) · [维护说明](docs/MAINTENANCE.md) · [素材署名](THIRD_PARTY_MEDIA.md)
 

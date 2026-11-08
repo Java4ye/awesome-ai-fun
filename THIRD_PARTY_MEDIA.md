@@ -49,6 +49,6 @@
 
 ## 更正与下架
 
-作者或权利人可以通过 [素材更正 / 下架 Issue](https://github.com/Java4ye/awesome-ai-tests/issues/new?template=media-correction.md) 提供案例编号、原始作品地址、涉及文件及希望如何处理。本仓库会核实并更正署名、更新链接或下架素材。也欢迎反馈错误模型标记和失效链接。
+作者或权利人可以通过 [素材更正 / 下架 Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=media-correction.md) 提供案例编号、原始作品地址、涉及文件及希望如何处理。本仓库会核实并更正署名、更新链接或下架素材。也欢迎反馈错误模型标记和失效链接。
 
 更正或移除时记录涉及的案例与处理说明。

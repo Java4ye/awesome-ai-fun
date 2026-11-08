@@ -49,6 +49,6 @@ Prefer assets with an explicit open license or creator permission, and retain th
 
 ## Corrections and removal
 
-Creators and rights holders can open a [media correction / removal Issue](https://github.com/Java4ye/awesome-ai-tests/issues/new?template=media-correction-en.md) with the case ID, original work URL, affected files, and requested action. We will review attribution corrections, broken links, model-label errors, or removal requests.
+Creators and rights holders can open a [media correction / removal Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=media-correction-en.md) with the case ID, original work URL, affected files, and requested action. We will review attribution corrections, broken links, model-label errors, or removal requests.
 
 Corrections and removals will record the affected cases and action taken.

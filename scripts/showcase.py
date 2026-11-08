@@ -7,8 +7,8 @@ from html import escape
 import re
 
 INTRO = {
-    'zh': '# Awesome AI Tests · 有趣的 AI 测试案例收藏夹\n\n**简体中文** | [English](README.en.md)\n\n> 收集互联网上那些好玩、奇怪、让人忍不住想拿去考一考大模型的测试题。  \n> **不做模型排行榜，先把值得尝试的题目收集好。**\n\nA curated collection of fun and reproducible AI model challenges — in Chinese and English, with source links.\n',
-    'en': '# Awesome AI Tests · A collection of fun AI challenges\n\n[简体中文](README.md) | **English**\n\n> A collection of fun, strange, and imaginative challenges to try with AI models.\n> Collect interesting tasks first, with clear sources and useful observation points.\n',
+    'zh': '# Awesome AI Fun · 有趣的 AI 作品与玩法合集\n\n**简体中文** | [English](README.en.md)\n\n> 收集互联网上好玩、奇怪、脑洞大开的 AI 作品与玩法，涵盖 SVG、动画、3D、游戏和交互应用。\n>\n> 看效果、找出处，再挑一个感兴趣的题目试试。\n\nA curated collection of fun AI creations and things to try — with visual previews, original sources, and challenges in Chinese and English.\n',
+    'en': '# Awesome AI Fun · Fun AI creations and things to try\n\n[简体中文](README.md) | **English**\n\n> Discover fun, strange, and imaginative AI creations: SVG art, animation, 3D scenes, games, and interactive apps.\n> See the results, find the original sources, and pick a challenge to try.\n',
 }
 
 def slug(value):
@@ -134,7 +134,7 @@ def render_homepages(cases,sources,history,records,categories,language):
                 lines.append(f'| <a id="case-{c["id"]}"></a>[{title}]({detail}) | {summary} | {original} |')
             lines.extend(['','</details>',''])
     lines.extend(['## Contribute' if en else '## 欢迎补充','',
-        f'Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-tests/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).' if en else '欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-tests/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。','',
+        f'Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).' if en else '欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。','',
         f'[Sources]({docs}SOURCES.md) · [History]({docs}HISTORY.md) · [Research leads]({docs}RESEARCH.md) · [Guide]({docs}GUIDE.md) · [Maintenance]({docs}MAINTENANCE.md) · [Media credits](THIRD_PARTY_MEDIA.en.md)' if en else f'[来源导航]({docs}SOURCES.md) · [历史档案]({docs}HISTORY.md) · [社区线索]({docs}RESEARCH.md) · [使用指南]({docs}GUIDE.md) · [维护说明]({docs}MAINTENANCE.md) · [素材署名](THIRD_PARTY_MEDIA.md)','',
         'Images show source-published works; historical models were not rerun here. Click video posters for source playback. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights; attribution does not imply permission. Source conditions differ and do not form a standardized ranking.' if en else '图片为来源方作品，本库未重新调用历史模型；点击视频封面打开原视频。本库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人，署名不等于授权。不同来源的测试条件不构成统一排行榜。',''])
     readme=Path('README.en.md' if en else 'README.md')

@@ -4,6 +4,8 @@
 
 ## Unreleased
 
+- Rename the project to Awesome AI Fun, a collection of fun AI creations and things to try; preserve existing case IDs, categories, and attribution.
+
 - Add historical output links, model attribution, run periods, and environments for all original 50 tasks.
 - Add a separate Pelican SDF 3D extension: 51 tasks, 3 sources, and 55 output records.
 - Add five MIT-licensed upstream thumbnails, source snapshots, full license, and bilingual history galleries.
