@@ -18,6 +18,8 @@ The README, work index, and gallery share the same list of works and collections
 
 The build also writes `site/catalog.js`. Pushes to `main` validate the catalog and deploy the gallery and its covers to [GitHub Pages](https://java4ye.github.io/awesome-ai-fun/site/). The website uses the same catalog data as the README.
 
+The gallery shows all works by category in English by default. Chinese uses the same layout. Covers keep their aspect ratio and load lazily. Readers can play videos after opening a work.
+
 Python 3.10+, no third-party dependencies:
 
 ```bash

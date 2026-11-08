@@ -2,22 +2,12 @@
 
 [简体中文](../CHANGELOG.md) | **English**
 
-## Unreleased
+## Awesome AI Fun
 
-- Add a searchable static gallery with category and playable filters. The README and gallery display all works by category, grouping related works into collections.
-- Add Sac’s The Little Prince: Across the Stars with an original demo frame, the playable site, and a making-of guide.
-
-- Rename the project to Awesome AI Fun, a collection of fun AI creations and things to try; preserve existing case IDs, categories, and attribution.
-
-- Add historical output links, model attribution, run periods, and environments for all original 50 tasks.
-- Add a separate Pelican SDF 3D extension: 51 tasks, 3 sources, and 55 output records.
-- Add five MIT-licensed upstream thumbnails, source snapshots, full license, and bilingual history galleries.
-- Add media correction / removal templates and image integrity validation.
-
-- Add language switches to homepages, contribution guides, usage guides, source directories, and changelogs.
-- Complete English titles, summaries, observation points, tags, and attribution leads for all 50 challenges.
-- Generate Chinese and English indexes and five category pages from shared JSON, with translation-field and count validation.
-- Describe the homepage categories as browsing by type, preserving the existing categories and original sources.
+- Rename Awesome AI Tests to Awesome AI Fun and focus on AI creations with previews, playable links, and original sources.
+- Publish a bilingual gallery with search, categories, and a playable filter. The README, gallery, and index share the same works and collections. Hands-on prompts have their own library.
+- Add Sac’s The Little Prince: Across the Stars with a frame from the original demo, the playable site, and a making-of guide.
+- Use Issues for work suggestions and media corrections. Validate local previews, licenses, and source snapshots.
 
 ## 0.1.0 — 2026-11-07
 

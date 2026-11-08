@@ -56,7 +56,7 @@ def render(cases, sources, language='zh', history=(), showcase=()):
         lines=[f'# {names[english]}', '',
             f'[简体中文](../../categories/{key}.md) | **English**' if english else f'**简体中文** | [English](../en/categories/{key}.md)', '',
             '[← Home](../../../README.md) · [Work index](../INDEX.md)' if english else '[← 返回首页](../../README.zh-CN.md) · [作品索引](../INDEX.md)', '',
-            '> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.' if english else '> 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。', '']
+            '> We provide the summaries and viewing notes. Follow the source links for original works and any published prompts.' if english else '> 简介和观赏要点由本库整理，原作品与已公开的题面见出处。', '']
         pending_open=False
         for c in entries:
             if showcase and c['id'] not in covers and not pending_open:
@@ -73,14 +73,13 @@ def render(cases, sources, language='zh', history=(), showcase=()):
                 lines.extend(image_lines(c,covers[c['id']],language,'../../../' if english else '../../'))
             lines.extend([c['summary'+suffix], '',
                 f'**Source credit / attribution lead**: {c["source_credit_en"]}' if english else f'**原站署名 / 来源线索**：{c["source_credit"]}', '',
-                '**What to observe**' if english else '**可以观察什么？**', ''])
+                '**What to look for**' if english else '**观赏要点**', ''])
             if 'prompt_availability' in c:
                 labels = {'public': ('公开题面', 'Public prompt'), 'partial': ('示例请求或部分题面', 'Example request / partial prompt'), 'not_verified': ('完整原题未确认，按作品整理', 'Full prompt unconfirmed; adapted from work')}
                 prompt_label = labels[c['prompt_availability']][1 if english else 0]
                 lines[-2:-2] = [('**Prompt availability**: ' if english else '**题面情况**：') + prompt_label, '']
             lines.extend(f'- {v}' for v in c['checks'+suffix])
-            lines.extend(['', ('**Tags**: ' if english else '**标签**：') + ', '.join('`'+tag+'`' for tag in c['tags'+suffix]), '',
-                f'**Prompts and outputs**: [View the source]({c["source_url"]}) · **Test status in this repository**: Not tested' if english else f'**提示词与作品**：[前往原站查看]({c["source_url"]}) · **本库测试情况**：未实测', ''])
+            lines.extend(['', ('**Tags**: ' if english else '**标签**：') + ', '.join('`'+tag+'`' for tag in c['tags'+suffix]), ''])
             if c['source_id']=='gally':
                 lines.extend([f'> All Gally challenges share one page. Find source item **{c["source_item_no"]}** after opening it.' if english else f'> 提示：Gally 的题目都在同一页面，进入后按原站编号 **{c["source_item_no"]}** 查找。', ''])
             records=historical[c['id']]

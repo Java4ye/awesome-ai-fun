@@ -4,7 +4,7 @@
 
 [← Home](../../../README.md) · [Work index](../INDEX.md)
 
-> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
+> We provide the summaries and viewing notes. Follow the source links for original works and any published prompts.
 
 ## Autonomous aquarium
 
@@ -24,14 +24,12 @@ Multiple fish wander and turn within a bounded tank.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Fish turn and stay within the tank
 - Motion remains consistent across frame rates
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/aquarium.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -61,14 +59,12 @@ Simulate interacting balls and dissipative collisions in a square container.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Colliding balls separate
 - Gravity and damping affect trajectories
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/ball_bound.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -98,14 +94,12 @@ A chicken switches between wandering and laying, leaving eggs behind.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Movement pauses during laying
 - Eggs are created and retained
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/chicken.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -135,14 +129,12 @@ Rockets launch and burst into fading particles affected by gravity.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Rocket and burst lifecycles are distinct
 - Expired particles are removed
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/fireworks.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -172,14 +164,12 @@ Vehicles wrap around the screen, collide, explode and restart.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Vehicles wrap to the opposite edge
 - The scene resets after the explosion
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/vehicles.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -209,14 +199,12 @@ Explore zoom and detail through the official fractal demo.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Zoom produces coherent detail
 - Interaction changes computed results
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -246,14 +234,12 @@ Use the official double-slit demo to explore parameters and interference pattern
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Parameter changes affect fringes
 - Demonstration approximations are distinguished from physics claims
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -283,14 +269,12 @@ Explore initial conditions and motion with the official double-pendulum demo.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Trajectories follow coupled pendulum motion
 - Parameters can be adjusted and the simulation restarted
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -320,14 +304,12 @@ Simulate ball-ball and rotating-wall collisions with spin and friction; distinct
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Both ball-ball and moving-wall collisions are handled
 - Number labels reflect ball spin
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/KCORES/kcores-llm-arena/blob/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-ball-bouncing-inside-spinning-heptagon/README.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -357,14 +339,12 @@ Combine poem-character processing, fractal zoom and frame-rate reporting in Canv
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Character deduplication preserves order
 - Zoom center, looping and frame-rate reporting follow the prompt
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/KCORES/kcores-llm-arena/blob/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/README.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -392,15 +372,13 @@ Generate an SVG animation of a pelican riding a bicycle, rather than a static dr
 
 **Source credit / attribution lead**: Simon Willison (animation adaptation)
 
-**What to observe**
+**What to look for**
 
 - Are the wheels, pedals, and bird's legs synchronized?
 - Can the animation run independently?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `SVG`, `Motion`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/pelican-bicycle) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -428,15 +406,13 @@ Animate a ball bouncing inside a continuously rotating hexagon under gravity and
 
 **Source credit / attribution lead**: Flavio Adamo (adapted prompt)
 
-**What to observe**
+**What to look for**
 
 - Do rebounds account for the velocity of the rotating walls?
 - Does the ball pass through walls or get stuck after running for a while?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Physics`, `Collisions`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -464,15 +440,13 @@ Animate a star's evolution into a supernova and its remnant.
 
 **Source credit / attribution lead**: AI/ML API model comparison
 
-**What to observe**
+**What to look for**
 
 - Are expansion, collapse, and explosion shown coherently?
 - Are the animation stages and visual layers clear?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Animation`, `Science communication`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/supernova) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -500,15 +474,13 @@ Use a shader to draw a partially submerged Gothic city in a storm.
 
 **Source credit / attribution lead**: Ethan Mollick
 
-**What to observe**
+**What to look for**
 
 - Do the towers, rain, and atmosphere form a convincing scene?
 - Does rendering remain stable over time?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Shader`, `Aesthetics`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/drowned-gothic-city) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -536,15 +508,13 @@ Use webcam hand gestures to change the shapes of Three.js particles.
 
 **Source credit / attribution lead**: @EHuanglu
 
-**What to observe**
+**What to look for**
 
 - Are webcam permissions and gesture recognition reliable?
 - Can particles change in real time and switch shapes?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Animation`, `Gestures`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/hand-gesture-particles) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -572,15 +542,13 @@ Animate a bouncing ball inside a rotating four-dimensional hypercube.
 
 **Source credit / attribution lead**: @Yuchenj_UW (adapted prompt)
 
-**What to observe**
+**What to look for**
 
 - Is the projection of the higher-dimensional structure understandable?
 - Do collisions agree with the displayed scene?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Physics`, `Higher dimensions`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/tesseract-ball) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -608,15 +576,13 @@ Use p5.js to generate an imaginative futuristic starship control panel.
 
 **Source credit / attribution lead**: Ethan Mollick
 
-**What to observe**
+**What to look for**
 
 - Are the instruments and visual design inventive?
 - Is interaction feedback clear?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Creativity`, `p5.js`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/starship-control-panel) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -644,15 +610,13 @@ Draw an HTML/CSS clock showing 10:10 with a continuously moving second hand.
 
 **Source credit / attribution lead**: Brian Moore / AI World Clocks
 
-**What to observe**
+**What to look for**
 
 - Are the hour-hand and minute-hand angles correct?
 - Do the second-hand animation and responsive layout work?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Animation`, `Spatial reasoning`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/ai-world-clock) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -682,14 +646,12 @@ Show loading, crack propagation, shattering and particles in one file.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Cracks respond to load position
 - Visual effects are distinguished from accurate mechanics
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -719,14 +681,12 @@ Explore chaos and numerical stability through the endpoint of a three-link pendu
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Trails follow coupled pendulum motion
 - Pause and reset work consistently
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/triple-pendulum.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -756,14 +716,12 @@ Compare elastic-collision counts across mass ratios, separating exact results fr
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Collisions preserve momentum and energy
 - Mass-ratio and counting assumptions are explained
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/1kg-block-bounces.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -793,14 +751,12 @@ Balls pass through pegs into bins to build a distribution.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Falling balls correspond to histogram counts
 - Probability animation is distinguished from physical collision simulation
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/balls-fall.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -830,14 +786,12 @@ A challenge direction adapted from the public work: 40-second coded browser expl
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Parsing, layout and painting are explained accurately
 - Captions and animation timing are readable
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/addyosmani/status/2103009037164110327) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -867,14 +821,12 @@ A challenge direction adapted from the public work: Blender claymation-style ani
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Materials and lighting sustain the clay style
 - Frame-to-frame motion is coherent
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/alexalbert__/status/2102458348511879448) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -904,14 +856,12 @@ A challenge direction adapted from the public work: Interactive steam-morph stop
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Shape transformations remain coherent
 - Dragging and frame stepping work
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/chetaslua/status/2102501773705670994) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -941,14 +891,12 @@ A challenge direction adapted from the public work: JavaScript music-theory audi
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Sound corresponds to note labels
 - Synthesized sound is distinguished from external samples
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/dadabots/status/2103039181266338276) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -978,14 +926,12 @@ A challenge direction adapted from the public work: Pixel animation of neural-ne
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Animation distinguishes prediction from updating
 - Decorative changes are not mislabeled as training
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/DotCSV/status/2102737776219168939) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -1015,14 +961,12 @@ A challenge direction adapted from the public work: Code film of four seasons th
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Layered parallax produces continuous motion
 - Season transitions and sound remain coherent
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/itsolelehmann/status/2103124033365762215) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -1052,14 +996,12 @@ A challenge direction adapted from the public work: Reassembling glass-and-gold 
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Tiles move continuously rather than swap images
 - Sound aligns with tile motion
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/LCSlates/status/2102503027340988559) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -1089,14 +1031,12 @@ A challenge direction adapted from the public work: Autonomous cosmic pixel dash
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Obstacles and character motion share consistent timing
 - An automatic demo is identified as such
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/riku720720/status/2102515055116063144) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -1126,14 +1066,12 @@ A challenge direction adapted from the public work: Inverse-kinematics pixel hor
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Leg joints remain connected
 - The cycle loops without jumps
 
 **Tags**: `animation and physics`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/victormustar/status/2102707412704919910) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 

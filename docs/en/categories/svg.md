@@ -4,7 +4,7 @@
 
 [← Home](../../../README.md) · [Work index](../INDEX.md)
 
-> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
+> We provide the summaries and viewing notes. Follow the source links for original works and any published prompts.
 
 ## An octopus operating a pipe organ
 
@@ -22,15 +22,13 @@ An octopus plays a pipe organ, testing both tentacle anatomy and a convincing pl
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the octopus and pipe organ recognizable?
 - Do the tentacles visibly operate the keys?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **1** after opening it.
 
@@ -60,15 +58,13 @@ A giraffe assembles a grandfather clock, combining a long-necked animal with del
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the clock face, pendulum, and tall case clear?
 - Does the giraffe assemble the clock rather than just stand beside it?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **2** after opening it.
 
@@ -98,15 +94,13 @@ A starfish sits at the controls of a bulldozer, testing machinery detail and the
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the tracks, blade, and cab recognizable?
 - Is the starfish actually driving rather than lying on the vehicle?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **3** after opening it.
 
@@ -136,15 +130,13 @@ A moose conducts a carousel like an orchestra, testing the relationship between 
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Is the carousel structure complete?
 - Does the pose communicate conducting?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **4** after opening it.
 
@@ -174,15 +166,13 @@ A flamingo repairs a telescope, combining slender limbs with detailed equipment.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the telescope tube and mount coherent?
 - Are the repair action and contact points plausible?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **5** after opening it.
 
@@ -212,15 +202,13 @@ A hedgehog plays an accordion, coordinating its body with the bellows and keyboa
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the bellows and buttons clear?
 - Does the playing pose suggest stretching the bellows?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **6** after opening it.
 
@@ -250,15 +238,13 @@ A jellyfish operates a Ferris wheel, connecting tentacles, controls, and a large
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the wheel and passenger cabins complete?
 - Is the jellyfish clearly operating the wheel?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **7** after opening it.
 
@@ -288,15 +274,13 @@ An elephant types on a typewriter, testing how its trunk or limbs interact with 
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the keyboard and paper roller clear?
 - Is the body part pressing the keys used plausibly?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **8** after opening it.
 
@@ -326,15 +310,13 @@ A chameleon tunes a grand piano, testing a complex instrument and a precise acti
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the grand piano case and strings recognizable?
 - Does the action show tuning rather than playing?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **9** after opening it.
 
@@ -364,15 +346,13 @@ A penguin juggles several chainsaws, testing object recognition and implied moti
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the penguin and chainsaws distinct?
 - Are the airborne objects positioned plausibly for juggling?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **10** after opening it.
 
@@ -402,15 +382,13 @@ A sloth drives an excavator, linking the animal to the cab and mechanical arm.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the excavator arm and bucket coherent?
 - Is the sloth visibly operating the controls?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **11** after opening it.
 
@@ -440,15 +418,13 @@ A dragonfly balances a large chandelier, combining a delicate creature with an i
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the chandelier arms and hanging ornaments visible?
 - Does the scene convey balancing?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **12** after opening it.
 
@@ -478,15 +454,13 @@ A rhinoceros paints a tall lighthouse, testing scale differences and a painting 
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the lighthouse outline and lantern room clear?
 - Are a painting tool and the painting action visible?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **13** after opening it.
 
@@ -516,15 +490,13 @@ A seahorse examines a microscope, combining a small animal with a precision inst
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the eyepiece and stage recognizable?
 - Does the pose convey examination or observation?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **14** after opening it.
 
@@ -554,15 +526,13 @@ A peacock spins a pottery wheel, combining elaborate feathers with a rotating to
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the pottery wheel and unfinished pot clear?
 - Is the interaction between the peacock and wheel plausible?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **15** after opening it.
 
@@ -592,15 +562,13 @@ A kangaroo climbs a radio tower, testing pose, support points, and tall structur
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the tower framework and antennas recognizable?
 - Are the limbs placed plausibly to support climbing?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **16** after opening it.
 
@@ -630,15 +598,13 @@ A lobster polishes a harp, testing contact points and instrument details.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the harp strings and frame clear?
 - Does the scene clearly show polishing or wiping?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **17** after opening it.
 
@@ -668,15 +634,13 @@ A porcupine pushes a lawnmower, combining spines, a handle, and a pushing pose.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the mower wheels and handle recognizable?
 - Does the pose convey forward pushing?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **18** after opening it.
 
@@ -706,15 +670,13 @@ A gecko installs a satellite dish on a building, testing attachment and installa
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the dish and mounting bracket clear?
 - Are the installation direction and fastening action credible?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **19** after opening it.
 
@@ -744,15 +706,13 @@ An iguana carves a wooden totem pole, testing tool use and intricate patterns.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Do the totem patterns have clear layers?
 - Are the carving tool and working action visible?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **20** after opening it.
 
@@ -782,15 +742,13 @@ An armadillo raises a drawbridge, testing the lifting mechanism and raised bridg
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the hinge, bridge deck, and ropes clear?
 - Does the action fit the bridge-lifting mechanism?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **21** after opening it.
 
@@ -820,15 +778,13 @@ A mantis studies a sextant, testing recognition of an unfamiliar precision instr
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the lenses and curved scale of the sextant credible?
 - Do the forelimbs convey examination of the instrument?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **22** after opening it.
 
@@ -858,15 +814,13 @@ An ostrich pulls a rickshaw, testing long legs and the direction of pulling forc
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the rickshaw wheels and passenger compartment correct?
 - Are the pulling pose and connections clear?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **23** after opening it.
 
@@ -896,15 +850,13 @@ A squid takes apart a printing press, testing many mechanical parts and tentacle
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the press rollers and frame clear?
 - Do the parts and actions convey disassembly?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **24** after opening it.
 
@@ -934,15 +886,13 @@ A butterfly inspects a steam engine, combining organic wings with complex machin
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are features such as cylinders and pipes recognizable?
 - Is the inspection action clear?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **25** after opening it.
 
@@ -972,15 +922,13 @@ A crab descends an external fire escape, testing spatial direction and gait.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the platforms, railings, and stairs clear?
 - Does the pose convey downward movement?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **26** after opening it.
 
@@ -1010,15 +958,13 @@ A giant Venus flytrap swallows a street lamp, testing scale and enclosure relati
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the trap leaves and street lamp recognizable?
 - Are swallowing and enclosure clearly expressed?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **27** after opening it.
 
@@ -1048,15 +994,13 @@ Coral cleans a ship's wheel, testing how an unusual subject can express an actio
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the wheel spokes and handles clear?
 - Does the anthropomorphic cleaning action read convincingly?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **28** after opening it.
 
@@ -1086,15 +1030,13 @@ A sea anemone threads a loom, testing dense thin lines and precise movements.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the warp threads and loom frame clear?
 - Does the threading action follow a visible path?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **29** after opening it.
 
@@ -1124,15 +1066,13 @@ An orchid supports a garden pergola, testing structural support and plant form.
 
 **Source credit / attribution lead**: Tom Gally / Claude-generated challenge collection
 
-**What to observe**
+**What to look for**
 
 - Are the pergola posts and beams clear?
 - Is the support relationship between orchid and pergola visible?
 - Does the SVG render correctly with all key structures present?
 
 **Tags**: `SVG`, `Creative drawing`, `Relational understanding`
-
-**Prompts and outputs**: [View the source](https://gally.net/temp/20260914pelican-alternatives/index.html) · **Test status in this repository**: Not tested
 
 > All Gally challenges share one page. Find source item **30** after opening it.
 
@@ -1164,14 +1104,12 @@ Track a specified chess game and highlight its last move in SVG.
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Piece placement and board orientation are correct
 - The highlighted move matches the PGN
 
 **Tags**: `vector drawing`, `source collection`
-
-**Prompts and outputs**: [View the source](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -1201,14 +1139,12 @@ Inspect the horn, legs, mane, tail and connected shapes; this is not a direct re
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Horn and legs are sensibly placed
 - Paths avoid breaks and stray overlaps
 
 **Tags**: `vector drawing`, `source collection`
-
-**Prompts and outputs**: [View the source](https://springprompt.com/playground/unicorn) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 

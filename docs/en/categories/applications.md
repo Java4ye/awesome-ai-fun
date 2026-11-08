@@ -4,7 +4,7 @@
 
 [← Home](../../../README.md) · [Work index](../INDEX.md)
 
-> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
+> We provide the summaries and viewing notes. Follow the source links for original works and any published prompts.
 
 ## An interactive story where you are the model
 
@@ -24,14 +24,12 @@ Let the reader choose candidate replies while exploring temperature, fading cont
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Temperature changes the probability distribution
 - Prewritten text and simulated attention are disclosed
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://news.ycombinator.com/item?id=49311484) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -61,14 +59,12 @@ Multiple users spawn particles with cursors in a shared 3D space.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Clients see synchronized interaction
 - Particle lifecycles and performance remain stable
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -98,14 +94,12 @@ Use the official map app to explore interaction with external data.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Map data has an identifiable API source
 - Permission and network failures are recoverable
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -135,14 +129,12 @@ Organize, import and generate recipes with family collaboration.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Edits and saved recipes remain consistent
 - Collaboration respects access permissions
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -170,15 +162,13 @@ Build a desktop with windows and multiple applications in a single HTML page.
 
 **Source credit / attribution lead**: @chetaslua
 
-**What to observe**
+**What to look for**
 
 - Do window dragging, focus, and closing work?
 - Can features such as the text editor actually be used?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Apps`, `UI`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/web-os-desktop) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -206,15 +196,13 @@ Create a 3D editor for placing, rotating, recoloring, and deleting bricks.
 
 **Source credit / attribution lead**: Pietro Schirano (adapted prompt)
 
-**What to observe**
+**What to look for**
 
 - Do grid snapping and brick stacking behave plausibly?
 - Do mouse picking and camera controls work?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Apps`, `3D editing`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/brick-builder) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -244,14 +232,12 @@ A challenge direction adapted from the public work: Upload a photo and watch it 
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - The uploaded image affects the painting
 - Style switching and painting progress work
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/petergyang/status/2102849349122470205) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -281,14 +267,12 @@ A challenge direction adapted from the public work: Interactive focus and apertu
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Ray paths correspond to the focus plane
 - Parameters and visualization stay consistent
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/RyanSael/status/2102591147927654847) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -318,14 +302,12 @@ A challenge direction adapted from the public work: Bedroom bed-placement planne
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Floor plan and 3D positions agree
 - Placement respects dimensions and circulation space
 
 **Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/scheemunai/status/2103059885361598633) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 

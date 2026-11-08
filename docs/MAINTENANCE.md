@@ -18,6 +18,8 @@ README、作品索引与网站画廊共用同一份作品和专题清单。专�
 
 生成脚本也会更新 `site/catalog.js`。`main` 分支推送后，GitHub Actions 会校验目录并把画廊和预览图发布到 [GitHub Pages](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)。无需单独维护网站数据。
 
+画廊默认以英文按分类展示全部作品，中文使用同一布局。封面保持原比例并延迟加载，视频由读者打开作品后播放。
+
 维护需要 Python 3.10+，无第三方依赖：
 
 ```bash

@@ -4,7 +4,7 @@
 
 [← Home](../../../README.md) · [Work index](../INDEX.md)
 
-> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
+> We provide the summaries and viewing notes. Follow the source links for original works and any published prompts.
 
 ## Neon Arena multiplayer laser tag
 
@@ -24,14 +24,12 @@ Combine multiplayer sessions, bot opponents and timed scores.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Player states synchronize
 - Round endings and scores remain consistent
 
 **Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -61,14 +59,12 @@ Combine claw controls, collisions, a timer and scores in 3D.
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - The claw grips objects through collisions
 - Success detection and timing work
 
 **Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -96,15 +92,13 @@ Use a short request to generate a single-file 3D kart racing game.
 
 **Source credit / attribution lead**: BridgeMind (adapted prompt)
 
-**What to observe**
+**What to look for**
 
 - Can the player drive, drift, and finish the course?
 - Do opponents, items, and lap counts work together?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Games`, `Controls`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/kart-racer) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -132,15 +126,13 @@ Create a playable Flappy Bird-style game in a single web page.
 
 **Source credit / attribution lead**: Community classic
 
-**What to observe**
+**What to look for**
 
 - Do clicks or key presses make the character jump?
 - Do collisions, scoring, and restarting work?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Games`, `Single file`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/flappy-bird) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -168,15 +160,13 @@ Generate a Tetris game with rotation, line clearing, and level progression.
 
 **Source credit / attribution lead**: Community classic
 
-**What to observe**
+**What to look for**
 
 - Do rotation, movement, falling, and line clearing work correctly?
 - Do the next-piece preview and score update?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Games`, `Logic`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/tetris) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -204,15 +194,13 @@ Generate a browser flight game through skyscrapers from a short instruction.
 
 **Source credit / attribution lead**: @levelsio
 
-**What to observe**
+**What to look for**
 
 - Are the flight controls and following camera comfortable to use?
 - Are city generation and the game objective clear?
 - Does the result run or support the required interaction, rather than only provide a screenshot?
 
 **Tags**: `Games`, `3D`
-
-**Prompts and outputs**: [View the source](https://aitestmuseum.com/zh/tests/flight-sim) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -242,14 +230,12 @@ Walk through the planets of The Little Prince in a browser. Creator Sac used AI 
 
 **Prompt availability**: Example request / partial prompt
 
-**What to observe**
+**What to look for**
 
 - Explore the different planets
 - See how the creator turned character assets into playable scenes
 
 **Tags**: `3D narrative exploration`, `AI-assisted creation`
-
-**Prompts and outputs**: [View the source](https://x.com/Saccc_c/status/2109962425512734739) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -279,14 +265,12 @@ Combine projected visuals, falling-block rules, audio and persistent scores in o
 
 **Prompt availability**: Public prompt
 
-**What to observe**
+**What to look for**
 
 - Line clearing and collision rules work
 - Restart and score persistence work
 
 **Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -316,14 +300,12 @@ A challenge direction adapted from the public work: Coastal fishing and trading 
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Fishing, selling and equipment purchases form a working loop
 - Saving and restart preserve sensible state
 
 **Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/dangreenheck/status/2103004432786993341) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -353,14 +335,12 @@ A challenge direction adapted from the public work: Harpoon fishing game. Do not
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Hit detection and scoring agree
 - Restart and controls give clear feedback
 
 **Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/nachat_dayo/status/2102773498037023140) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
@@ -390,14 +370,12 @@ A challenge direction adapted from the public work: Flower planting and beekeepi
 
 **Prompt availability**: Full prompt unconfirmed; adapted from work
 
-**What to observe**
+**What to look for**
 
 - Flowers, bees and hives interact
 - Harvesting changes resource state
 
 **Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/oguzthedev/status/2102476490344730950) · **Test status in this repository**: Not tested
 
 ### Historical outputs
 
