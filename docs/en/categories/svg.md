@@ -2,7 +2,7 @@
 
 [简体中文](../../categories/svg.md) | **English**
 
-> Draw recognizable objects and believable relationships · **30 challenges**
+> Draw recognizable objects and believable relationships · **32 challenges**
 
 [← Home](../../../README.en.md) · [All challenges](../INDEX.md)
 
@@ -10,7 +10,7 @@
 
 ## An octopus operating a pipe organ
 
-**ID**: `svg-001` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 1)
+**ID**: `svg-001` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 1)
 
 An octopus plays a pipe organ, testing both tentacle anatomy and a convincing playing pose.
 
@@ -40,7 +40,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A giraffe assembling a grandfather clock
 
-**ID**: `svg-002` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 2)
+**ID**: `svg-002` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 2)
 
 A giraffe assembles a grandfather clock, combining a long-necked animal with delicate machinery.
 
@@ -70,7 +70,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A starfish driving a bulldozer
 
-**ID**: `svg-003` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 3)
+**ID**: `svg-003` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 3)
 
 A starfish sits at the controls of a bulldozer, testing machinery detail and the driving pose.
 
@@ -100,7 +100,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A moose conducting a carousel
 
-**ID**: `svg-004` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 4)
+**ID**: `svg-004` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 4)
 
 A moose conducts a carousel like an orchestra, testing the relationship between two different actions.
 
@@ -130,7 +130,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A flamingo repairing a telescope
 
-**ID**: `svg-005` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 5)
+**ID**: `svg-005` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 5)
 
 A flamingo repairs a telescope, combining slender limbs with detailed equipment.
 
@@ -160,7 +160,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A hedgehog playing an accordion
 
-**ID**: `svg-006` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 6)
+**ID**: `svg-006` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 6)
 
 A hedgehog plays an accordion, coordinating its body with the bellows and keyboard.
 
@@ -190,7 +190,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A jellyfish piloting a Ferris wheel
 
-**ID**: `svg-007` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 7)
+**ID**: `svg-007` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 7)
 
 A jellyfish operates a Ferris wheel, connecting tentacles, controls, and a large machine.
 
@@ -220,7 +220,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## An elephant typing on a typewriter
 
-**ID**: `svg-008` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 8)
+**ID**: `svg-008` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 8)
 
 An elephant types on a typewriter, testing how its trunk or limbs interact with small keys.
 
@@ -250,7 +250,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A chameleon tuning a grand piano
 
-**ID**: `svg-009` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 9)
+**ID**: `svg-009` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 9)
 
 A chameleon tunes a grand piano, testing a complex instrument and a precise action.
 
@@ -280,7 +280,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A penguin juggling chainsaws
 
-**ID**: `svg-010` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 10)
+**ID**: `svg-010` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 10)
 
 A penguin juggles several chainsaws, testing object recognition and implied motion.
 
@@ -310,7 +310,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A sloth steering an excavator
 
-**ID**: `svg-011` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 11)
+**ID**: `svg-011` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 11)
 
 A sloth drives an excavator, linking the animal to the cab and mechanical arm.
 
@@ -340,7 +340,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A dragonfly balancing a chandelier
 
-**ID**: `svg-012` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 12)
+**ID**: `svg-012` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 12)
 
 A dragonfly balances a large chandelier, combining a delicate creature with an intricate object.
 
@@ -370,7 +370,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A rhinoceros painting a lighthouse
 
-**ID**: `svg-013` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 13)
+**ID**: `svg-013` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 13)
 
 A rhinoceros paints a tall lighthouse, testing scale differences and a painting pose.
 
@@ -400,7 +400,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A seahorse examining a microscope
 
-**ID**: `svg-014` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 14)
+**ID**: `svg-014` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 14)
 
 A seahorse examines a microscope, combining a small animal with a precision instrument.
 
@@ -430,7 +430,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A peacock spinning a pottery wheel
 
-**ID**: `svg-015` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 15)
+**ID**: `svg-015` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 15)
 
 A peacock spins a pottery wheel, combining elaborate feathers with a rotating tool.
 
@@ -460,7 +460,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A kangaroo climbing a radio tower
 
-**ID**: `svg-016` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 16)
+**ID**: `svg-016` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 16)
 
 A kangaroo climbs a radio tower, testing pose, support points, and tall structures.
 
@@ -490,7 +490,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A lobster polishing a harp
 
-**ID**: `svg-017` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 17)
+**ID**: `svg-017` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 17)
 
 A lobster polishes a harp, testing contact points and instrument details.
 
@@ -520,7 +520,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A porcupine pushing a lawnmower
 
-**ID**: `svg-018` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 18)
+**ID**: `svg-018` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 18)
 
 A porcupine pushes a lawnmower, combining spines, a handle, and a pushing pose.
 
@@ -550,7 +550,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A gecko installing a satellite dish
 
-**ID**: `svg-019` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 19)
+**ID**: `svg-019` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 19)
 
 A gecko installs a satellite dish on a building, testing attachment and installation poses.
 
@@ -580,7 +580,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## An iguana carving a totem pole
 
-**ID**: `svg-020` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 20)
+**ID**: `svg-020` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 20)
 
 An iguana carves a wooden totem pole, testing tool use and intricate patterns.
 
@@ -610,7 +610,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## An armadillo lifting a drawbridge
 
-**ID**: `svg-021` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 21)
+**ID**: `svg-021` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 21)
 
 An armadillo raises a drawbridge, testing the lifting mechanism and raised bridge state.
 
@@ -640,7 +640,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A mantis studying a sextant
 
-**ID**: `svg-022` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 22)
+**ID**: `svg-022` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 22)
 
 A mantis studies a sextant, testing recognition of an unfamiliar precision instrument.
 
@@ -670,7 +670,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## An ostrich pulling a rickshaw
 
-**ID**: `svg-023` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 23)
+**ID**: `svg-023` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 23)
 
 An ostrich pulls a rickshaw, testing long legs and the direction of pulling forces.
 
@@ -700,7 +700,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A squid disassembling a printing press
 
-**ID**: `svg-024` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 24)
+**ID**: `svg-024` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 24)
 
 A squid takes apart a printing press, testing many mechanical parts and tentacle actions.
 
@@ -730,7 +730,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A butterfly inspecting a steam engine
 
-**ID**: `svg-025` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 25)
+**ID**: `svg-025` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 25)
 
 A butterfly inspects a steam engine, combining organic wings with complex machinery.
 
@@ -760,7 +760,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A crab descending a fire escape
 
-**ID**: `svg-026` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 26)
+**ID**: `svg-026` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 26)
 
 A crab descends an external fire escape, testing spatial direction and gait.
 
@@ -790,7 +790,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A venus flytrap swallowing a street lamp
 
-**ID**: `svg-027` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 27)
+**ID**: `svg-027` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 27)
 
 A giant Venus flytrap swallows a street lamp, testing scale and enclosure relationships.
 
@@ -820,7 +820,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## Coral cleaning a ship's wheel
 
-**ID**: `svg-028` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 28)
+**ID**: `svg-028` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 28)
 
 Coral cleans a ship's wheel, testing how an unusual subject can express an action.
 
@@ -850,7 +850,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## A sea anemone threading a loom
 
-**ID**: `svg-029` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 29)
+**ID**: `svg-029` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 29)
 
 A sea anemone threads a loom, testing dense thin lines and precise movements.
 
@@ -880,7 +880,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 ## An orchid supporting a pergola
 
-**ID**: `svg-030` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (source item 30)
+**ID**: `svg-030` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 30)
 
 An orchid supports a garden pergola, testing structural support and plant form.
 
@@ -905,5 +905,63 @@ An orchid supports a garden pergola, testing structural support and plant form.
 [View output / demo](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [Source record](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-30) · [Test context](https://gally.net/temp/20260914pelican-alternatives/about.html)
 
 Source 2025 round: default settings, one plain user message, no system prompt. Exact run day was not published.
+
+---
+
+## Render the final PGN position as SVG
+
+**ID**: `reddit-pgn-svg-pgn-svg` · **Source**: [u/bobaburger](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) (catalog source position 1)
+
+Track a specified chess game and highlight its last move in SVG.
+
+**Source credit / attribution lead**: u/bobaburger
+
+**Prompt availability**: Public prompt
+
+**What to observe**
+
+- Piece placement and board orientation are correct
+- The highlighted move matches the PGN
+
+**Tags**: `vector drawing`, `source collection`
+
+**Prompts and outputs**: [View the source](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Qwen 3.6 27B（多种量化 / multiple quants）** · Run date not disclosed · u/bobaburger
+
+[View output / demo](https://qwen3-6-27b-benchmark.vercel.app/) · [Source record](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · [Test context](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/)
+
+Historical outputs in the post or comments, reported by participants. Execution success and scientific accuracy were not verified here. Quantization, hardware, tools and iteration conditions differ.
+
+---
+
+## Draw a unicorn in SVG
+
+**ID**: `springprompt-unicorn` · **Source**: [Spring Prompt / SVG unicorn](https://springprompt.com/playground/unicorn) (catalog source position 1)
+
+Inspect the horn, legs, mane, tail and connected shapes; this is not a direct reproduction of the TikZ version.
+
+**Source credit / attribution lead**: Spring Prompt / SVG unicorn
+
+**Prompt availability**: Public prompt
+
+**What to observe**
+
+- Horn and legs are sensibly placed
+- Paths avoid breaks and stray overlaps
+
+**Tags**: `vector drawing`, `source collection`
+
+**Prompts and outputs**: [View the source](https://springprompt.com/playground/unicorn) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**多个模型，见原站 / Multiple models; see source** · Run date not disclosed · Spring Prompt
+
+[View output / demo](https://springprompt.com/playground/unicorn) · [Source record](https://springprompt.com/playground/unicorn) · [Test context](https://springprompt.com/playground/unicorn)
+
+The page changes over time and cached/live model counts differ, so no dynamic count, scores or ranking are copied. This SVG adaptation draws on the TikZ unicorn idea; this page is not claimed as the earliest origin.
 
 ---

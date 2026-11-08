@@ -26,7 +26,8 @@ def render(cases, sources, language='zh', history=()):
         '[简体中文](../INDEX.md) | **English**' if english else '**简体中文** | [English](en/INDEX.md)', '',
         f'> **{len(cases)} challenges** from public sources. This is a curated index; this repository has not tested these challenges.' if english else f'> 收录 **{len(cases)} 道**公开来源的 AI 测试案例。这里是导航与整理，不代表已经由本仓库实测。', '',
         ('Browse by type: ' if english else '按类型查看：') + ' · '.join(f'[{label} ({count[key]})](categories/{key}.md)' for key,label,_ in categories), '',
-        '| ID | Challenge | Type | Source |' if english else '| 编号 | 案例 | 分类 | 来源 |', '| --- | --- | --- | --- |']
+        '[Source research and new additions](RESEARCH.md)' if english else '[本轮新收录与社区出处](RESEARCH.md)', '',
+        '| ID | Challenge | Type | Material | Source |' if english else '| 编号 | 案例 | 分类 | 资料形态 | 来源 |', '| --- | --- | --- | --- | --- |']
     pages={}
     for key,label,subtitle in categories:
         entries=[c for c in cases if c['category']==key]
@@ -38,12 +39,18 @@ def render(cases, sources, language='zh', history=()):
         for c in entries:
             src_name=source_names[c['source_id']]
             lines.extend([f'## {c["title"+suffix]}', '',
-                f'**ID**: `{c["id"]}` · **Source**: [{src_name}]({c["source_url"]}) (source item {c["source_item_no"]})' if english else f'**编号**：`{c["id"]}` · **收录来源**：[{src_name}]({c["source_url"]})（原站第 {c["source_item_no"]} 题）', ''])
+                f'**ID**: `{c["id"]}` · **Source**: [{src_name}]({c["source_url"]}) (catalog source position {c["source_item_no"]})' if english else f'**编号**：`{c["id"]}` · **收录来源**：[{src_name}]({c["source_url"]})（本库来源组内序号 {c["source_item_no"]}）', ''])
             if not english:
                 lines.extend([f'**英文标题**：{c["title_en"]}', ''])
             lines.extend([c['summary'+suffix], '',
                 f'**Source credit / attribution lead**: {c["source_credit_en"]}' if english else f'**原站署名 / 来源线索**：{c["source_credit"]}', '',
                 '**What to observe**' if english else '**可以观察什么？**', ''])
+            if 'prompt_availability' in c:
+                labels = {'public': ('公开题面', 'Public prompt'), 'partial': ('示例请求或部分题面', 'Example request / partial prompt'), 'not_verified': ('完整原题未确认，按作品整理', 'Full prompt unconfirmed; adapted from work')}
+                prompt_label = labels[c['prompt_availability']][1 if english else 0]
+                lines[-2:-2] = [('**Prompt availability**: ' if english else '**题面情况**：') + prompt_label, '']
+                if c.get('evidence_level') == 'prompt_only':
+                    lines[-2:-2] = ['No historical output found; this entry links to a prompt only.' if english else '尚未找到历史效果；本条仅提供原始题面，不补造模型输出。', '']
             lines.extend(f'- {v}' for v in c['checks'+suffix])
             lines.extend(['', ('**Tags**: ' if english else '**标签**：') + ', '.join('`'+tag+'`' for tag in c['tags'+suffix]), '',
                 f'**Prompts and outputs**: [View the source]({c["source_url"]}) · **Test status in this repository**: Not tested' if english else f'**提示词与作品**：[前往原站查看]({c["source_url"]}) · **本库测试情况**：未实测', ''])
@@ -54,7 +61,8 @@ def render(cases, sources, language='zh', history=()):
         pages[base/'categories'/f'{key}.md']='\n'.join(lines).rstrip()+'\n'
         for c in entries:
             title = c['title'+suffix]
-            index.append(f'| `{c["id"]}` | [{title}](categories/{key}.md#{slug(title)}) | {label} | [{source_names[c["source_id"]]}]({c["source_url"]}) |')
+            material = ('Work adaptation' if english else '作品改编方向') if c.get('evidence_level') == 'public_reader_metadata' else ('Prompt only' if english else '仅题面') if c.get('evidence_level') == 'prompt_only' else ('Official demo' if english else '官方演示') if c['source_id'].startswith('google-') else ('Prompt + output' if english else '题面与效果')
+            index.append(f'| `{c["id"]}` | [{title}](categories/{key}.md#{slug(title)}) | {label} | {material} | [{source_names[c["source_id"]]}]({c["source_url"]}) |')
     pages[base/'INDEX.md']='\n'.join(index)+'\n'
     return pages
 
@@ -73,10 +81,14 @@ def main():
     problems=check_data(cases,sources)
     history=json.loads((ROOT/'data/history.json').read_text(encoding='utf-8'))
     problems.extend(check_history(cases,history,ROOT))
+    from research import check_research, render_research
+    research=json.loads((ROOT/'data/research.json').read_text(encoding='utf-8'))
+    problems.extend(check_research(cases,research))
     if problems:
         print('Catalog invalid: '+ '; '.join(problems));return 1
     pages={**render(cases,sources,history=history), **render(cases,sources,'en',history),
-           **render_history(cases,history,'zh'), **render_history(cases,history,'en')}
+           **render_history(cases,history,'zh'), **render_history(cases,history,'en'),
+           **render_research(cases,sources,research,'zh'), **render_research(cases,sources,research,'en')}
     mismatch=[]
     for rel,contents in pages.items():
         path=ROOT/rel

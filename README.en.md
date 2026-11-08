@@ -5,11 +5,13 @@
 > A collection of fun, strange, and imaginative challenges to try with AI models.
 > Collect interesting tasks first, with clear sources and useful observation points.
 
-**Current collection: 51 challenges · 3 source websites · 5 types.** The initial release contained 50 tasks. See the [full index](docs/en/INDEX.md).
+**Current collection: 105 challenges · 35 sources · 5 types.** The initial release contained 50 tasks. See the [full index](docs/en/INDEX.md).
 
-**Collection date: 2026-11-07.** Source websites may continue to change.
+**Collection date: 2026-11-08.** Source websites may continue to change.
 
 [All challenges](docs/en/INDEX.md) · [Previews](docs/en/GALLERY.md) · [Historical outputs](docs/en/HISTORY.md) · [Sources](docs/en/SOURCES.md) · [Guide](docs/en/GUIDE.md) · [Contribute](CONTRIBUTING.en.md)
+
+This pass adds **54 challenge directions** and a **146-record cross-community source ledger**, which overlaps the catalog and is not an extra challenge count. [Browse new additions and source leads](docs/en/RESEARCH.md). Public prompts, official demos, work adaptations and research leads are labeled separately.
 
 ## Browse by type
 
@@ -55,7 +57,7 @@ These are unchanged upstream thumbnails for the **separate Pelican SDF 3D extens
 
 Image credit: **AzatJalilov / Pelican SDF contributors**, Copyright (c) 2026 Pelican SDF contributors, [MIT license](assets/licenses/pelican-sdf-MIT.txt). See [all five previews](docs/en/GALLERY.md) for individual image sources, model records, and limitations, and the [media notice](THIRD_PARTY_MEDIA.en.md).
 
-All original 50 tasks also have historical viewing links: specific source-gallery items and SVG files, or the source site's original interactive answers. Browse [55 historical output records](docs/en/HISTORY.md). We have not regenerated these works or independently verified their generation process.
+All original 50 tasks also have historical viewing links: specific source-gallery items and SVG files, or the source site's original interactive answers. Browse [101 historical output records](docs/en/HISTORY.md). We have not regenerated these works or independently verified their generation process.
 
 ## How to try a challenge
 

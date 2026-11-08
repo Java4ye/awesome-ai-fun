@@ -58,8 +58,19 @@ class CatalogTests(unittest.TestCase):
                     self.assertEqual(index.count(f'`{case["id"]}`'),1)
 
     def test_history_covers_every_case_with_valid_provenance(self):
-        self.assertEqual({c['id'] for c in self.cases},{r['case_id'] for r in self.history})
+        expected={c['id'] for c in self.cases if c.get('evidence_level') != 'prompt_only'}
+        self.assertEqual(expected,{r['case_id'] for r in self.history})
+        prompt_only={c['id'] for c in self.cases if c.get('evidence_level') == 'prompt_only'}
+        self.assertTrue(all(c['prompt_availability']=='public' for c in self.cases if c['id'] in prompt_only))
         self.assertEqual([],check_history(self.cases,self.history,ROOT))
+
+    def test_research_preserves_discovery_and_rejects_false_promotions(self):
+        from research import check_research
+        records=json.loads((ROOT/'data/research.json').read_text(encoding='utf8'))
+        self.assertEqual([],check_research(self.cases,records))
+        bad=deepcopy(records)
+        bad[0]['included_case_id']='invented-case'
+        self.assertTrue(any('unknown case' in e for e in check_research(self.cases,bad)))
 
     def test_link_only_media_cannot_become_a_local_preview(self):
         record=deepcopy(next(r for r in self.history if r.get('preview')))

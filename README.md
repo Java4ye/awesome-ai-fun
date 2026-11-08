@@ -7,12 +7,14 @@
 
 A curated collection of fun and reproducible AI model challenges — in Chinese and English, with source links.
 
-**📦 当前收录：51 道案例 · 3 个资源网站 · 5 个分类**（首批版本为 50 道）  
-**🗓️ 本次整理：2026-11-07**（来源网站可能继续更新）
+**📦 当前收录：105 道案例 · 35 个来源 · 5 个分类**（首批版本为 50 道）<br>
+**🗓️ 本次整理：2026-11-08**（来源网站可能继续更新）
 
 [📚 全部案例](docs/INDEX.md) · [🖼️ 效果预览](docs/GALLERY.md) · [🕰️ 历史效果](docs/HISTORY.md) · [🔎 资源网站](docs/SOURCES.md) · [🧭 使用指南](docs/GUIDE.md) · [🤝 贡献](CONTRIBUTING.md)
 
 ---
+
+本轮新增 **54 道案例方向**，另整理 **146 条跨社区来源记录**（含已收录条目，不能相加算题数）。[查看新收录与 X / Reddit / GitHub 来源线索](docs/RESEARCH.md)。公开题面、官方演示、作品改编和待核验线索已分别标注。
 
 ## 🏷️ 按类型找题
 
@@ -58,7 +60,7 @@ A curated collection of fun and reproducible AI model challenges — in Chinese 
 
 图片出处：**AzatJalilov / Pelican SDF contributors**，Copyright (c) 2026 Pelican SDF contributors，[MIT 许可](assets/licenses/pelican-sdf-MIT.txt)，原项目缩略图未修改。逐张原图、模型记录和局限说明见 [全部 5 张预览](docs/GALLERY.md)及 [素材署名说明](THIRD_PARTY_MEDIA.md)。
 
-原有 50 道题也已补齐观看入口：SVG 题可回到原站的具体题号及历史 SVG，动画、3D、游戏、应用题可打开来源方原始答案。查看 [55 条历史效果记录](docs/HISTORY.md)。这些都是来源方记录，本库未重新调用旧模型或验证其生成过程。
+原有 50 道题也已补齐观看入口：SVG 题可回到原站的具体题号及历史 SVG，动画、3D、游戏、应用题可打开来源方原始答案。查看 [101 条历史效果记录](docs/HISTORY.md)。这些都是来源方记录，本库未重新调用旧模型或验证其生成过程。
 
 ## 🧪 怎么测试？
 

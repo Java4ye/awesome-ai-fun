@@ -1796,5 +1796,1881 @@
     "prompt_status": "source_only",
     "status": "collected_not_tested",
     "verified_on": "2026-11-07"
+  },
+  {
+    "id": "electricazimuth-aquarium",
+    "title": "自主游动的水族箱",
+    "title_en": "Autonomous aquarium",
+    "category": "animation",
+    "summary": "多条鱼自主游动，在鱼缸边缘平滑转向。",
+    "summary_en": "Multiple fish wander and turn within a bounded tank.",
+    "checks": [
+      "鱼是否自然转向并留在边界内",
+      "动画是否随帧率变化而改变速度"
+    ],
+    "checks_en": [
+      "Fish turn and stay within the tank",
+      "Motion remains consistent across frame rates"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "electricazimuth",
+    "source_item_no": 1,
+    "source_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/aquarium.md",
+    "source_credit": "David Harris / LocalLLM Visual Code Test",
+    "source_credit_en": "David Harris / LocalLLM Visual Code Test",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "electricazimuth-ball_bound",
+    "title": "多球重力与阻尼碰撞",
+    "title_en": "Many-ball gravity and damping",
+    "category": "animation",
+    "summary": "在方形容器中模拟多球碰撞与能量损耗。",
+    "summary_en": "Simulate interacting balls and dissipative collisions in a square container.",
+    "checks": [
+      "球体碰撞后是否分离",
+      "重力和阻尼是否实际影响轨迹"
+    ],
+    "checks_en": [
+      "Colliding balls separate",
+      "Gravity and damping affect trajectories"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "electricazimuth",
+    "source_item_no": 2,
+    "source_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/ball_bound.md",
+    "source_credit": "David Harris / LocalLLM Visual Code Test",
+    "source_credit_en": "David Harris / LocalLLM Visual Code Test",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "electricazimuth-chicken",
+    "title": "会散步和下蛋的母鸡",
+    "title_en": "Wandering and egg-laying chicken",
+    "category": "animation",
+    "summary": "母鸡在散步和下蛋状态间切换，鸡蛋留在产生的位置。",
+    "summary_en": "A chicken switches between wandering and laying, leaving eggs behind.",
+    "checks": [
+      "下蛋期间是否暂停移动",
+      "鸡蛋是否被正确创建和保留"
+    ],
+    "checks_en": [
+      "Movement pauses during laying",
+      "Eggs are created and retained"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "electricazimuth",
+    "source_item_no": 3,
+    "source_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/chicken.md",
+    "source_credit": "David Harris / LocalLLM Visual Code Test",
+    "source_credit_en": "David Harris / LocalLLM Visual Code Test",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "electricazimuth-fireworks",
+    "title": "自动发射的烟花粒子",
+    "title_en": "Autonomous fireworks particles",
+    "category": "animation",
+    "summary": "火箭升空后爆炸成受重力影响、逐渐消失的粒子。",
+    "summary_en": "Rockets launch and burst into fading particles affected by gravity.",
+    "checks": [
+      "火箭和爆炸粒子的生命周期是否正确",
+      "粒子是否被及时清理"
+    ],
+    "checks_en": [
+      "Rocket and burst lifecycles are distinct",
+      "Expired particles are removed"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "electricazimuth",
+    "source_item_no": 4,
+    "source_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/fireworks.md",
+    "source_credit": "David Harris / LocalLLM Visual Code Test",
+    "source_credit_en": "David Harris / LocalLLM Visual Code Test",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "electricazimuth-lightshow",
+    "title": "光线步进迷幻融合球",
+    "title_en": "Ray-marched psychedelic metaballs",
+    "category": "3d",
+    "summary": "使用 WebGL 和 SDF 表现移动球体的平滑融合。",
+    "summary_en": "Use WebGL and SDF ray marching to show smoothly merging spheres.",
+    "checks": [
+      "是否真的使用距离场和光线步进",
+      "融合与表面光照是否连续"
+    ],
+    "checks_en": [
+      "Distance fields and ray marching are implemented",
+      "Merging and surface lighting remain continuous"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "electricazimuth",
+    "source_item_no": 5,
+    "source_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/lightshow.md",
+    "source_credit": "David Harris / LocalLLM Visual Code Test",
+    "source_credit_en": "David Harris / LocalLLM Visual Code Test",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "electricazimuth-vehicles",
+    "title": "车辆碰撞爆炸与重新开始",
+    "title_en": "Vehicle collision and restart",
+    "category": "animation",
+    "summary": "车辆从屏幕另一侧重现，碰撞触发爆炸并重新初始化场景。",
+    "summary_en": "Vehicles wrap around the screen, collide, explode and restart.",
+    "checks": [
+      "穿越边缘后是否从对侧出现",
+      "爆炸结束后是否清理并重启"
+    ],
+    "checks_en": [
+      "Vehicles wrap to the opposite edge",
+      "The scene resets after the explosion"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "electricazimuth",
+    "source_item_no": 6,
+    "source_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/vehicles.md",
+    "source_credit": "David Harris / LocalLLM Visual Code Test",
+    "source_credit_en": "David Harris / LocalLLM Visual Code Test",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "stock42-triple-pendulum",
+    "title": "三摆混沌轨迹画笔",
+    "title_en": "Triple-pendulum chaos painter",
+    "category": "animation",
+    "summary": "通过三段摆的末端轨迹观察混沌与数值稳定性。",
+    "summary_en": "Explore chaos and numerical stability through the endpoint of a three-link pendulum.",
+    "checks": [
+      "轨迹是否由耦合运动产生",
+      "暂停、重置是否一致"
+    ],
+    "checks_en": [
+      "Trails follow coupled pendulum motion",
+      "Pause and reset work consistently"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "stock42",
+    "source_item_no": 1,
+    "source_url": "https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/triple-pendulum.md",
+    "source_credit": "Stock42 Creative Coding Challenges",
+    "source_credit_en": "Stock42 Creative Coding Challenges",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "stock42-1kg-block-bounces",
+    "title": "用方块碰撞次数观察 π",
+    "title_en": "Pi through block collisions",
+    "category": "animation",
+    "summary": "观察不同质量比例下的弹性碰撞次数，区分精确结论和视觉近似。",
+    "summary_en": "Compare elastic-collision counts across mass ratios, separating exact results from visual approximations.",
+    "checks": [
+      "碰撞是否保持动量和能量",
+      "是否说明质量比例与计数的适用条件"
+    ],
+    "checks_en": [
+      "Collisions preserve momentum and energy",
+      "Mass-ratio and counting assumptions are explained"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "stock42",
+    "source_item_no": 2,
+    "source_url": "https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/1kg-block-bounces.md",
+    "source_credit": "Stock42 Creative Coding Challenges",
+    "source_credit_en": "Stock42 Creative Coding Challenges",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "stock42-balls-fall",
+    "title": "高尔顿板与钟形分布",
+    "title_en": "Galton board and bell curve",
+    "category": "animation",
+    "summary": "小球穿过钉阵进入统计槽，观察分布逐渐形成。",
+    "summary_en": "Balls pass through pegs into bins to build a distribution.",
+    "checks": [
+      "落球与直方图是否对应",
+      "能否区分概率演示和真实碰撞模拟"
+    ],
+    "checks_en": [
+      "Falling balls correspond to histogram counts",
+      "Probability animation is distinguished from physical collision simulation"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "stock42",
+    "source_item_no": 3,
+    "source_url": "https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/balls-fall.md",
+    "source_credit": "Stock42 Creative Coding Challenges",
+    "source_credit_en": "Stock42 Creative Coding Challenges",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "stock42-tetris-3d",
+    "title": "带音效与排行榜的 3D 风格俄罗斯方块",
+    "title_en": "3D-style Tetris with sound and scores",
+    "category": "games",
+    "summary": "把投影展示、落块规则、声音和持久化分数放进单文件游戏。",
+    "summary_en": "Combine projected visuals, falling-block rules, audio and persistent scores in one file.",
+    "checks": [
+      "消行与碰撞规则是否正确",
+      "重开与排行榜是否正确保存"
+    ],
+    "checks_en": [
+      "Line clearing and collision rules work",
+      "Restart and score persistence work"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "stock42",
+    "source_item_no": 4,
+    "source_url": "https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md",
+    "source_credit": "Stock42 Creative Coding Challenges",
+    "source_credit_en": "Stock42 Creative Coding Challenges",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "kcores-ball-bouncing-inside-spinning-heptagon",
+    "title": "旋转七边形中的 20 个编号小球",
+    "title_en": "20 numbered balls in a spinning heptagon",
+    "category": "animation",
+    "summary": "在旋转七边形中模拟球间碰撞、壁面碰撞和带摩擦自转；与原有单球六边形题不同。",
+    "summary_en": "Simulate ball-ball and rotating-wall collisions with spin and friction; distinct from the existing single-ball hexagon task.",
+    "checks": [
+      "是否同时处理球间和移动壁面碰撞",
+      "编号与自转是否对应"
+    ],
+    "checks_en": [
+      "Both ball-ball and moving-wall collisions are handled",
+      "Number labels reflect ball spin"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "kcores",
+    "source_item_no": 1,
+    "source_url": "https://github.com/KCORES/kcores-llm-arena/blob/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-ball-bouncing-inside-spinning-heptagon/README.md",
+    "source_credit": "KCORES LLM Arena",
+    "source_credit_en": "KCORES LLM Arena",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "kcores-mandelbrot-set-meet-libai",
+    "title": "李白诗句绘制 Mandelbrot 分形",
+    "title_en": "Mandelbrot fractal drawn with Li Bai characters",
+    "category": "animation",
+    "summary": "将诗句字符处理、分形缩放与帧率统计结合在 Canvas 动画中。",
+    "summary_en": "Combine poem-character processing, fractal zoom and frame-rate reporting in Canvas.",
+    "checks": [
+      "字符是否去重并保留原顺序",
+      "缩放中心、循环与帧率是否满足题面"
+    ],
+    "checks_en": [
+      "Character deduplication preserves order",
+      "Zoom center, looping and frame-rate reporting follow the prompt"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "kcores",
+    "source_item_no": 2,
+    "source_url": "https://github.com/KCORES/kcores-llm-arena/blob/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/README.md",
+    "source_credit": "KCORES LLM Arena",
+    "source_credit_en": "KCORES LLM Arena",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "psydox-01",
+    "title": "单文件光线投射 FPS",
+    "title_en": "Single-file raycasting FPS",
+    "category": "games",
+    "summary": "用受限浏览器技术实现第一人称地图、敌人和射击闭环。",
+    "summary_en": "Build a constrained first-person map with enemies and shooting.",
+    "checks": [
+      "墙体碰撞与敌人行为是否可用",
+      "胜负、HUD 与重开是否完整"
+    ],
+    "checks_en": [
+      "Wall collisions and enemy behavior work",
+      "Win/loss, HUD and restart are complete"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 1,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/01_Browser_FPS_Raycasting_Game_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-03",
+    "title": "带最佳成绩的记忆翻牌",
+    "title_en": "Memory matching with best scores",
+    "category": "games",
+    "summary": "考察洗牌、翻牌状态与本地成绩保存。",
+    "summary_en": "Test shuffling, card states and saved best scores.",
+    "checks": [
+      "是否阻止重复点击和多翻牌",
+      "重开后状态与存档是否正确"
+    ],
+    "checks_en": [
+      "Repeated clicks and excess reveals are prevented",
+      "Restart resets play state and retains records"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 2,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/03_Memory_Card_Matching_Game_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-04",
+    "title": "Canvas 打砖块",
+    "title_en": "Canvas Breakout",
+    "category": "games",
+    "summary": "完成球拍、砖块、生命与关卡结束条件。",
+    "summary_en": "Implement paddle control, bricks, lives and end states.",
+    "checks": [
+      "球拍与砖块碰撞是否可靠",
+      "胜负后能否正确重新开始"
+    ],
+    "checks_en": [
+      "Paddle and brick collisions are reliable",
+      "Restart works after winning or losing"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 3,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/04_Breakout_Canvas_Game_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-05",
+    "title": "本地保存的个人记账应用",
+    "title_en": "Persistent personal expense tracker",
+    "category": "applications",
+    "summary": "实现记录增删改、筛选、汇总与刷新后的持久化。",
+    "summary_en": "Implement expense CRUD, filters, summaries and reload persistence.",
+    "checks": [
+      "金额和日期是否校验",
+      "筛选后汇总与保存是否一致"
+    ],
+    "checks_en": [
+      "Amounts and dates are validated",
+      "Filtered summaries and persistence remain consistent"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 4,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/05_Personal_Expense_Tracker_App_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-06",
+    "title": "俯视角 2D 驾驶游戏",
+    "title_en": "Top-down 2D driving game",
+    "category": "games",
+    "summary": "在滚动赛道中处理操控、障碍和终点流程。",
+    "summary_en": "Handle controls, obstacles and completion on a scrolling track.",
+    "checks": [
+      "相机与车辆位置是否一致",
+      "碰撞重置与终点是否可达"
+    ],
+    "checks_en": [
+      "Camera movement follows the vehicle",
+      "Collision resets work and the finish is reachable"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 5,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/06_Top_Down_2D_Driving_Game_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-07",
+    "title": "可拖拽与归档的任务看板",
+    "title_en": "Drag-and-drop Kanban board",
+    "category": "applications",
+    "summary": "结合任务和列管理、归档恢复、组合筛选与持久化。",
+    "summary_en": "Combine task and column management, archive restore, filters and persistence.",
+    "checks": [
+      "拖拽后任务是否仍属于正确列",
+      "归档恢复和键盘操作是否可用"
+    ],
+    "checks_en": [
+      "Dragging preserves correct task-column relationships",
+      "Archive restore and keyboard controls work"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 6,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/07_Kanban_Board_App_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-08",
+    "title": "Python 标准库图层绘图编辑器",
+    "title_en": "Python standard-library layered editor",
+    "category": "applications",
+    "summary": "用 Tkinter 和自建像素数据实现画笔、图层、滤镜与撤销。",
+    "summary_en": "Use Tkinter and a custom raster model for tools, layers, filters and undo.",
+    "checks": [
+      "图层合成与选区是否正确",
+      "撤销重做和文件保存是否可靠"
+    ],
+    "checks_en": [
+      "Layer compositing and selections work",
+      "Undo, redo and saving are reliable"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 7,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "psydox-09",
+    "title": "Python 软件渲染 3D 游戏",
+    "title_en": "Python software-rendered 3D game",
+    "category": "3d",
+    "summary": "不用图形引擎，在标准库约束下完成三维投影和游戏状态。",
+    "summary_en": "Implement 3D projection and game states without a graphics engine.",
+    "checks": [
+      "遮挡、裁剪与投影是否正确",
+      "碰撞与性能是否支持持续游玩"
+    ],
+    "checks_en": [
+      "Occlusion, clipping and projection work",
+      "Collisions and performance support continued play"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "psydox",
+    "source_item_no": 8,
+    "source_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/09_Python_Software_Rendered_3D_Game_Test.txt",
+    "source_credit": "psydox / Local LLM Coding Benchmark",
+    "source_credit_en": "psydox / Local LLM Coding Benchmark",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "prompt_only"
+  },
+  {
+    "id": "google-sim-fractals",
+    "title": "交互式分形可视化",
+    "title_en": "Interactive fractal visualization",
+    "category": "animation",
+    "summary": "从官方分形演示观察缩放与细节变化。",
+    "summary_en": "Explore zoom and detail through the official fractal demo.",
+    "checks": [
+      "缩放是否产生一致的细节",
+      "交互是否真的改变计算结果"
+    ],
+    "checks_en": [
+      "Zoom produces coherent detail",
+      "Interaction changes computed results"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "google-sim",
+    "source_item_no": 1,
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "source_credit": "Google / Gemini interactive visualizations",
+    "source_credit_en": "Google / Gemini interactive visualizations",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-sim-double-slit",
+    "title": "双缝干涉交互演示",
+    "title_en": "Interactive double-slit interference",
+    "category": "animation",
+    "summary": "以官方双缝实验演示为测试方向，观察参数与干涉图样。",
+    "summary_en": "Use the official double-slit demo to explore parameters and interference patterns.",
+    "checks": [
+      "参数变化是否对应条纹变化",
+      "能否区分演示近似和物理结论"
+    ],
+    "checks_en": [
+      "Parameter changes affect fringes",
+      "Demonstration approximations are distinguished from physics claims"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "google-sim",
+    "source_item_no": 2,
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "source_credit": "Google / Gemini interactive visualizations",
+    "source_credit_en": "Google / Gemini interactive visualizations",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-sim-double-pendulum",
+    "title": "双摆混沌交互演示",
+    "title_en": "Interactive double-pendulum chaos",
+    "category": "animation",
+    "summary": "通过官方双摆演示观察初始条件与运动变化。",
+    "summary_en": "Explore initial conditions and motion with the official double-pendulum demo.",
+    "checks": [
+      "轨迹是否由双摆耦合产生",
+      "能否调整参数并重新开始"
+    ],
+    "checks_en": [
+      "Trajectories follow coupled pendulum motion",
+      "Parameters can be adjusted and the simulation restarted"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "google-sim",
+    "source_item_no": 3,
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "source_credit": "Google / Gemini interactive visualizations",
+    "source_credit_en": "Google / Gemini interactive visualizations",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-studio-neon_arena_laser_tag",
+    "title": "Neon Arena 多人激光对战",
+    "title_en": "Neon Arena multiplayer laser tag",
+    "category": "games",
+    "summary": "多人房间、机器人对手与限时计分组成联机游戏闭环。",
+    "summary_en": "Combine multiplayer sessions, bot opponents and timed scores.",
+    "checks": [
+      "不同玩家的状态是否同步",
+      "计时结束和积分是否一致"
+    ],
+    "checks_en": [
+      "Player states synchronize",
+      "Round endings and scores remain consistent"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "google-studio",
+    "source_item_no": 1,
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "source_credit": "Google AI Studio / Build mode",
+    "source_credit_en": "Google AI Studio / Build mode",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-studio-cosmic_flow",
+    "title": "Cosmic Flow 多人共享粒子",
+    "title_en": "Cosmic Flow shared particles",
+    "category": "applications",
+    "summary": "多个用户用光标在共享三维空间中生成粒子。",
+    "summary_en": "Multiple users spawn particles with cursors in a shared 3D space.",
+    "checks": [
+      "不同客户端是否看到相同交互",
+      "粒子生命周期和性能是否稳定"
+    ],
+    "checks_en": [
+      "Clients see synchronized interaction",
+      "Particle lifecycles and performance remain stable"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "google-studio",
+    "source_item_no": 2,
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "source_credit": "Google AI Studio / Build mode",
+    "source_credit_en": "Google AI Studio / Build mode",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-studio-neon_claw",
+    "title": "Neon Claw 物理抓娃娃机",
+    "title_en": "Neon Claw physics claw machine",
+    "category": "games",
+    "summary": "把夹爪控制、碰撞、计时与排行榜结合成三维游戏。",
+    "summary_en": "Combine claw controls, collisions, a timer and scores in 3D.",
+    "checks": [
+      "夹爪是否通过碰撞抓取物体",
+      "成功判定与计时是否正确"
+    ],
+    "checks_en": [
+      "The claw grips objects through collisions",
+      "Success detection and timing work"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "google-studio",
+    "source_item_no": 3,
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "source_credit": "Google AI Studio / Build mode",
+    "source_credit_en": "Google AI Studio / Build mode",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-studio-geoseeker",
+    "title": "GeoSeeker 地图交互应用",
+    "title_en": "GeoSeeker map interaction app",
+    "category": "applications",
+    "summary": "以官方地图应用为方向，考察真实外部数据与交互的结合。",
+    "summary_en": "Use the official map app to explore interaction with external data.",
+    "checks": [
+      "地图数据是否来自明确接口",
+      "权限或网络失败时是否可恢复"
+    ],
+    "checks_en": [
+      "Map data has an identifiable API source",
+      "Permission and network failures are recoverable"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "google-studio",
+    "source_item_no": 4,
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "source_credit": "Google AI Studio / Build mode",
+    "source_credit_en": "Google AI Studio / Build mode",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "google-studio-heirloom_recipes",
+    "title": "Heirloom Recipes 家庭协作食谱",
+    "title_en": "Heirloom Recipes collaborative cookbook",
+    "category": "applications",
+    "summary": "组织、导入和生成食谱，并支持家人协作。",
+    "summary_en": "Organize, import and generate recipes with family collaboration.",
+    "checks": [
+      "编辑与保存是否保持一致",
+      "多人协作时是否正确处理权限"
+    ],
+    "checks_en": [
+      "Edits and saved recipes remain consistent",
+      "Collaboration respects access permissions"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "google-studio",
+    "source_item_no": 5,
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "source_credit": "Google AI Studio / Build mode",
+    "source_credit_en": "Google AI Studio / Build mode",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "springprompt-unicorn",
+    "title": "用 SVG 画独角兽",
+    "title_en": "Draw a unicorn in SVG",
+    "category": "svg",
+    "summary": "观察角、四肢、鬃毛、尾巴和形状连接；这不是 TikZ 版本的直接复现。",
+    "summary_en": "Inspect the horn, legs, mane, tail and connected shapes; this is not a direct reproduction of the TikZ version.",
+    "checks": [
+      "角和四肢的位置是否合理",
+      "路径是否存在断裂和多余重叠"
+    ],
+    "checks_en": [
+      "Horn and legs are sensibly placed",
+      "Paths avoid breaks and stray overlaps"
+    ],
+    "tags": [
+      "矢量绘画",
+      "来源整理"
+    ],
+    "tags_en": [
+      "vector drawing",
+      "source collection"
+    ],
+    "source_id": "springprompt",
+    "source_item_no": 1,
+    "source_url": "https://springprompt.com/playground/unicorn",
+    "source_credit": "Spring Prompt / SVG unicorn",
+    "source_credit_en": "Spring Prompt / SVG unicorn",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "between-tokens-interactive-story",
+    "title": "扮演语言模型的交互叙事",
+    "title_en": "An interactive story where you are the model",
+    "category": "applications",
+    "summary": "让读者选择候选回复，观察温度滑杆、上下文消退与叙事分支。",
+    "summary_en": "Let the reader choose candidate replies while exploring temperature, fading context and branching narrative.",
+    "checks": [
+      "温度滑杆是否实际改变概率分布",
+      "是否明确标注预写文本与模拟注意力"
+    ],
+    "checks_en": [
+      "Temperature changes the probability distribution",
+      "Prewritten text and simulated attention are disclosed"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "between-tokens",
+    "source_item_no": 1,
+    "source_url": "https://news.ycombinator.com/item?id=49311484",
+    "source_credit": "Chris Zaharia / Between Tokens",
+    "source_credit_en": "Chris Zaharia / Between Tokens",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "reddit-glass-bridge-glass-bridge",
+    "title": "玻璃桥破裂与受力演示",
+    "title_en": "Glass bridge fracture and loading",
+    "category": "animation",
+    "summary": "在单文件中表现受力、裂纹扩展、碎裂和粒子效果。",
+    "summary_en": "Show loading, crack propagation, shattering and particles in one file.",
+    "checks": [
+      "裂纹位置是否随载荷位置变化",
+      "是否区分视觉效果与准确力学"
+    ],
+    "checks_en": [
+      "Cracks respond to load position",
+      "Visual effects are distinguished from accurate mechanics"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "reddit-glass-bridge",
+    "source_item_no": 1,
+    "source_url": "https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/",
+    "source_credit": "EntelligenceAI / u/entelligenceai17",
+    "source_credit_en": "EntelligenceAI / u/entelligenceai17",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "reddit-pgn-svg-pgn-svg",
+    "title": "从 PGN 棋谱推演并绘制 SVG 棋盘",
+    "title_en": "Render the final PGN position as SVG",
+    "category": "svg",
+    "summary": "从指定棋谱追踪棋子状态，并在 SVG 中标记最后一步。",
+    "summary_en": "Track a specified chess game and highlight its last move in SVG.",
+    "checks": [
+      "棋子位置与棋盘方向是否正确",
+      "最后一步高亮是否对应棋谱"
+    ],
+    "checks_en": [
+      "Piece placement and board orientation are correct",
+      "The highlighted move matches the PGN"
+    ],
+    "tags": [
+      "矢量绘画",
+      "来源整理"
+    ],
+    "tags_en": [
+      "vector drawing",
+      "source collection"
+    ],
+    "source_id": "reddit-pgn-svg",
+    "source_item_no": 1,
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
+    "source_credit": "u/bobaburger",
+    "source_credit_en": "u/bobaburger",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "reddit-doner-doner",
+    "title": "旋转烤肉串与燃气加热器",
+    "title_en": "Rotating doner skewer and gas heater",
+    "category": "3d",
+    "summary": "不用外部库，在 Canvas 中呈现旋转肉串、热源与立体质感。",
+    "summary_en": "Render a rotating skewer, heat source and depth in Canvas without external libraries.",
+    "checks": [
+      "肉串是否绕竖直轴旋转",
+      "热源、遮挡与明暗是否一致"
+    ],
+    "checks_en": [
+      "The skewer rotates around its vertical axis",
+      "Heat source, occlusion and shading are coherent"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "reddit-doner",
+    "source_item_no": 1,
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
+    "source_credit": "r/LocalLLaMA 原帖 / original thread",
+    "source_credit_en": "r/LocalLLaMA 原帖 / original thread",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "reddit-thriller-thriller",
+    "title": "多人角色同步舞蹈 Three.js 场景",
+    "title_en": "Synchronized multi-character Three.js dance",
+    "category": "3d",
+    "summary": "把多个人物、舞蹈动作、灯光与镜头组合到同一场景；原帖公开了指定角色题面。",
+    "summary_en": "Combine multiple characters, choreography, lighting and camera work; the source names the requested cast.",
+    "checks": [
+      "角色是否保持结构与动作连续",
+      "多角色动作与音乐节拍是否同步"
+    ],
+    "checks_en": [
+      "Characters retain coherent structure and motion",
+      "Character motion and musical timing stay synchronized"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "reddit-thriller",
+    "source_item_no": 1,
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/",
+    "source_credit": "r/LocalLLaMA 原帖及评论 / original thread and comments",
+    "source_credit_en": "r/LocalLLaMA 原帖及评论 / original thread and comments",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "source_record"
+  },
+  {
+    "id": "x-itsolelehmann-2103124033365762215",
+    "title": "列车窗外四季变换的代码短片",
+    "title_en": "Code film of four seasons through a train window",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：列车窗外四季变换的代码短片。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Code film of four seasons through a train window. Do not treat this description as the original prompt.",
+    "checks": [
+      "层次视差是否形成连续运动",
+      "四季过渡与声音是否连贯"
+    ],
+    "checks_en": [
+      "Layered parallax produces continuous motion",
+      "Season transitions and sound remain coherent"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-itsolelehmann",
+    "source_item_no": 1,
+    "source_url": "https://x.com/itsolelehmann/status/2103124033365762215",
+    "source_credit": "@itsolelehmann；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103124033365762215)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@itsolelehmann; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103124033365762215); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103124033365762215",
+    "source_reader_url": "https://api.fxtwitter.com/itsolelehmann/status/2103124033365762215"
+  },
+  {
+    "id": "x-victormustar-2102707412704919910",
+    "title": "逆运动学像素奔马",
+    "title_en": "Inverse-kinematics pixel horse",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：逆运动学像素奔马。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Inverse-kinematics pixel horse. Do not treat this description as the original prompt.",
+    "checks": [
+      "关节运动是否保持腿部连接",
+      "循环边界是否出现跳帧"
+    ],
+    "checks_en": [
+      "Leg joints remain connected",
+      "The cycle loops without jumps"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-victormustar",
+    "source_item_no": 1,
+    "source_url": "https://x.com/victormustar/status/2102707412704919910",
+    "source_credit": "@victormustar；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102707412704919910)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@victormustar; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102707412704919910); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102707412704919910",
+    "source_reader_url": "https://api.fxtwitter.com/victormustar/status/2102707412704919910"
+  },
+  {
+    "id": "x-chetaslua-2102501773705670994",
+    "title": "蒸汽变形的交互定格动画",
+    "title_en": "Interactive steam-morph stop motion",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：蒸汽变形的交互定格动画。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Interactive steam-morph stop motion. Do not treat this description as the original prompt.",
+    "checks": [
+      "形态变换是否保持连贯",
+      "拖拽与逐帧操作是否可用"
+    ],
+    "checks_en": [
+      "Shape transformations remain coherent",
+      "Dragging and frame stepping work"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-chetaslua",
+    "source_item_no": 1,
+    "source_url": "https://x.com/chetaslua/status/2102501773705670994",
+    "source_credit": "@chetaslua；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102501773705670994)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@chetaslua; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102501773705670994); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102501773705670994",
+    "source_reader_url": "https://api.fxtwitter.com/chetaslua/status/2102501773705670994"
+  },
+  {
+    "id": "x-lcslates-2102503027340988559",
+    "title": "会翻转重组的玻璃金箔马赛克",
+    "title_en": "Reassembling glass-and-gold mosaic",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：会翻转重组的玻璃金箔马赛克。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Reassembling glass-and-gold mosaic. Do not treat this description as the original prompt.",
+    "checks": [
+      "拼片是否连续移动而非换图",
+      "声音与拼片动作是否同步"
+    ],
+    "checks_en": [
+      "Tiles move continuously rather than swap images",
+      "Sound aligns with tile motion"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-lcslates",
+    "source_item_no": 1,
+    "source_url": "https://x.com/LCSlates/status/2102503027340988559",
+    "source_credit": "@LCSlates；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102503027340988559)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@LCSlates; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102503027340988559); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102503027340988559",
+    "source_reader_url": "https://api.fxtwitter.com/LCSlates/status/2102503027340988559"
+  },
+  {
+    "id": "x-riku720720-2102515055116063144",
+    "title": "自动闪避的宇宙像素冲刺",
+    "title_en": "Autonomous cosmic pixel dash",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：自动闪避的宇宙像素冲刺。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Autonomous cosmic pixel dash. Do not treat this description as the original prompt.",
+    "checks": [
+      "障碍与角色是否保持一致时序",
+      "是否正确标为自动演示而非可玩游戏"
+    ],
+    "checks_en": [
+      "Obstacles and character motion share consistent timing",
+      "An automatic demo is identified as such"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-riku720720",
+    "source_item_no": 1,
+    "source_url": "https://x.com/riku720720/status/2102515055116063144",
+    "source_credit": "@riku720720；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102515055116063144)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@riku720720; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102515055116063144); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102515055116063144",
+    "source_reader_url": "https://api.fxtwitter.com/riku720720/status/2102515055116063144"
+  },
+  {
+    "id": "x-petergyang-2102849349122470205",
+    "title": "上传照片观看逐笔绘画",
+    "title_en": "Upload a photo and watch it painted",
+    "category": "applications",
+    "summary": "由公开作品整理的挑战方向：上传照片观看逐笔绘画。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Upload a photo and watch it painted. Do not treat this description as the original prompt.",
+    "checks": [
+      "上传图是否影响绘画内容",
+      "风格切换与绘画进度是否可用"
+    ],
+    "checks_en": [
+      "The uploaded image affects the painting",
+      "Style switching and painting progress work"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "x-petergyang",
+    "source_item_no": 1,
+    "source_url": "https://x.com/petergyang/status/2102849349122470205",
+    "source_credit": "@petergyang；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102849349122470205)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@petergyang; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102849349122470205); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102849349122470205",
+    "source_reader_url": "https://api.fxtwitter.com/petergyang/status/2102849349122470205"
+  },
+  {
+    "id": "x-dotey-2102940980379017293",
+    "title": "可循文探索的桃花源记",
+    "title_en": "Explorable Peach Blossom Land",
+    "category": "3d",
+    "summary": "由公开作品整理的挑战方向：可循文探索的桃花源记。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Explorable Peach Blossom Land. Do not treat this description as the original prompt.",
+    "checks": [
+      "文字与场景位置是否对应",
+      "是否披露外部模型与多轮迭代"
+    ],
+    "checks_en": [
+      "Text navigation corresponds to scene positions",
+      "External models and iterative work are disclosed"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "x-dotey",
+    "source_item_no": 1,
+    "source_url": "https://x.com/dotey/status/2102940980379017293",
+    "source_credit": "@dotey；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102940980379017293)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@dotey; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102940980379017293); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102940980379017293",
+    "source_reader_url": "https://api.fxtwitter.com/dotey/status/2102940980379017293"
+  },
+  {
+    "id": "x-ishuagra02-2102543638689460488",
+    "title": "从照片重建卡通秋日铁路",
+    "title_en": "Photo-to-cel-shaded autumn railway",
+    "category": "3d",
+    "summary": "由公开作品整理的挑战方向：从照片重建卡通秋日铁路。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Photo-to-cel-shaded autumn railway. Do not treat this description as the original prompt.",
+    "checks": [
+      "构图与参照照片是否对应",
+      "探索和对照模式是否有效"
+    ],
+    "checks_en": [
+      "Composition corresponds to the reference photo",
+      "Exploration and comparison modes work"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "x-ishuagra02",
+    "source_item_no": 1,
+    "source_url": "https://x.com/ishuagra02/status/2102543638689460488",
+    "source_credit": "@ishuagra02；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102543638689460488)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@ishuagra02; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102543638689460488); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102543638689460488",
+    "source_reader_url": "https://api.fxtwitter.com/ishuagra02/status/2102543638689460488"
+  },
+  {
+    "id": "x-ryansael-2102591147927654847",
+    "title": "可调焦距与光圈的镜头实验室",
+    "title_en": "Interactive focus and aperture lab",
+    "category": "applications",
+    "summary": "由公开作品整理的挑战方向：可调焦距与光圈的镜头实验室。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Interactive focus and aperture lab. Do not treat this description as the original prompt.",
+    "checks": [
+      "光路变化是否对应焦平面变化",
+      "参数和可视化是否保持一致"
+    ],
+    "checks_en": [
+      "Ray paths correspond to the focus plane",
+      "Parameters and visualization stay consistent"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "x-ryansael",
+    "source_item_no": 1,
+    "source_url": "https://x.com/RyanSael/status/2102591147927654847",
+    "source_credit": "@RyanSael；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102591147927654847)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@RyanSael; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102591147927654847); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102591147927654847",
+    "source_reader_url": "https://api.fxtwitter.com/RyanSael/status/2102591147927654847"
+  },
+  {
+    "id": "x-dangreenheck-2103004432786993341",
+    "title": "海岸钓鱼与买卖升级游戏",
+    "title_en": "Coastal fishing and trading game",
+    "category": "games",
+    "summary": "由公开作品整理的挑战方向：海岸钓鱼与买卖升级游戏。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Coastal fishing and trading game. Do not treat this description as the original prompt.",
+    "checks": [
+      "捕鱼卖鱼买装备是否构成闭环",
+      "保存与重开是否保持合理状态"
+    ],
+    "checks_en": [
+      "Fishing, selling and equipment purchases form a working loop",
+      "Saving and restart preserve sensible state"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "x-dangreenheck",
+    "source_item_no": 1,
+    "source_url": "https://x.com/dangreenheck/status/2103004432786993341",
+    "source_credit": "@dangreenheck；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@dangreenheck; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341",
+    "source_reader_url": "https://api.fxtwitter.com/dangreenheck/status/2103004432786993341"
+  },
+  {
+    "id": "x-nachat_dayo-2102773498037023140",
+    "title": "鱼叉捕鱼小游戏",
+    "title_en": "Harpoon fishing game",
+    "category": "games",
+    "summary": "由公开作品整理的挑战方向：鱼叉捕鱼小游戏。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Harpoon fishing game. Do not treat this description as the original prompt.",
+    "checks": [
+      "命中与得分判定是否一致",
+      "重开与操作反馈是否清晰"
+    ],
+    "checks_en": [
+      "Hit detection and scoring agree",
+      "Restart and controls give clear feedback"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "x-nachat_dayo",
+    "source_item_no": 1,
+    "source_url": "https://x.com/nachat_dayo/status/2102773498037023140",
+    "source_credit": "@nachat_dayo；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102773498037023140)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@nachat_dayo; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102773498037023140); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102773498037023140",
+    "source_reader_url": "https://api.fxtwitter.com/nachat_dayo/status/2102773498037023140"
+  },
+  {
+    "id": "x-oguzthedev-2102476490344730950",
+    "title": "种花养蜂与采蜜游戏",
+    "title_en": "Flower planting and beekeeping game",
+    "category": "games",
+    "summary": "由公开作品整理的挑战方向：种花养蜂与采蜜游戏。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Flower planting and beekeeping game. Do not treat this description as the original prompt.",
+    "checks": [
+      "花朵蜜蜂蜂箱是否有实际关联",
+      "采蜜是否改变资源状态"
+    ],
+    "checks_en": [
+      "Flowers, bees and hives interact",
+      "Harvesting changes resource state"
+    ],
+    "tags": [
+      "游戏开发",
+      "来源整理"
+    ],
+    "tags_en": [
+      "game development",
+      "source collection"
+    ],
+    "source_id": "x-oguzthedev",
+    "source_item_no": 1,
+    "source_url": "https://x.com/oguzthedev/status/2102476490344730950",
+    "source_credit": "@oguzthedev；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@oguzthedev; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950",
+    "source_reader_url": "https://api.fxtwitter.com/oguzthedev/status/2102476490344730950"
+  },
+  {
+    "id": "x-superalesha-2102779758408774104",
+    "title": "从加速器隧道到质子碰撞",
+    "title_en": "From accelerator tunnel to proton collision",
+    "category": "3d",
+    "summary": "由公开作品整理的挑战方向：从加速器隧道到质子碰撞。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: From accelerator tunnel to proton collision. Do not treat this description as the original prompt.",
+    "checks": [
+      "隧道探测器与镜头是否空间连续",
+      "粒子轨迹的物理依据是否说明"
+    ],
+    "checks_en": [
+      "Tunnel, detector and camera are spatially coherent",
+      "The physical basis of particle tracks is explained"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "x-superalesha",
+    "source_item_no": 1,
+    "source_url": "https://x.com/superalesha/status/2102779758408774104",
+    "source_credit": "@superalesha；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102779758408774104)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@superalesha; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102779758408774104); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102779758408774104",
+    "source_reader_url": "https://api.fxtwitter.com/superalesha/status/2102779758408774104"
+  },
+  {
+    "id": "x-dotcsv-2102737776219168939",
+    "title": "像素动画解释神经网络训练",
+    "title_en": "Pixel animation of neural-network training",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：像素动画解释神经网络训练。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Pixel animation of neural-network training. Do not treat this description as the original prompt.",
+    "checks": [
+      "动画是否正确区分预测与更新",
+      "能否避免把装饰变化称为训练"
+    ],
+    "checks_en": [
+      "Animation distinguishes prediction from updating",
+      "Decorative changes are not mislabeled as training"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-dotcsv",
+    "source_item_no": 1,
+    "source_url": "https://x.com/DotCSV/status/2102737776219168939",
+    "source_credit": "@DotCSV；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102737776219168939)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@DotCSV; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102737776219168939); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102737776219168939",
+    "source_reader_url": "https://api.fxtwitter.com/DotCSV/status/2102737776219168939"
+  },
+  {
+    "id": "x-addyosmani-2103009037164110327",
+    "title": "40 秒代码动画解释浏览器",
+    "title_en": "40-second coded browser explainer",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：40 秒代码动画解释浏览器。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: 40-second coded browser explainer. Do not treat this description as the original prompt.",
+    "checks": [
+      "解析布局绘制的关系是否准确",
+      "字幕与动画节奏是否可读"
+    ],
+    "checks_en": [
+      "Parsing, layout and painting are explained accurately",
+      "Captions and animation timing are readable"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-addyosmani",
+    "source_item_no": 1,
+    "source_url": "https://x.com/addyosmani/status/2103009037164110327",
+    "source_credit": "@addyosmani；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2103009037164110327)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@addyosmani; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2103009037164110327); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2103009037164110327",
+    "source_reader_url": "https://api.fxtwitter.com/addyosmani/status/2103009037164110327"
+  },
+  {
+    "id": "x-techartist_-2102503719762018434",
+    "title": "从线稿逐步长成三维房屋",
+    "title_en": "From line sketch to 3D house",
+    "category": "3d",
+    "summary": "由公开作品整理的挑战方向：从线稿逐步长成三维房屋。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: From line sketch to 3D house. Do not treat this description as the original prompt.",
+    "checks": [
+      "线稿体块细节之间是否连续",
+      "各阶段是否保持同一建筑结构"
+    ],
+    "checks_en": [
+      "Sketch, massing and detail connect continuously",
+      "All stages preserve the same building structure"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "x-techartist_",
+    "source_item_no": 1,
+    "source_url": "https://x.com/techartist_/status/2102503719762018434",
+    "source_credit": "@techartist_；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102503719762018434)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@techartist_; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102503719762018434); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102503719762018434",
+    "source_reader_url": "https://api.fxtwitter.com/techartist_/status/2102503719762018434"
+  },
+  {
+    "id": "x-scheemunai-2103059885361598633",
+    "title": "卧室新床摆放规划器",
+    "title_en": "Bedroom bed-placement planner",
+    "category": "applications",
+    "summary": "由公开作品整理的挑战方向：卧室新床摆放规划器。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Bedroom bed-placement planner. Do not treat this description as the original prompt.",
+    "checks": [
+      "平面图与三维位置是否对应",
+      "摆放是否符合尺寸与通行空间"
+    ],
+    "checks_en": [
+      "Floor plan and 3D positions agree",
+      "Placement respects dimensions and circulation space"
+    ],
+    "tags": [
+      "交互应用",
+      "来源整理"
+    ],
+    "tags_en": [
+      "interactive apps",
+      "source collection"
+    ],
+    "source_id": "x-scheemunai",
+    "source_item_no": 1,
+    "source_url": "https://x.com/scheemunai/status/2103059885361598633",
+    "source_credit": "@scheemunai；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@scheemunai; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633",
+    "source_reader_url": "https://api.fxtwitter.com/scheemunai/status/2103059885361598633"
+  },
+  {
+    "id": "x-studio_veco-2102684366996738511",
+    "title": "可输入词语探索的柔彩村庄",
+    "title_en": "Word-driven soft-colored village",
+    "category": "3d",
+    "summary": "由公开作品整理的挑战方向：可输入词语探索的柔彩村庄。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Word-driven soft-colored village. Do not treat this description as the original prompt.",
+    "checks": [
+      "输入与场景反馈是否有关系",
+      "角色与环境尺度是否统一"
+    ],
+    "checks_en": [
+      "Input has a meaningful scene response",
+      "Characters and environment share a coherent scale"
+    ],
+    "tags": [
+      "三维场景",
+      "来源整理"
+    ],
+    "tags_en": [
+      "3D scenes",
+      "source collection"
+    ],
+    "source_id": "x-studio_veco",
+    "source_item_no": 1,
+    "source_url": "https://x.com/studio_veco/status/2102684366996738511",
+    "source_credit": "@studio_veco；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102684366996738511)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@studio_veco; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102684366996738511); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102684366996738511",
+    "source_reader_url": "https://api.fxtwitter.com/studio_veco/status/2102684366996738511"
+  },
+  {
+    "id": "x-alexalbert__-2102458348511879448",
+    "title": "用 Blender 制作黏土风动画",
+    "title_en": "Blender claymation-style animation",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：用 Blender 制作黏土风动画。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: Blender claymation-style animation. Do not treat this description as the original prompt.",
+    "checks": [
+      "材质与灯光是否保持黏土风格",
+      "逐帧运动是否连续"
+    ],
+    "checks_en": [
+      "Materials and lighting sustain the clay style",
+      "Frame-to-frame motion is coherent"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-alexalbert__",
+    "source_item_no": 1,
+    "source_url": "https://x.com/alexalbert__/status/2102458348511879448",
+    "source_credit": "@alexalbert__；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102458348511879448)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@alexalbert__; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102458348511879448); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2102458348511879448",
+    "source_reader_url": "https://api.fxtwitter.com/alexalbert__/status/2102458348511879448"
+  },
+  {
+    "id": "x-dadabots-2103039181266338276",
+    "title": "纯 JavaScript 乐理视听实验",
+    "title_en": "JavaScript music-theory audiovisual",
+    "category": "animation",
+    "summary": "由公开作品整理的挑战方向：纯 JavaScript 乐理视听实验。完整题面未逐字确认时，请勿当成原始提示词。",
+    "summary_en": "A challenge direction adapted from the public work: JavaScript music-theory audiovisual. Do not treat this description as the original prompt.",
+    "checks": [
+      "声音与音符标签是否对应",
+      "是否区分合成声音和外部采样"
+    ],
+    "checks_en": [
+      "Sound corresponds to note labels",
+      "Synthesized sound is distinguished from external samples"
+    ],
+    "tags": [
+      "动画与物理",
+      "来源整理"
+    ],
+    "tags_en": [
+      "animation and physics",
+      "source collection"
+    ],
+    "source_id": "x-dadabots",
+    "source_item_no": 1,
+    "source_url": "https://x.com/dadabots/status/2103039181266338276",
+    "source_credit": "@dadabots；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103039181266338276)；原帖通过公开读取服务核对。",
+    "source_credit_en": "@dadabots; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103039181266338276); post metadata checked through a public reader.",
+    "prompt_status": "source_only",
+    "prompt_availability": "not_verified",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-08",
+    "evidence_level": "public_reader_metadata",
+    "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103039181266338276",
+    "source_reader_url": "https://api.fxtwitter.com/dadabots/status/2103039181266338276"
   }
 ]

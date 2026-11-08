@@ -2,7 +2,7 @@
 
 **简体中文** | [English](../en/categories/svg.md)
 
-> 画出来，更要画得对 · 共 **30 道**
+> 画出来，更要画得对 · 共 **32 道**
 
 [← 返回首页](../../README.md) · [全部案例](../INDEX.md)
 
@@ -10,7 +10,7 @@
 
 ## 章鱼演奏管风琴
 
-**编号**：`svg-001` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 1 题）
+**编号**：`svg-001` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 1）
 
 **英文标题**：An octopus operating a pipe organ
 
@@ -42,7 +42,7 @@
 
 ## 长颈鹿组装落地钟
 
-**编号**：`svg-002` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 2 题）
+**编号**：`svg-002` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 2）
 
 **英文标题**：A giraffe assembling a grandfather clock
 
@@ -74,7 +74,7 @@
 
 ## 海星驾驶推土机
 
-**编号**：`svg-003` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 3 题）
+**编号**：`svg-003` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 3）
 
 **英文标题**：A starfish driving a bulldozer
 
@@ -106,7 +106,7 @@
 
 ## 驼鹿指挥旋转木马
 
-**编号**：`svg-004` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 4 题）
+**编号**：`svg-004` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 4）
 
 **英文标题**：A moose conducting a carousel
 
@@ -138,7 +138,7 @@
 
 ## 火烈鸟修理望远镜
 
-**编号**：`svg-005` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 5 题）
+**编号**：`svg-005` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 5）
 
 **英文标题**：A flamingo repairing a telescope
 
@@ -170,7 +170,7 @@
 
 ## 刺猬演奏手风琴
 
-**编号**：`svg-006` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 6 题）
+**编号**：`svg-006` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 6）
 
 **英文标题**：A hedgehog playing an accordion
 
@@ -202,7 +202,7 @@
 
 ## 水母操控摩天轮
 
-**编号**：`svg-007` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 7 题）
+**编号**：`svg-007` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 7）
 
 **英文标题**：A jellyfish piloting a Ferris wheel
 
@@ -234,7 +234,7 @@
 
 ## 大象使用打字机
 
-**编号**：`svg-008` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 8 题）
+**编号**：`svg-008` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 8）
 
 **英文标题**：An elephant typing on a typewriter
 
@@ -266,7 +266,7 @@
 
 ## 变色龙给三角钢琴调音
 
-**编号**：`svg-009` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 9 题）
+**编号**：`svg-009` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 9）
 
 **英文标题**：A chameleon tuning a grand piano
 
@@ -298,7 +298,7 @@
 
 ## 企鹅玩杂耍抛电锯
 
-**编号**：`svg-010` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 10 题）
+**编号**：`svg-010` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 10）
 
 **英文标题**：A penguin juggling chainsaws
 
@@ -330,7 +330,7 @@
 
 ## 树懒驾驶挖掘机
 
-**编号**：`svg-011` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 11 题）
+**编号**：`svg-011` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 11）
 
 **英文标题**：A sloth steering an excavator
 
@@ -362,7 +362,7 @@
 
 ## 蜻蜓平衡枝形吊灯
 
-**编号**：`svg-012` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 12 题）
+**编号**：`svg-012` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 12）
 
 **英文标题**：A dragonfly balancing a chandelier
 
@@ -394,7 +394,7 @@
 
 ## 犀牛粉刷灯塔
 
-**编号**：`svg-013` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 13 题）
+**编号**：`svg-013` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 13）
 
 **英文标题**：A rhinoceros painting a lighthouse
 
@@ -426,7 +426,7 @@
 
 ## 海马检查显微镜
 
-**编号**：`svg-014` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 14 题）
+**编号**：`svg-014` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 14）
 
 **英文标题**：A seahorse examining a microscope
 
@@ -458,7 +458,7 @@
 
 ## 孔雀操作陶艺转盘
 
-**编号**：`svg-015` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 15 题）
+**编号**：`svg-015` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 15）
 
 **英文标题**：A peacock spinning a pottery wheel
 
@@ -490,7 +490,7 @@
 
 ## 袋鼠攀爬无线电塔
 
-**编号**：`svg-016` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 16 题）
+**编号**：`svg-016` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 16）
 
 **英文标题**：A kangaroo climbing a radio tower
 
@@ -522,7 +522,7 @@
 
 ## 龙虾擦亮竖琴
 
-**编号**：`svg-017` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 17 题）
+**编号**：`svg-017` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 17）
 
 **英文标题**：A lobster polishing a harp
 
@@ -554,7 +554,7 @@
 
 ## 豪猪推割草机
 
-**编号**：`svg-018` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 18 题）
+**编号**：`svg-018` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 18）
 
 **英文标题**：A porcupine pushing a lawnmower
 
@@ -586,7 +586,7 @@
 
 ## 壁虎安装卫星天线
 
-**编号**：`svg-019` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 19 题）
+**编号**：`svg-019` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 19）
 
 **英文标题**：A gecko installing a satellite dish
 
@@ -618,7 +618,7 @@
 
 ## 鬣蜥雕刻图腾柱
 
-**编号**：`svg-020` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 20 题）
+**编号**：`svg-020` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 20）
 
 **英文标题**：An iguana carving a totem pole
 
@@ -650,7 +650,7 @@
 
 ## 犰狳升起吊桥
 
-**编号**：`svg-021` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 21 题）
+**编号**：`svg-021` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 21）
 
 **英文标题**：An armadillo lifting a drawbridge
 
@@ -682,7 +682,7 @@
 
 ## 螳螂研究六分仪
 
-**编号**：`svg-022` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 22 题）
+**编号**：`svg-022` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 22）
 
 **英文标题**：A mantis studying a sextant
 
@@ -714,7 +714,7 @@
 
 ## 鸵鸟拉人力车
 
-**编号**：`svg-023` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 23 题）
+**编号**：`svg-023` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 23）
 
 **英文标题**：An ostrich pulling a rickshaw
 
@@ -746,7 +746,7 @@
 
 ## 鱿鱼拆卸印刷机
 
-**编号**：`svg-024` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 24 题）
+**编号**：`svg-024` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 24）
 
 **英文标题**：A squid disassembling a printing press
 
@@ -778,7 +778,7 @@
 
 ## 蝴蝶检查蒸汽机
 
-**编号**：`svg-025` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 25 题）
+**编号**：`svg-025` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 25）
 
 **英文标题**：A butterfly inspecting a steam engine
 
@@ -810,7 +810,7 @@
 
 ## 螃蟹沿消防梯下楼
 
-**编号**：`svg-026` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 26 题）
+**编号**：`svg-026` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 26）
 
 **英文标题**：A crab descending a fire escape
 
@@ -842,7 +842,7 @@
 
 ## 捕蝇草吞下路灯
 
-**编号**：`svg-027` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 27 题）
+**编号**：`svg-027` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 27）
 
 **英文标题**：A venus flytrap swallowing a street lamp
 
@@ -874,7 +874,7 @@
 
 ## 珊瑚清洁船舵
 
-**编号**：`svg-028` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 28 题）
+**编号**：`svg-028` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 28）
 
 **英文标题**：Coral cleaning a ship's wheel
 
@@ -906,7 +906,7 @@
 
 ## 海葵为织布机穿线
 
-**编号**：`svg-029` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 29 题）
+**编号**：`svg-029` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 29）
 
 **英文标题**：A sea anemone threading a loom
 
@@ -938,7 +938,7 @@
 
 ## 兰花支撑藤架
 
-**编号**：`svg-030` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（原站第 30 题）
+**编号**：`svg-030` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 30）
 
 **英文标题**：An orchid supporting a pergola
 
@@ -965,5 +965,67 @@
 [查看效果 / 体验](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [来源记录](https://gally.net/temp/20260914pelican-alternatives/index.html#prompt-30) · [测试背景](https://gally.net/temp/20260914pelican-alternatives/about.html)
 
 原站 2025 轮次；默认设置，单条普通消息、无系统提示词。具体运行日未公开。
+
+---
+
+## 从 PGN 棋谱推演并绘制 SVG 棋盘
+
+**编号**：`reddit-pgn-svg-pgn-svg` · **收录来源**：[u/bobaburger](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/)（本库来源组内序号 1）
+
+**英文标题**：Render the final PGN position as SVG
+
+从指定棋谱追踪棋子状态，并在 SVG 中标记最后一步。
+
+**原站署名 / 来源线索**：u/bobaburger
+
+**题面情况**：公开题面
+
+**可以观察什么？**
+
+- 棋子位置与棋盘方向是否正确
+- 最后一步高亮是否对应棋谱
+
+**标签**：`矢量绘画`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Qwen 3.6 27B（多种量化 / multiple quants）** · 运行日期未公开 · u/bobaburger
+
+[查看效果 / 体验](https://qwen3-6-27b-benchmark.vercel.app/) · [来源记录](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · [测试背景](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/)
+
+原帖或评论中的历史效果，由发帖者报告；本库未验证运行成功或科学准确性。不同量化、硬件、工具和迭代条件不能混同比较。
+
+---
+
+## 用 SVG 画独角兽
+
+**编号**：`springprompt-unicorn` · **收录来源**：[Spring Prompt / SVG unicorn](https://springprompt.com/playground/unicorn)（本库来源组内序号 1）
+
+**英文标题**：Draw a unicorn in SVG
+
+观察角、四肢、鬃毛、尾巴和形状连接；这不是 TikZ 版本的直接复现。
+
+**原站署名 / 来源线索**：Spring Prompt / SVG unicorn
+
+**题面情况**：公开题面
+
+**可以观察什么？**
+
+- 角和四肢的位置是否合理
+- 路径是否存在断裂和多余重叠
+
+**标签**：`矢量绘画`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://springprompt.com/playground/unicorn) · **本库测试情况**：未实测
+
+### 历史效果
+
+**多个模型，见原站 / Multiple models; see source** · 运行日期未公开 · Spring Prompt
+
+[查看效果 / 体验](https://springprompt.com/playground/unicorn) · [来源记录](https://springprompt.com/playground/unicorn) · [测试背景](https://springprompt.com/playground/unicorn)
+
+原站持续更新，搜索缓存与实时页面显示的模型数量不一致，因此不记录动态数量、分数或排名。SVG 版本借鉴 TikZ 画独角兽思路，不能宣称本页是最早出处。
 
 ---

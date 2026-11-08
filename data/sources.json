@@ -8,7 +8,9 @@
     "note": "30 道“生物 + 不寻常动作 + 复杂机械”的 SVG 绘画题。原站展示多个模型的输出；2026 轮次当前只覆盖前 10 题。",
     "verified_on": "2026-11-07",
     "name_en": "Pelican-bicycle alternatives",
-    "note_en": "30 SVG drawing challenges combining living things, unusual actions, and complex machinery. The site compares model outputs; its 2026 round currently covers only the first 10 challenges."
+    "note_en": "30 SVG drawing challenges combining living things, unusual actions, and complex machinery. The site compares model outputs; its 2026 round currently covers only the first 10 challenges.",
+    "details": "- **原站**：https://gally.net/temp/20260914pelican-alternatives/index.html\n- **网站说明**：https://gally.net/temp/20260914pelican-alternatives/about.html\n- **站点作者/资助者说明**：原站写明网站由 Claude 辅助创建，Tom Gally 负责项目与费用。\n- **我们收录**：30 道 SVG 绘画挑战；可以浏览同题在不同模型下的成图。\n- **特点**：生物做一件意外的事情，且通常需要与复杂的人造设备产生联系。\n- **注意**：据原站说明，2026 年轮次目前只有前 10 题；不能误以为所有 30 题都完成了 2026 年测试。\n- **本仓库做了什么**：为每题写中文标题、介绍和观察重点；不复制原站生成的 SVG 结果。",
+    "details_en": "- **Source**: https://gally.net/temp/20260914pelican-alternatives/index.html\n- **About the site**: https://gally.net/temp/20260914pelican-alternatives/about.html\n- **Site creation and funding**: The source says Claude assisted in creating the site, with Tom Gally responsible for the project and costs.\n- **Indexed here**: 30 SVG drawing tasks, with source-site comparisons of outputs for the same task.\n- **Focus**: Living things performing unexpected actions involving complex human-made equipment.\n- **Context**: The source says its 2026 round currently covers only the first 10 tasks. Do not assume all 30 tasks have results from that round.\n- **Our contribution**: Original summaries and observation points in Chinese and English, plus source links. We do not copy the generated SVG results."
   },
   {
     "id": "museum",
@@ -19,7 +21,9 @@
     "note": "动画、游戏、3D 场景、应用四类的经典挑战。部分题面是原题的改写；请以详情页为准。",
     "verified_on": "2026-11-07",
     "name_en": "AI Test Museum",
-    "note_en": "20 classic challenges covering animation, games, 3D scenes, and applications. Some prompts are adaptations; refer to each detail page."
+    "note_en": "20 classic challenges covering animation, games, 3D scenes, and applications. Some prompts are adaptations; refer to each detail page.",
+    "details": "- **原站**：https://aitestmuseum.com/zh\n- **我们收录**：20 道测试题；包含动画 8、游戏 4、3D 场景 6、应用 2。\n- **特点**：有经典题的历史背景、完整题面、作品与测试条件说明。\n- **注意**：原站注明有些题目是改写版；原站展示结果处于特定 Agent 环境，部分题目有重新作答的记录。对比时不能忽略这些条件。\n- **使用条款**：https://aitestmuseum.com/zh/terms\n- **本仓库做了什么**：逐条建立直达案例页面的索引，新增原创中文介绍与观察要点。",
+    "details_en": "- **Source**: https://aitestmuseum.com/zh\n- **Indexed here**: 20 challenges: 8 animation, 4 games, 6 3D scenes, and 2 applications.\n- **Focus**: Background, full prompts, outputs, and test conditions for classic tasks.\n- **Context**: The source identifies some prompts as adaptations. Its displayed results come from specific agent environments, and some tasks have been answered again. Consider those conditions when comparing outputs.\n- **Terms**: https://aitestmuseum.com/zh/terms\n- **Our contribution**: Direct links to individual tasks, with original summaries and observation points in Chinese and English."
   },
   {
     "id": "pelican-sdf",
@@ -30,6 +34,360 @@
     "count": 1,
     "note": "可交互 3D SDF 鹈鹕骑车挑战，保留原始输出、逐次记录及缩略图。这里只收录一道题，多个模型输出不重复计数。",
     "note_en": "An interactive 3D SDF pelican challenge with original outputs, run records, and thumbnails. Indexed as one task; model outputs are not counted as extra tasks.",
-    "verified_on": "2026-11-07"
+    "verified_on": "2026-11-07",
+    "details": "- **项目**：[AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)\n- **题面与版本**：[固定版本原题](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)\n- **本库收录**：1 道独立的 3D SDF 鹈鹕骑车题，不与 SVG 动画题混为一题。\n- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [精选预览](GALLERY.md)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。\n- **条件**：上游模型输出来自不同 CLI / SDK 环境，记录标为 unverified；本库未独立复现，不用缩略图建立成绩排名。",
+    "details_en": "- **Project**: [AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)\n- **Versioned task**: [fixed prompt](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)\n- **Indexed here**: one separate 3D SDF pelican task, distinct from the SVG animation.\n- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [previews](GALLERY.md) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).\n- **Context**: upstream runs use different CLI / SDK environments and remain unverified. We have not reproduced them or ranked models from thumbnails."
+  },
+  {
+    "id": "electricazimuth",
+    "name": "David Harris / LocalLLM Visual Code Test",
+    "name_en": "David Harris / LocalLLM Visual Code Test",
+    "url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest",
+    "about_url": "https://github.com/electricazimuth/LocalLLM_VisualCodeTest",
+    "count": 6,
+    "note": "本地模型的固定题面及历史 HTML 输出；保留量化型号。",
+    "note_en": "Fixed prompts and historical HTML outputs for local models; quantization labels retained.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "stock42",
+    "name": "Stock42 Creative Coding Challenges",
+    "name_en": "Stock42 Creative Coding Challenges",
+    "url": "https://github.com/stock42/test-llm-coding",
+    "about_url": "https://github.com/stock42/test-llm-coding",
+    "count": 4,
+    "note": "固定题面配套两组实际代码输出；原站结果页不是本库评测。",
+    "note_en": "Fixed prompts with two sets of generated outputs; source results are not our evaluation.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "kcores",
+    "name": "KCORES LLM Arena",
+    "name_en": "KCORES LLM Arena",
+    "url": "https://github.com/KCORES/kcores-llm-arena",
+    "about_url": "https://github.com/KCORES/kcores-llm-arena",
+    "count": 2,
+    "note": "中文社区固定题面、人工评分和多轮代码；使用 KCORES 自定义许可，仅链接。",
+    "note_en": "Chinese-community prompts, manual rubrics and multiple code runs. Custom KCORES license; linked only.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "psydox",
+    "name": "psydox / Local LLM Coding Benchmark",
+    "name_en": "psydox / Local LLM Coding Benchmark",
+    "url": "https://github.com/psydox/Local-LLM-Coding-Benchmark",
+    "about_url": "https://github.com/psydox/Local-LLM-Coding-Benchmark",
+    "count": 8,
+    "note": "已核对原始题面，未发现配套历史模型输出；不编造效果记录。",
+    "note_en": "Original prompt files checked; no accompanying historical model outputs found. No output records invented.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "google-sim",
+    "name": "Google / Gemini interactive visualizations",
+    "name_en": "Google / Gemini interactive visualizations",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "about_url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "count": 3,
+    "note": "官方公开演示；未公开完整运行配置，不能当成同条件排行榜。",
+    "note_en": "Official public demos; complete run settings are not disclosed, so these are not controlled comparisons.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "google-studio",
+    "name": "Google AI Studio / Build mode",
+    "name_en": "Google AI Studio / Build mode",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "about_url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "count": 5,
+    "note": "官方作品示例与 Remix 入口；试玩要求 Google 登录。",
+    "note_en": "Official examples and Remix links; Google sign-in required to open the apps.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "springprompt",
+    "name": "Spring Prompt / SVG unicorn",
+    "name_en": "Spring Prompt / SVG unicorn",
+    "url": "https://springprompt.com/playground/unicorn",
+    "about_url": "https://springprompt.com/playground/unicorn",
+    "count": 1,
+    "note": "SVG 独角兽题及同题输出；与 Sparks of AGI 的 TikZ 版本区分。",
+    "note_en": "SVG unicorn prompt and outputs, distinguished from the TikZ version in Sparks of AGI.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "between-tokens",
+    "name": "Chris Zaharia / Between Tokens",
+    "name_en": "Chris Zaharia / Between Tokens",
+    "url": "https://news.ycombinator.com/item?id=49311484",
+    "about_url": "https://news.ycombinator.com/item?id=49311484",
+    "count": 1,
+    "note": "作者在 Show HN 分享的交互叙事与 MIT 源码。",
+    "note_en": "Author-shared interactive narrative and MIT source on Show HN.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "reddit-glass-bridge",
+    "name": "EntelligenceAI / u/entelligenceai17",
+    "name_en": "EntelligenceAI / u/entelligenceai17",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/",
+    "about_url": "https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/",
+    "count": 1,
+    "note": "社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。",
+    "note_en": "Community-reported results; subjective judgments, single runs and quantization differences are not general scores.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "reddit-pgn-svg",
+    "name": "u/bobaburger",
+    "name_en": "u/bobaburger",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
+    "about_url": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
+    "count": 1,
+    "note": "社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。",
+    "note_en": "Community-reported results; subjective judgments, single runs and quantization differences are not general scores.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "reddit-doner",
+    "name": "r/LocalLLaMA 原帖 / original thread",
+    "name_en": "r/LocalLLaMA 原帖 / original thread",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
+    "about_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
+    "count": 1,
+    "note": "社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。",
+    "note_en": "Community-reported results; subjective judgments, single runs and quantization differences are not general scores.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "reddit-thriller",
+    "name": "r/LocalLLaMA 原帖及评论 / original thread and comments",
+    "name_en": "r/LocalLLaMA 原帖及评论 / original thread and comments",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/",
+    "about_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/",
+    "count": 1,
+    "note": "社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。",
+    "note_en": "Community-reported results; subjective judgments, single runs and quantization differences are not general scores.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-itsolelehmann",
+    "name": "@itsolelehmann / X",
+    "name_en": "@itsolelehmann / X",
+    "url": "https://x.com/itsolelehmann/status/2103124033365762215",
+    "about_url": "https://x.com/itsolelehmann/status/2103124033365762215",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-victormustar",
+    "name": "@victormustar / X",
+    "name_en": "@victormustar / X",
+    "url": "https://x.com/victormustar/status/2102707412704919910",
+    "about_url": "https://x.com/victormustar/status/2102707412704919910",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-chetaslua",
+    "name": "@chetaslua / X",
+    "name_en": "@chetaslua / X",
+    "url": "https://x.com/chetaslua/status/2102501773705670994",
+    "about_url": "https://x.com/chetaslua/status/2102501773705670994",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-lcslates",
+    "name": "@LCSlates / X",
+    "name_en": "@LCSlates / X",
+    "url": "https://x.com/LCSlates/status/2102503027340988559",
+    "about_url": "https://x.com/LCSlates/status/2102503027340988559",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-riku720720",
+    "name": "@riku720720 / X",
+    "name_en": "@riku720720 / X",
+    "url": "https://x.com/riku720720/status/2102515055116063144",
+    "about_url": "https://x.com/riku720720/status/2102515055116063144",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-petergyang",
+    "name": "@petergyang / X",
+    "name_en": "@petergyang / X",
+    "url": "https://x.com/petergyang/status/2102849349122470205",
+    "about_url": "https://x.com/petergyang/status/2102849349122470205",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-dotey",
+    "name": "@dotey / X",
+    "name_en": "@dotey / X",
+    "url": "https://x.com/dotey/status/2102940980379017293",
+    "about_url": "https://x.com/dotey/status/2102940980379017293",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-ishuagra02",
+    "name": "@ishuagra02 / X",
+    "name_en": "@ishuagra02 / X",
+    "url": "https://x.com/ishuagra02/status/2102543638689460488",
+    "about_url": "https://x.com/ishuagra02/status/2102543638689460488",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-ryansael",
+    "name": "@RyanSael / X",
+    "name_en": "@RyanSael / X",
+    "url": "https://x.com/RyanSael/status/2102591147927654847",
+    "about_url": "https://x.com/RyanSael/status/2102591147927654847",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-dangreenheck",
+    "name": "@dangreenheck / X",
+    "name_en": "@dangreenheck / X",
+    "url": "https://x.com/dangreenheck/status/2103004432786993341",
+    "about_url": "https://x.com/dangreenheck/status/2103004432786993341",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-nachat_dayo",
+    "name": "@nachat_dayo / X",
+    "name_en": "@nachat_dayo / X",
+    "url": "https://x.com/nachat_dayo/status/2102773498037023140",
+    "about_url": "https://x.com/nachat_dayo/status/2102773498037023140",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-oguzthedev",
+    "name": "@oguzthedev / X",
+    "name_en": "@oguzthedev / X",
+    "url": "https://x.com/oguzthedev/status/2102476490344730950",
+    "about_url": "https://x.com/oguzthedev/status/2102476490344730950",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-superalesha",
+    "name": "@superalesha / X",
+    "name_en": "@superalesha / X",
+    "url": "https://x.com/superalesha/status/2102779758408774104",
+    "about_url": "https://x.com/superalesha/status/2102779758408774104",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-dotcsv",
+    "name": "@DotCSV / X",
+    "name_en": "@DotCSV / X",
+    "url": "https://x.com/DotCSV/status/2102737776219168939",
+    "about_url": "https://x.com/DotCSV/status/2102737776219168939",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-addyosmani",
+    "name": "@addyosmani / X",
+    "name_en": "@addyosmani / X",
+    "url": "https://x.com/addyosmani/status/2103009037164110327",
+    "about_url": "https://x.com/addyosmani/status/2103009037164110327",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-techartist_",
+    "name": "@techartist_ / X",
+    "name_en": "@techartist_ / X",
+    "url": "https://x.com/techartist_/status/2102503719762018434",
+    "about_url": "https://x.com/techartist_/status/2102503719762018434",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-scheemunai",
+    "name": "@scheemunai / X",
+    "name_en": "@scheemunai / X",
+    "url": "https://x.com/scheemunai/status/2103059885361598633",
+    "about_url": "https://x.com/scheemunai/status/2103059885361598633",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-studio_veco",
+    "name": "@studio_veco / X",
+    "name_en": "@studio_veco / X",
+    "url": "https://x.com/studio_veco/status/2102684366996738511",
+    "about_url": "https://x.com/studio_veco/status/2102684366996738511",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-alexalbert__",
+    "name": "@alexalbert__ / X",
+    "name_en": "@alexalbert__ / X",
+    "url": "https://x.com/alexalbert__/status/2102458348511879448",
+    "about_url": "https://x.com/alexalbert__/status/2102458348511879448",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
+  },
+  {
+    "id": "x-dadabots",
+    "name": "@dadabots / X",
+    "name_en": "@dadabots / X",
+    "url": "https://x.com/dadabots/status/2103039181266338276",
+    "about_url": "https://x.com/dadabots/status/2103039181266338276",
+    "count": 1,
+    "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
+    "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
+    "verified_on": "2026-11-08"
   }
 ]

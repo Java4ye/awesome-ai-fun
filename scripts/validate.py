@@ -53,6 +53,10 @@ def check_data(cases, sources):
         if c.get('prompt_status') != 'source_only': errors.append(f"{prefix}: prompt should be linked, not copied")
         if c.get('status') != 'collected_not_tested': errors.append(f"{prefix}: no unverified test claims")
         counts[c.get('source_id')]+=1
+        if 'prompt_availability' in c and c['prompt_availability'] not in ('public', 'partial', 'not_verified'):
+            errors.append(f'{prefix}: invalid prompt availability')
+        if 'evidence_level' in c and c['evidence_level'] not in ('prompt_only', 'source_record', 'public_reader_metadata'):
+            errors.append(f'{prefix}: invalid evidence level')
     for s in sources:
         for field in ('name_en', 'note_en'):
             if not isinstance(s.get(field), str) or not s[field].strip(): errors.append(f"source {s['id']}: empty {field}")
@@ -66,6 +70,9 @@ def main():
     from history import check_history
     history=json.loads((ROOT/'data/history.json').read_text(encoding='utf8'))
     errors.extend(check_history(cases,history,ROOT))
+    from research import check_research
+    research=json.loads((ROOT/'data/research.json').read_text(encoding='utf8'))
+    errors.extend(check_research(cases,research))
     if errors:
         print("❌ Catalog validation failed:\n" + "\n".join(f" - {e}" for e in errors))
         return 1
