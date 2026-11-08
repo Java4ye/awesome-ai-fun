@@ -9,7 +9,7 @@
 - `data/cases.json`：案例的中英文标题、介绍、分类与观察点。
 - `data/sources.json`：来源导航。
 - `data/history.json`：来源方历史效果、模型与运行条件，以及有许可的本地预览。
-- `data/showcase.json`：首页代表预览，引用已有历史记录，或登记固定版本的原仓库截图和许可。
+- `data/showcase.json`：逐案例预览，引用历史记录、原图 / 视频封面，或登记历史作品截图及出处；区分开放许可与未核实授权的来源引用。
 - `data/research.json`：社区出处与待整理线索。
 
 首页、分类页和画廊由同一份数据生成。有可展示预览的案例默认展开，暂缺预览的案例归入各分类末尾的“待补效果”。新增预览后重新生成即可移到展开区域，案例不会因此重复计数。
@@ -29,4 +29,4 @@ python -m unittest discover -s tests -v
 
 使用对应案例的真实作品，保留作者、模型、原图、固定版本和许可信息。图片或 GIF 可以直接预览；完整视频保留原帖播放入口。没有素材时保留待补状态，不使用相似配图或空白占位图代替。
 
-本地缩略图的校验和与历史记录快照仍由 `history.py` 核对。远程截图引用固定提交，使用条件见[素材说明](../THIRD_PARTY_MEDIA.md)。
+`history.py` 核对原有缩略图与历史快照；`showcase.py` 核对新增本地截图的路径、日期与 SHA-256，以及外链字段。`source_reference` 记录必须保持 `license_status: not_verified`，不能冒称已获授权。使用条件见[素材说明](../THIRD_PARTY_MEDIA.md)。

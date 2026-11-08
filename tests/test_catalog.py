@@ -94,12 +94,24 @@ class CatalogTests(unittest.TestCase):
         previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
         self.assertEqual([],check_showcase(self.cases,self.history,previews,ROOT))
         bad=deepcopy(previews)
-        bad[0]['case_id']='svg-001'
+        next(p for p in bad if 'history_id' in p)['case_id']='svg-001'
         self.assertTrue(any('mismatched' in e for e in check_showcase(self.cases,self.history,bad,ROOT)))
         bad=deepcopy(previews)
         remote=next(p for p in bad if 'image_url' in p)
         remote['rights']='link_only'
         self.assertTrue(any('license' in e for e in check_showcase(self.cases,self.history,bad,ROOT)))
+
+    def test_source_capture_is_checked_and_not_relicensed(self):
+        from showcase import check_showcase
+        records=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
+        bad=deepcopy(records)
+        capture=next(p for p in bad if p.get('capture'))
+        capture['capture_sha256']='0'*64
+        self.assertTrue(any('checksum' in e for e in check_showcase(self.cases,self.history,bad,ROOT)))
+        bad=deepcopy(records)
+        reference=next(p for p in bad if p.get('rights')=='source_reference')
+        reference['license_status']='MIT'
+        self.assertTrue(any('must not imply' in e for e in check_showcase(self.cases,self.history,bad,ROOT)))
 
     def test_link_only_media_cannot_become_a_local_preview(self):
         record=deepcopy(next(r for r in self.history if r.get('preview')))

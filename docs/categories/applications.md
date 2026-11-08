@@ -14,11 +14,11 @@
 
 **英文标题**：An interactive story where you are the model
 
-[![扮演语言模型的交互叙事 — Claude Fable 5（仓库署名 / repository credit）](https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png)](https://chrisjz.github.io/between-tokens/)
+[<img src="https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png" alt="扮演语言模型的交互叙事 — Claude Fable 5（仓库署名 / repository credit）" width="720">](https://chrisjz.github.io/between-tokens/)
 
 **模型：** Claude Fable 5（仓库署名 / repository credit） · **作者 / 发布者：** Chris Zaharia
 
-图片署名：Chris Zaharia · [原图出处](https://github.com/chrisjz/between-tokens/blob/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png) · [MIT 许可](../../assets/licenses/between-tokens-MIT.txt)
+图片署名：Chris Zaharia · [原图 / 作品出处](https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png) · [MIT](../../assets/licenses/between-tokens-MIT.txt)
 
 原项目截图；候选文本预写，概率实时计算。
 
@@ -47,16 +47,19 @@
 
 ---
 
-<details>
-<summary>待补效果 · 11 条案例</summary>
-
-以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
-
 ## Cosmic Flow 多人共享粒子
 
 **编号**：`google-studio-cosmic_flow` · **收录来源**：[Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/)（本库来源组内序号 2）
 
 **英文标题**：Cosmic Flow shared particles
+
+[<img src="../../assets/previews/historical/google-studio-cosmic_flow.jpg" alt="Cosmic Flow 多人共享粒子 — Google AI Studio agent（未列具体模型 / exact model undisclosed）" width="720">](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google_AIS_FSR_CosmicFlow_05_DR.mp4)
+
+**模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
+
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google_AIS_FSR_CosmicFlow_05_DR.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+Google 官方演示视频的画面截图，点击播放原视频。
 
 多个用户用光标在共享三维空间中生成粒子。
 
@@ -89,6 +92,14 @@
 
 **英文标题**：GeoSeeker map interaction app
 
+[<img src="../../assets/previews/historical/google-studio-geoseeker.jpg" alt="GeoSeeker 地图交互应用 — Google AI Studio agent（未列具体模型 / exact model undisclosed）" width="720">](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_GeoSeeker_07-DR.mp4)
+
+**模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
+
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_GeoSeeker_07-DR.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+Google 官方演示视频的画面截图，点击播放原视频。
+
 以官方地图应用为方向，考察真实外部数据与交互的结合。
 
 **原站署名 / 来源线索**：Google AI Studio / Build mode
@@ -119,6 +130,14 @@
 **编号**：`google-studio-heirloom_recipes` · **收录来源**：[Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/)（本库来源组内序号 5）
 
 **英文标题**：Heirloom Recipes collaborative cookbook
+
+[<img src="../../assets/previews/historical/google-studio-heirloom_recipes.jpg" alt="Heirloom Recipes 家庭协作食谱 — Google AI Studio agent（未列具体模型 / exact model undisclosed）" width="720">](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_HeirloomRecipes_010_ss.mp4)
+
+**模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
+
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_HeirloomRecipes_010_ss.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+Google 官方演示视频的画面截图，点击播放原视频。
 
 组织、导入和生成食谱，并支持家人协作。
 
@@ -151,6 +170,14 @@
 
 **英文标题**：An operating system in one HTML file
 
+[<img src="../../assets/previews/historical/museum-012.jpg" alt="一个 HTML 文件里的操作系统 — Claude Opus 5.5" width="720">](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html)
+
+**模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
+
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 在单个 HTML 页面中做一个含窗口和多种应用的桌面系统。
 
 **原站署名 / 来源线索**：@chetaslua
@@ -181,6 +208,14 @@
 
 **英文标题**：Brick builder
 
+[<img src="../../assets/previews/historical/museum-014.jpg" alt="积木搭建器 — Claude Opus 5.5" width="720">](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html)
+
+**模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
+
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 创建可放置、旋转、改色和删除积木的 3D 编辑器。
 
 **原站署名 / 来源线索**：Pietro Schirano（题面改写）
@@ -204,6 +239,128 @@
 原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---
+
+## 上传照片观看逐笔绘画
+
+**编号**：`x-petergyang-2102849349122470205` · **收录来源**：[@petergyang / X](https://x.com/petergyang/status/2102849349122470205)（本库来源组内序号 1）
+
+**英文标题**：Upload a photo and watch it painted
+
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="上传照片观看逐笔绘画 — Opus 5.5" width="720">](https://video.twimg.com/amplify_video/2102849308903260160/vid/avc1/1920x1080/4O3qKeMgtNrj744w.mp4?tag=16)
+
+**模型：** Opus 5.5 · **作者 / 发布者：** @petergyang
+
+图片署名：@petergyang · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原帖视频封面，点击封面播放原视频。
+
+由公开作品整理的挑战方向：上传照片观看逐笔绘画。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@petergyang；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102849349122470205)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 上传图是否影响绘画内容
+- 风格切换与绘画进度是否可用
+
+**标签**：`交互应用`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/petergyang/status/2102849349122470205) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus 5.5** · 运行日期未公开 · @petergyang
+
+[查看效果 / 体验](https://x.com/petergyang/status/2102849349122470205) · [来源记录](https://x.com/petergyang/status/2102849349122470205) · [测试背景](https://claude.ai/artifact/9sZD4wrf1MpWACjg83hK4r)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+## 可调焦距与光圈的镜头实验室
+
+**编号**：`x-ryansael-2102591147927654847` · **收录来源**：[@RyanSael / X](https://x.com/RyanSael/status/2102591147927654847)（本库来源组内序号 1）
+
+**英文标题**：Interactive focus and aperture lab
+
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="可调焦距与光圈的镜头实验室 — Opus 5.5" width="720">](https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/1920x1080/0zt2fNiA4QMgvhkM.mp4?tag=29)
+
+**模型：** Opus 5.5 · **作者 / 发布者：** @RyanSael
+
+图片署名：@RyanSael · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原帖视频封面，点击封面播放原视频。
+
+由公开作品整理的挑战方向：可调焦距与光圈的镜头实验室。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@RyanSael；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102591147927654847)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 光路变化是否对应焦平面变化
+- 参数和可视化是否保持一致
+
+**标签**：`交互应用`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/RyanSael/status/2102591147927654847) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus 5.5** · 运行日期未公开 · @RyanSael
+
+[查看效果 / 体验](https://x.com/RyanSael/status/2102591147927654847) · [来源记录](https://x.com/RyanSael/status/2102591147927654847) · [测试背景](https://lens.lab.sael.net)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+## 卧室新床摆放规划器
+
+**编号**：`x-scheemunai-2103059885361598633` · **收录来源**：[@scheemunai / X](https://x.com/scheemunai/status/2103059885361598633)（本库来源组内序号 1）
+
+**英文标题**：Bedroom bed-placement planner
+
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="卧室新床摆放规划器 — Opus 5.5" width="720">](https://video.twimg.com/amplify_video/2103059810547568640/vid/avc1/1280x720/L0UyvHEuNya7pOzY.mp4?tag=29)
+
+**模型：** Opus 5.5 · **作者 / 发布者：** @scheemunai
+
+图片署名：@scheemunai · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原帖视频封面，点击封面播放原视频。
+
+由公开作品整理的挑战方向：卧室新床摆放规划器。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@scheemunai；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 平面图与三维位置是否对应
+- 摆放是否符合尺寸与通行空间
+
+**标签**：`交互应用`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/scheemunai/status/2103059885361598633) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus 5.5** · 运行日期未公开 · @scheemunai
+
+[查看效果 / 体验](https://x.com/scheemunai/status/2103059885361598633) · [来源记录](https://x.com/scheemunai/status/2103059885361598633) · [测试背景](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+<details>
+<summary>待补效果 · 3 条案例</summary>
+
+以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
 
 ## 本地保存的个人记账应用
 
@@ -277,99 +434,6 @@
 **标签**：`交互应用`, `来源整理`
 
 **提示词与作品**：[前往原站查看](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt) · **本库测试情况**：未实测
-
----
-
-## 上传照片观看逐笔绘画
-
-**编号**：`x-petergyang-2102849349122470205` · **收录来源**：[@petergyang / X](https://x.com/petergyang/status/2102849349122470205)（本库来源组内序号 1）
-
-**英文标题**：Upload a photo and watch it painted
-
-由公开作品整理的挑战方向：上传照片观看逐笔绘画。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@petergyang；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2102849349122470205)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 上传图是否影响绘画内容
-- 风格切换与绘画进度是否可用
-
-**标签**：`交互应用`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/petergyang/status/2102849349122470205) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus 5.5** · 运行日期未公开 · @petergyang
-
-[查看效果 / 体验](https://x.com/petergyang/status/2102849349122470205) · [来源记录](https://x.com/petergyang/status/2102849349122470205) · [测试背景](https://claude.ai/artifact/9sZD4wrf1MpWACjg83hK4r)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
-
----
-
-## 可调焦距与光圈的镜头实验室
-
-**编号**：`x-ryansael-2102591147927654847` · **收录来源**：[@RyanSael / X](https://x.com/RyanSael/status/2102591147927654847)（本库来源组内序号 1）
-
-**英文标题**：Interactive focus and aperture lab
-
-由公开作品整理的挑战方向：可调焦距与光圈的镜头实验室。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@RyanSael；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/explainers.md#case-2102591147927654847)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 光路变化是否对应焦平面变化
-- 参数和可视化是否保持一致
-
-**标签**：`交互应用`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/RyanSael/status/2102591147927654847) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus 5.5** · 运行日期未公开 · @RyanSael
-
-[查看效果 / 体验](https://x.com/RyanSael/status/2102591147927654847) · [来源记录](https://x.com/RyanSael/status/2102591147927654847) · [测试背景](https://lens.lab.sael.net)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
-
----
-
-## 卧室新床摆放规划器
-
-**编号**：`x-scheemunai-2103059885361598633` · **收录来源**：[@scheemunai / X](https://x.com/scheemunai/status/2103059885361598633)（本库来源组内序号 1）
-
-**英文标题**：Bedroom bed-placement planner
-
-由公开作品整理的挑战方向：卧室新床摆放规划器。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@scheemunai；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 平面图与三维位置是否对应
-- 摆放是否符合尺寸与通行空间
-
-**标签**：`交互应用`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/scheemunai/status/2103059885361598633) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus 5.5** · 运行日期未公开 · @scheemunai
-
-[查看效果 / 体验](https://x.com/scheemunai/status/2103059885361598633) · [来源记录](https://x.com/scheemunai/status/2103059885361598633) · [测试背景](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/3d-scenes.md#case-2103059885361598633)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
 
 ---
 

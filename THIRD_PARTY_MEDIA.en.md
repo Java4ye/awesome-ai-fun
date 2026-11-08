@@ -29,10 +29,15 @@ The homepage additionally references two original project screenshots at fixed r
 
 Homepage video links lead to creator posts; no videos are copied or stored. Undisclosed full prompts and production details remain noted in the case entries. Publication dates are not treated as run dates.
 
-## Linked works
+## External previews and historical captures
 
-- **Tom Gally's SVG gallery**: links to individual tasks and original Gemini 2.5 Pro SVG files from the 2025 run. No suitable explicit redistribution license was found for this use, so those images are neither stored nor embedded here.
-- **AI Test Museum**: links to task pages and original Claude Opus 5.5 answers. Dates and environments follow the source. Its [terms](https://aitestmuseum.com/zh/terms) do not provide a blanket redistribution license. We do not store its screenshots, videos, or answer code.
+- **Tom Gally's SVG gallery**: displays each task's historical SVG through its original URL; the SVG files are not copied into this repository.
+- **X, Reddit, and official Google demos**: references public original-post images and video posters, with links to the posts and source videos. Video files are not stored in the repository.
+- **AI Test Museum, LocalLLM Visual Code Test, KCORES, and other historical works**: browser screenshots of outputs already published by their sources. Models were not rerun. A still captures one state of an animation or game and does not establish functional correctness.
+
+Each preview is recorded in [data/showcase.json](data/showcase.json), with author / publisher, model, work URL, and source URL. Local captures in `assets/previews/historical/` also record capture date and SHA-256, separately from the MIT thumbnails above. GitHub README video posters link to source videos; the local HTML preview supports inline playback.
+
+These references carry `rights: source_reference` and `license_status: not_verified`. Public availability, attribution, and a removal channel do not amount to permission. We have not obtained blanket permission for these assets and do not interpret website terms as a general redistribution license. Third-party works retain their owners' rights; check the particular asset's conditions before further use.
 
 Linked materials remain subject to their owners' rights and source terms. Our MIT license covers our original content and code; it does not relicense third-party media. Separately licensed material retains its own license.
 
@@ -40,7 +45,7 @@ Linked materials remain subject to their owners' rights and source terms. Our MI
 
 Prefer original creator posts, repositories, and blogs. Record the author separately from the publisher, and distinguish run dates, collection dates, and model release dates. Leave undisclosed details empty. Prefer original-site playback links for videos.
 
-Check the particular asset's conditions before storing it, and retain the license or permission basis. Remote images, screenshots, crops, and screen recordings also need an appropriate basis. Do not substitute a similar image from another task.
+Prefer assets with an explicit open license or creator permission, and retain the basis. Check conditions for remote images and captures too. Unverified references must retain that status rather than being labeled MIT or authorized. Remove previews with explicit display prohibitions, unavailable sources, or rights disputes, while preserving case attribution. Do not substitute a similar image from another task.
 
 ## Corrections and removal
 

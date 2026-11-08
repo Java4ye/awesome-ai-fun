@@ -8,55 +8,19 @@
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 
-## 海岸钓鱼与买卖升级游戏
-
-**编号**：`x-dangreenheck-2103004432786993341` · **收录来源**：[@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341)（本库来源组内序号 1）
-
-**英文标题**：Coastal fishing and trading game
-
-[![海岸钓鱼与买卖升级游戏 — Claude Opus 5.5（作者报告 / creator-reported）](https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg)](https://dgreenheck.github.io/tidewater/)
-
-**模型：** Claude Opus 5.5（作者报告 / creator-reported） · **作者 / 发布者：** Dan Greenheck / DRG Software Solutions LLC
-
-图片署名：Dan Greenheck / DRG Software Solutions LLC · [原图出处](https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg) · [MIT 许可](../../assets/licenses/tidewater-MIT.txt)
-
-原项目截图；多轮迭代作品，试玩需要 WebGPU。
-
-由公开作品整理的挑战方向：海岸钓鱼与买卖升级游戏。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@dangreenheck；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 捕鱼卖鱼买装备是否构成闭环
-- 保存与重开是否保持合理状态
-
-**标签**：`游戏开发`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/dangreenheck/status/2103004432786993341) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus 5.5** · 运行日期未公开 · @dangreenheck
-
-[查看效果 / 体验](https://x.com/dangreenheck/status/2103004432786993341) · [来源记录](https://x.com/dangreenheck/status/2103004432786993341) · [测试背景](https://dgreenheck.github.io/tidewater/)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
-
----
-
-<details>
-<summary>待补效果 · 13 条案例</summary>
-
-以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
-
 ## Neon Arena 多人激光对战
 
 **编号**：`google-studio-neon_arena_laser_tag` · **收录来源**：[Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/)（本库来源组内序号 1）
 
 **英文标题**：Neon Arena multiplayer laser tag
+
+[<img src="../../assets/previews/historical/google-studio-neon_arena_laser_tag.jpg" alt="Neon Arena 多人激光对战 — Google AI Studio agent（未列具体模型 / exact model undisclosed）" width="720">](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_LaserTag_06-DR.mp4)
+
+**模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
+
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_LaserTag_06-DR.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+Google 官方演示视频的画面截图，点击播放原视频。
 
 多人房间、机器人对手与限时计分组成联机游戏闭环。
 
@@ -89,6 +53,14 @@
 
 **英文标题**：Neon Claw physics claw machine
 
+[<img src="../../assets/previews/historical/google-studio-neon_claw.jpg" alt="Neon Claw 物理抓娃娃机 — Google AI Studio agent（未列具体模型 / exact model undisclosed）" width="720">](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_NeonClaw_v06_1.mp4)
+
+**模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
+
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_NeonClaw_v06_1.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+Google 官方演示视频的画面截图，点击播放原视频。
+
 把夹爪控制、碰撞、计时与排行榜结合成三维游戏。
 
 **原站署名 / 来源线索**：Google AI Studio / Build mode
@@ -120,6 +92,14 @@
 
 **英文标题**：One-shot kart racing game
 
+[<img src="../../assets/previews/historical/museum-006.jpg" alt="一次写出卡丁车游戏 — Claude Opus 5.5" width="720">](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html)
+
+**模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
+
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 一句话挑战单文件 3D 卡丁车游戏。
 
 **原站署名 / 来源线索**：BridgeMind（题面改写）
@@ -149,6 +129,14 @@
 **编号**：`museum-009` · **收录来源**：[AI 考题博物馆](https://aitestmuseum.com/zh/tests/flappy-bird)（本库来源组内序号 9）
 
 **英文标题**：Flappy Bird in one file
+
+[<img src="../../assets/previews/historical/museum-009.jpg" alt="一个文件写出 Flappy Bird — Claude Opus 5.5" width="720">](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html)
+
+**模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
+
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
 用单文件网页制作可玩的 Flappy Bird 风格游戏。
 
@@ -180,6 +168,14 @@
 
 **英文标题**：Tetris in one file
 
+[<img src="../../assets/previews/historical/museum-010.jpg" alt="一个文件写出俄罗斯方块 — Claude Opus 5.5" width="720">](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html)
+
+**模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
+
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 让 AI 生成包含旋转、消行和升级机制的俄罗斯方块。
 
 **原站署名 / 来源线索**：社区经典题
@@ -210,6 +206,14 @@
 
 **英文标题**：3D flight game among skyscrapers
 
+[<img src="../../assets/previews/historical/museum-015.jpg" alt="摩天楼间的 3D 飞行游戏 — Claude Opus 5.5" width="720">](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html)
+
+**模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
+
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 用很短的指令生成穿越摩天楼的浏览器飞行游戏。
 
 **原站署名 / 来源线索**：@levelsio
@@ -233,6 +237,167 @@
 原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
 
 ---
+
+## 带音效与排行榜的 3D 风格俄罗斯方块
+
+**编号**：`stock42-tetris-3d` · **收录来源**：[Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md)（本库来源组内序号 4）
+
+**英文标题**：3D-style Tetris with sound and scores
+
+[<img src="../../assets/previews/historical/stock42-tetris-3d.jpg" alt="带音效与排行榜的 3D 风格俄罗斯方块 — GPT-5.5 / Codex" width="720">](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html)
+
+**模型：** GPT-5.5 / Codex · **作者 / 发布者：** stock42
+
+图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
+把投影展示、落块规则、声音和持久化分数放进单文件游戏。
+
+**原站署名 / 来源线索**：Stock42 Creative Coding Challenges
+
+**题面情况**：公开题面
+
+**可以观察什么？**
+
+- 消行与碰撞规则是否正确
+- 重开与排行榜是否正确保存
+
+**标签**：`游戏开发`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) · **本库测试情况**：未实测
+
+### 历史效果
+
+**GPT-5.5 / Codex** · 运行日期未公开 · stock42
+
+[查看效果 / 体验](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [来源记录](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) · [测试背景](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/RESULTS.md)
+
+链接打开的是历史 HTML 源码，不是托管试玩；两组 Agent / 模型输出见原站 RESULTS.md。未在本库执行。
+
+---
+
+## 海岸钓鱼与买卖升级游戏
+
+**编号**：`x-dangreenheck-2103004432786993341` · **收录来源**：[@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341)（本库来源组内序号 1）
+
+**英文标题**：Coastal fishing and trading game
+
+[<img src="https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg" alt="海岸钓鱼与买卖升级游戏 — Claude Opus 5.5（作者报告 / creator-reported）" width="720">](https://dgreenheck.github.io/tidewater/)
+
+**模型：** Claude Opus 5.5（作者报告 / creator-reported） · **作者 / 发布者：** Dan Greenheck / DRG Software Solutions LLC
+
+图片署名：Dan Greenheck / DRG Software Solutions LLC · [原图 / 作品出处](https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg) · [MIT](../../assets/licenses/tidewater-MIT.txt)
+
+原项目截图；多轮迭代作品，试玩需要 WebGPU。
+
+由公开作品整理的挑战方向：海岸钓鱼与买卖升级游戏。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@dangreenheck；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 捕鱼卖鱼买装备是否构成闭环
+- 保存与重开是否保持合理状态
+
+**标签**：`游戏开发`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/dangreenheck/status/2103004432786993341) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus 5.5** · 运行日期未公开 · @dangreenheck
+
+[查看效果 / 体验](https://x.com/dangreenheck/status/2103004432786993341) · [来源记录](https://x.com/dangreenheck/status/2103004432786993341) · [测试背景](https://dgreenheck.github.io/tidewater/)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+## 鱼叉捕鱼小游戏
+
+**编号**：`x-nachat_dayo-2102773498037023140` · **收录来源**：[@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140)（本库来源组内序号 1）
+
+**英文标题**：Harpoon fishing game
+
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼小游戏 — Opus5.5" width="720">](https://video.twimg.com/amplify_video/2102773165420331009/vid/avc1/1280x720/DDkzdh8FLFgVrB-A.mp4?tag=14)
+
+**模型：** Opus5.5 · **作者 / 发布者：** @nachat_dayo
+
+图片署名：@nachat_dayo · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原帖视频封面，点击封面播放原视频。
+
+由公开作品整理的挑战方向：鱼叉捕鱼小游戏。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@nachat_dayo；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102773498037023140)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 命中与得分判定是否一致
+- 重开与操作反馈是否清晰
+
+**标签**：`游戏开发`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/nachat_dayo/status/2102773498037023140) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus5.5** · 运行日期未公开 · @nachat_dayo
+
+[查看效果 / 体验](https://x.com/nachat_dayo/status/2102773498037023140) · [来源记录](https://x.com/nachat_dayo/status/2102773498037023140) · [测试背景](https://claude.ai/artifact/X7xKcMxVJjjoCZ9ZSYyFUa)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+## 种花养蜂与采蜜游戏
+
+**编号**：`x-oguzthedev-2102476490344730950` · **收录来源**：[@oguzthedev / X](https://x.com/oguzthedev/status/2102476490344730950)（本库来源组内序号 1）
+
+**英文标题**：Flower planting and beekeeping game
+
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg" alt="种花养蜂与采蜜游戏 — Opus 5.5" width="720">](https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/2940x1688/r996P1pzfxn-Is_8.mp4?tag=29)
+
+**模型：** Opus 5.5 · **作者 / 发布者：** @oguzthedev
+
+图片署名：@oguzthedev · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原帖视频封面，点击封面播放原视频。
+
+由公开作品整理的挑战方向：种花养蜂与采蜜游戏。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@oguzthedev；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 花朵蜜蜂蜂箱是否有实际关联
+- 采蜜是否改变资源状态
+
+**标签**：`游戏开发`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/oguzthedev/status/2102476490344730950) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus 5.5** · 运行日期未公开 · @oguzthedev
+
+[查看效果 / 体验](https://x.com/oguzthedev/status/2102476490344730950) · [来源记录](https://x.com/oguzthedev/status/2102476490344730950) · [测试背景](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+<details>
+<summary>待补效果 · 4 条案例</summary>
+
+以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
 
 ## 单文件光线投射 FPS
 
@@ -331,99 +496,6 @@
 **标签**：`游戏开发`, `来源整理`
 
 **提示词与作品**：[前往原站查看](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/06_Top_Down_2D_Driving_Game_Test.txt) · **本库测试情况**：未实测
-
----
-
-## 带音效与排行榜的 3D 风格俄罗斯方块
-
-**编号**：`stock42-tetris-3d` · **收录来源**：[Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md)（本库来源组内序号 4）
-
-**英文标题**：3D-style Tetris with sound and scores
-
-把投影展示、落块规则、声音和持久化分数放进单文件游戏。
-
-**原站署名 / 来源线索**：Stock42 Creative Coding Challenges
-
-**题面情况**：公开题面
-
-**可以观察什么？**
-
-- 消行与碰撞规则是否正确
-- 重开与排行榜是否正确保存
-
-**标签**：`游戏开发`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) · **本库测试情况**：未实测
-
-### 历史效果
-
-**GPT-5.5 / Codex** · 运行日期未公开 · stock42
-
-[查看效果 / 体验](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [来源记录](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) · [测试背景](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/RESULTS.md)
-
-链接打开的是历史 HTML 源码，不是托管试玩；两组 Agent / 模型输出见原站 RESULTS.md。未在本库执行。
-
----
-
-## 鱼叉捕鱼小游戏
-
-**编号**：`x-nachat_dayo-2102773498037023140` · **收录来源**：[@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140)（本库来源组内序号 1）
-
-**英文标题**：Harpoon fishing game
-
-由公开作品整理的挑战方向：鱼叉捕鱼小游戏。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@nachat_dayo；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102773498037023140)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 命中与得分判定是否一致
-- 重开与操作反馈是否清晰
-
-**标签**：`游戏开发`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/nachat_dayo/status/2102773498037023140) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus5.5** · 运行日期未公开 · @nachat_dayo
-
-[查看效果 / 体验](https://x.com/nachat_dayo/status/2102773498037023140) · [来源记录](https://x.com/nachat_dayo/status/2102773498037023140) · [测试背景](https://claude.ai/artifact/X7xKcMxVJjjoCZ9ZSYyFUa)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
-
----
-
-## 种花养蜂与采蜜游戏
-
-**编号**：`x-oguzthedev-2102476490344730950` · **收录来源**：[@oguzthedev / X](https://x.com/oguzthedev/status/2102476490344730950)（本库来源组内序号 1）
-
-**英文标题**：Flower planting and beekeeping game
-
-由公开作品整理的挑战方向：种花养蜂与采蜜游戏。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@oguzthedev；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 花朵蜜蜂蜂箱是否有实际关联
-- 采蜜是否改变资源状态
-
-**标签**：`游戏开发`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/oguzthedev/status/2102476490344730950) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus 5.5** · 运行日期未公开 · @oguzthedev
-
-[查看效果 / 体验](https://x.com/oguzthedev/status/2102476490344730950) · [来源记录](https://x.com/oguzthedev/status/2102476490344730950) · [测试背景](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2102476490344730950)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
 
 ---
 

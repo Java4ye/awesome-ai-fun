@@ -51,7 +51,7 @@ def render(cases, sources, language='zh', history=(), showcase=()):
                 f'**ID**: `{c["id"]}` · **Source**: [{src_name}]({c["source_url"]}) (catalog source position {c["source_item_no"]})' if english else f'**编号**：`{c["id"]}` · **收录来源**：[{src_name}]({c["source_url"]})（本库来源组内序号 {c["source_item_no"]}）', ''])
             if not english:
                 lines.extend([f'**英文标题**：{c["title_en"]}', ''])
-            if c['id'] in covers and covers[c['id']].get('image_url'):
+            if c['id'] in covers and not covers[c['id']].get('preview'):
                 lines.extend(image_lines(c,covers[c['id']],language,'../../../' if english else '../../'))
             lines.extend([c['summary'+suffix], '',
                 f'**Source credit / attribution lead**: {c["source_credit_en"]}' if english else f'**原站署名 / 来源线索**：{c["source_credit"]}', '',

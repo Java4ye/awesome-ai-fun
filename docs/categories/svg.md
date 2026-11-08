@@ -8,16 +8,19 @@
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 
-<details>
-<summary>待补效果 · 32 条案例</summary>
-
-以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
-
 ## 章鱼演奏管风琴
 
 **编号**：`svg-001` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 1）
 
 **英文标题**：An octopus operating a pipe organ
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg" alt="章鱼演奏管风琴 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 章鱼通过触手操作管风琴，既要画对触手，也要让演奏动作成立。
 
@@ -51,6 +54,14 @@
 
 **英文标题**：A giraffe assembling a grandfather clock
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg" alt="长颈鹿组装落地钟 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 一只长颈鹿正在组装古典落地钟，关注机械细节与装配动作。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -82,6 +93,14 @@
 **编号**：`svg-003` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 3）
 
 **英文标题**：A starfish driving a bulldozer
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg" alt="海星驾驶推土机 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 把海星放到推土机驾驶位，看看能否表现复杂的机械结构和姿势。
 
@@ -115,6 +134,14 @@
 
 **英文标题**：A moose conducting a carousel
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg" alt="驼鹿指挥旋转木马 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 让驼鹿像指挥家一样指挥旋转木马，考察两种动作的关系。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -146,6 +173,14 @@
 **编号**：`svg-005` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 5）
 
 **英文标题**：A flamingo repairing a telescope
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg" alt="火烈鸟修理望远镜 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 让腿长嘴长的火烈鸟修理望远镜，考察细长肢体与器械细节。
 
@@ -179,6 +214,14 @@
 
 **英文标题**：A hedgehog playing an accordion
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg" alt="刺猬演奏手风琴 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 刺猬拉动手风琴，观察褶箱、琴键与身体部位的配合。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -210,6 +253,14 @@
 **编号**：`svg-007` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 7）
 
 **英文标题**：A jellyfish piloting a Ferris wheel
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg" alt="水母操控摩天轮 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 水母操控巨大的摩天轮，重点看触须、操作台与设备的联系。
 
@@ -243,6 +294,14 @@
 
 **英文标题**：An elephant typing on a typewriter
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg" alt="大象使用打字机 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 笨重的大象在打字机上输入文字，观察鼻子与按键的互动。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -274,6 +333,14 @@
 **编号**：`svg-009` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 9）
 
 **英文标题**：A chameleon tuning a grand piano
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg" alt="变色龙给三角钢琴调音 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 变色龙给三角钢琴调音，考察复杂器物的形状和细节。
 
@@ -307,6 +374,14 @@
 
 **英文标题**：A penguin juggling chainsaws
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg" alt="企鹅玩杂耍抛电锯 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 企鹅同时抛接多把电锯，测试动作轨迹与危险物件的辨识。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -338,6 +413,14 @@
 **编号**：`svg-011` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 11）
 
 **英文标题**：A sloth steering an excavator
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg" alt="树懒驾驶挖掘机 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 树懒开挖掘机，测试驾驶舱、机械臂与主体之间的联系。
 
@@ -371,6 +454,14 @@
 
 **英文标题**：A dragonfly balancing a chandelier
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg" alt="蜻蜓平衡枝形吊灯 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 蜻蜓维持大型吊灯的平衡，考察轻巧主体与复杂吊灯的关系。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -402,6 +493,14 @@
 **编号**：`svg-013` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 13）
 
 **英文标题**：A rhinoceros painting a lighthouse
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg" alt="犀牛粉刷灯塔 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 犀牛粉刷高耸的灯塔，考察比例差异与涂刷动作。
 
@@ -435,6 +534,14 @@
 
 **英文标题**：A seahorse examining a microscope
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg" alt="海马检查显微镜 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 海马检查显微镜，观察小型生物和精密仪器的描绘。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -466,6 +573,14 @@
 **编号**：`svg-015` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 15）
 
 **英文标题**：A peacock spinning a pottery wheel
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg" alt="孔雀操作陶艺转盘 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 孔雀转动陶艺转盘，测试复杂尾羽和旋转工具的组合。
 
@@ -499,6 +614,14 @@
 
 **英文标题**：A kangaroo climbing a radio tower
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg" alt="袋鼠攀爬无线电塔 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 袋鼠攀爬细高的无线电塔，考察姿态、支撑点和高空结构。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -530,6 +653,14 @@
 **编号**：`svg-017` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 17）
 
 **英文标题**：A lobster polishing a harp
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg" alt="龙虾擦亮竖琴 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 龙虾用钳子擦亮竖琴，测试工具、接触点与乐器细节。
 
@@ -563,6 +694,14 @@
 
 **英文标题**：A porcupine pushing a lawnmower
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg" alt="豪猪推割草机 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 豪猪推动割草机，测试多刺身体、握柄和推行动作。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -594,6 +733,14 @@
 **编号**：`svg-019` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 19）
 
 **英文标题**：A gecko installing a satellite dish
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg" alt="壁虎安装卫星天线 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 壁虎在建筑物上安装卫星天线，测试吸附姿态与安装动作。
 
@@ -627,6 +774,14 @@
 
 **英文标题**：An iguana carving a totem pole
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg" alt="鬣蜥雕刻图腾柱 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 鬣蜥雕刻木质图腾柱，考察雕刻痕迹与复杂花纹。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -658,6 +813,14 @@
 **编号**：`svg-021` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 21）
 
 **英文标题**：An armadillo lifting a drawbridge
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg" alt="犰狳升起吊桥 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 犰狳启动吊桥机构，看看能否画出桥梁升起的状态。
 
@@ -691,6 +854,14 @@
 
 **英文标题**：A mantis studying a sextant
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg" alt="螳螂研究六分仪 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 螳螂研究航海六分仪，挑战陌生精密仪器的识别。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -722,6 +893,14 @@
 **编号**：`svg-023` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 23）
 
 **英文标题**：An ostrich pulling a rickshaw
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg" alt="鸵鸟拉人力车 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 鸵鸟拖动人力车，考察细长腿与拉车受力方向。
 
@@ -755,6 +934,14 @@
 
 **英文标题**：A squid disassembling a printing press
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg" alt="鱿鱼拆卸印刷机 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 鱿鱼用触腕拆卸印刷机，挑战多部件机械绘画。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -786,6 +973,14 @@
 **编号**：`svg-025` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 25）
 
 **英文标题**：A butterfly inspecting a steam engine
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg" alt="蝴蝶检查蒸汽机 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 蝴蝶检查蒸汽机，考察有机翅膀和复杂工业机械的共存。
 
@@ -819,6 +1014,14 @@
 
 **英文标题**：A crab descending a fire escape
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg" alt="螃蟹沿消防梯下楼 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 螃蟹沿建筑外的消防梯下降，测试空间方向与步态。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -850,6 +1053,14 @@
 **编号**：`svg-027` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 27）
 
 **英文标题**：A venus flytrap swallowing a street lamp
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg" alt="捕蝇草吞下路灯 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 巨大的捕蝇草吞噬路灯，测试尺度、植物口器与包覆关系。
 
@@ -883,6 +1094,14 @@
 
 **英文标题**：Coral cleaning a ship's wheel
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg" alt="珊瑚清洁船舵 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 珊瑚清洁轮船舵轮，考察非典型主体的动作表达。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -914,6 +1133,14 @@
 **编号**：`svg-029` · **收录来源**：[Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html)（本库来源组内序号 29）
 
 **英文标题**：A sea anemone threading a loom
+
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg" alt="海葵为织布机穿线 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
 海葵将线穿过织布机，挑战密集细线和细微动作。
 
@@ -947,6 +1174,14 @@
 
 **英文标题**：An orchid supporting a pergola
 
+[<img src="https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg" alt="兰花支撑藤架 — Gemini 2.5 Pro" width="720">](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg)
+
+**模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
+
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
+
 兰花支撑庭园藤架，测试结构承重关系与植物形态。
 
 **原站署名 / 来源线索**：Tom Gally / Claude 生成的题集
@@ -979,6 +1214,14 @@
 
 **英文标题**：Render the final PGN position as SVG
 
+[<img src="../../assets/previews/historical/reddit-pgn-svg-pgn-svg.jpg" alt="从 PGN 棋谱推演并绘制 SVG 棋盘 — Qwen3.6 27B · BF16（原画廊首图 / first source-gallery image）" width="720">](https://qwen3-6-27b-benchmark.vercel.app/)
+
+**模型：** Qwen3.6 27B · BF16（原画廊首图 / first source-gallery image） · **作者 / 发布者：** u/bobaburger
+
+图片署名：u/bobaburger · [原图 / 作品出处](https://qwen3-6-27b-benchmark.vercel.app/) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 从指定棋谱追踪棋子状态，并在 SVG 中标记最后一步。
 
 **原站署名 / 来源线索**：u/bobaburger
@@ -1010,6 +1253,14 @@
 
 **英文标题**：Draw a unicorn in SVG
 
+[<img src="../../assets/previews/historical/springprompt-unicorn.jpg" alt="用 SVG 画独角兽 — 以来源画面为准 / See source" width="720">](https://springprompt.com/playground/unicorn)
+
+**模型：** 以来源画面为准 / See source · **作者 / 发布者：** Spring Prompt
+
+图片署名：Spring Prompt · [原图 / 作品出处](https://springprompt.com/playground/unicorn) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
+
 观察角、四肢、鬃毛、尾巴和形状连接；这不是 TikZ 版本的直接复现。
 
 **原站署名 / 来源线索**：Spring Prompt / SVG unicorn
@@ -1034,5 +1285,3 @@
 原站持续更新，搜索缓存与实时页面显示的模型数量不一致，因此不记录动态数量、分数或排名。SVG 版本借鉴 TikZ 画独角兽思路，不能宣称本页是最早出处。
 
 ---
-
-</details>

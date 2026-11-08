@@ -2,6 +2,8 @@
 from collections import Counter
 from pathlib import Path
 from urllib.parse import urlsplit
+from hashlib import sha256
+from html import escape
 import re
 
 INTRO = {
@@ -24,6 +26,23 @@ def check_showcase(cases, history, records, root):
             r=by_history.get(p['history_id'])
             if not r or r.get('case_id')!=cid or not r.get('preview'):errors.append(tag+': missing or mismatched historical preview')
             continue
+        if p.get('rights')=='source_reference':
+            for key in ('source_url','output_url'):
+                u=urlsplit(p.get(key,''))
+                if u.scheme!='https' or not u.netloc:errors.append(tag+': invalid '+key)
+            if p.get('license_status')!='not_verified':errors.append(tag+': reference must not imply a redistribution license')
+            if p.get('capture'):
+                capture=(root/p['capture']).resolve()
+                if not capture.is_relative_to(root.resolve()) or not p['capture'].startswith('assets/previews/historical/') or not capture.is_file():errors.append(tag+': unsafe or missing capture')
+                elif sha256(capture.read_bytes()).hexdigest()!=p.get('capture_sha256'):errors.append(tag+': capture checksum mismatch')
+                if not p.get('captured_on'):errors.append(tag+': missing capture date')
+            else:
+                u=urlsplit(p.get('image_url',''))
+                if u.scheme!='https' or not u.netloc:errors.append(tag+': invalid source image')
+            if p.get('video_url') and urlsplit(p['video_url']).scheme!='https':errors.append(tag+': invalid video URL')
+            for key in ('publisher','model','note','note_en'):
+                if not p.get(key):errors.append(tag+': missing '+key)
+            continue
         for key in ('image_url','source_url','output_url','license_url'):
             u=urlsplit(p.get(key,''))
             if u.scheme!='https' or not u.netloc:errors.append(tag+': invalid '+key)
@@ -42,12 +61,17 @@ def resolve_showcase(history, records):
 
 def image_lines(case, preview, language, prefix=''):
     en=language=='en';suffix='_en' if en else ''
-    src=prefix+preview['preview'] if preview.get('preview') else preview['image_url']
-    image_source=preview.get('preview_source_url',preview['source_url'])
+    local=preview.get('preview') or preview.get('capture')
+    src=prefix+local if local else preview['image_url']
+    image_source=preview.get('preview_source_url') or preview.get('image_url') or preview['output_url']
+    target=preview.get('video_url') or preview['output_url']
     alt=case['title'+suffix]+' — '+preview['model']
-    lines=[f'[![{alt}]({src})]({preview["output_url"]})','',
+    width=preview.get('display_width',480 if preview.get('preview') else 720)
+    lines=[f'[<img src="{escape(src,quote=True)}" alt="{escape(alt,quote=True)}" width="{width}">]({target})','',
         f'**Model:** {preview["model"]} · **Author / publisher:** {preview["publisher"]}' if en else f'**模型：** {preview["model"]} · **作者 / 发布者：** {preview["publisher"]}','',
-        f'Image: {preview["publisher"]} · [Original image]({image_source}) · [MIT license]({prefix}{preview["license_file"]})' if en else f'图片署名：{preview["publisher"]} · [原图出处]({image_source}) · [MIT 许可]({prefix}{preview["license_file"]})','']
+        f'Image: {preview["publisher"]} · [Original image / work]({image_source})' if en else f'图片署名：{preview["publisher"]} · [原图 / 作品出处]({image_source})','']
+    if preview.get('rights')=='MIT':lines[-2]+=f' · [MIT]({prefix}{preview["license_file"]})'
+    else:lines[-2]+=f' · [Media notice]({prefix}THIRD_PARTY_MEDIA.en.md)' if en else f' · [素材说明]({prefix}THIRD_PARTY_MEDIA.md)'
     if preview.get('preview'):
         lines.extend([f'[Source run record]({preview["source_url"]})' if en else f'[来源运行记录]({preview["source_url"]})',''])
     if preview.get('run_date'):
@@ -67,6 +91,7 @@ def card_lines(case,preview,history,language,prefix='',docs_prefix='docs/'):
         f'[Open work]({preview["output_url"]})' if en else f'[打开作品]({preview["output_url"]})',
         f'[Details]({detail})' if en else f'[案例详情]({detail})']
     if urlsplit(case['source_url']).netloc=='x.com':links.append(f'[▶ Creator video]({case["source_url"]})' if en else f'[▶ 作者视频]({case["source_url"]})')
+    if preview.get('video_url'):links.append(f'[▶ Play video]({preview["video_url"]})' if en else f'[▶ 播放视频]({preview["video_url"]})')
     lines.extend([' · '.join(links),''])
     others=[r for r in history if r['case_id']==case['id'] and r.get('preview') and r.get('preview')!=preview.get('preview')]
     if others:
@@ -111,7 +136,7 @@ def render_homepages(cases,sources,history,records,categories,language):
     lines.extend(['## Contribute' if en else '## 欢迎补充','',
         f'Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-tests/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).' if en else '欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-tests/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。','',
         f'[Sources]({docs}SOURCES.md) · [History]({docs}HISTORY.md) · [Research leads]({docs}RESEARCH.md) · [Guide]({docs}GUIDE.md) · [Maintenance]({docs}MAINTENANCE.md) · [Media credits](THIRD_PARTY_MEDIA.en.md)' if en else f'[来源导航]({docs}SOURCES.md) · [历史档案]({docs}HISTORY.md) · [社区线索]({docs}RESEARCH.md) · [使用指南]({docs}GUIDE.md) · [维护说明]({docs}MAINTENANCE.md) · [素材署名](THIRD_PARTY_MEDIA.md)','',
-        'Images show source-published works; historical models were not rerun here. Full videos open at creator posts. Original content and code: [MIT](LICENSE). Third-party previews retain their own licenses. Source conditions differ and do not form a standardized ranking.' if en else '图片为来源方作品，本库未重新调用历史模型；完整视频通过作者原帖打开。本库原创内容与代码采用 [MIT](LICENSE)，第三方预览按各自许可处理。不同来源的测试条件不构成统一排行榜。',''])
+        'Images show source-published works; historical models were not rerun here. Click video posters for source playback. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights; attribution does not imply permission. Source conditions differ and do not form a standardized ranking.' if en else '图片为来源方作品，本库未重新调用历史模型；点击视频封面打开原视频。本库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人，署名不等于授权。不同来源的测试条件不构成统一排行榜。',''])
     readme=Path('README.en.md' if en else 'README.md')
     base=Path('docs/en') if en else Path('docs');prefix='../../' if en else '../'
     gallery=['# Preview gallery' if en else '# 案例效果画廊','',
