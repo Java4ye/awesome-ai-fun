@@ -2,7 +2,7 @@
 
 [简体中文](THIRD_PARTY_MEDIA.md) | **English**
 
-[Home](README.en.md) · [Historical outputs](docs/en/HISTORY.md) · [Selected previews](docs/en/GALLERY.md)
+[Home](README.md) · [Historical outputs](docs/en/HISTORY.md)
 
 This collection indexes traceable historical model outputs. It does not require regenerating them with unavailable models. Model names, run dates, and environments follow source records. We have not independently verified their generation, and community tests are not vendor-official demonstrations or endorsements.
 

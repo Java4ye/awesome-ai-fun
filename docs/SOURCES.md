@@ -2,7 +2,7 @@
 
 **简体中文** | [English](en/SOURCES.md)
 
-[首页](../README.md) · [全部案例](INDEX.md) · [社区出处整理](RESEARCH.md)
+[首页](../README.zh-CN.md) · [全部案例](INDEX.md) · [社区出处整理](RESEARCH.md)
 
 共 35 个来源组。数量为本库截至 2026-11-08 的收录数，不代表来源网站的全部内容。
 
@@ -42,7 +42,7 @@
 - **项目**：[AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)
 - **题面与版本**：[固定版本原题](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)
 - **本库收录**：1 道独立的 3D SDF 鹈鹕骑车题，不与 SVG 动画题混为一题。
-- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [精选预览](GALLERY.md)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。
+- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [3D 鹈鹕案例详情](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。
 - **条件**：上游模型输出来自不同 CLI / SDK 环境，记录标为 unverified；本库未独立复现，不用缩略图建立成绩排名。
 
 ## David Harris / LocalLLM Visual Code Test
@@ -102,12 +102,6 @@ SVG 独角兽题及同题输出；与 Sparks of AGI 的 TikZ 版本区分。
 ## u/bobaburger
 
 [来源入口](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · 本库收录 1 条
-
-社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。
-
-## r/LocalLLaMA 原帖 / original thread
-
-[来源入口](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) · 本库收录 1 条
 
 社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。
 
@@ -236,6 +230,12 @@ SVG 独角兽题及同题输出；与 Sparks of AGI 的 TikZ 版本区分。
 [来源入口](https://x.com/dadabots/status/2103039181266338276) · 本库收录 1 条
 
 原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。
+
+## Sac (@Saccc_c)
+
+[来源入口](https://x.com/Saccc_c/status/2109962425512734739) · 本库收录 1 条
+
+《小王子：星辰之旅》的作者首发与制作教程。
 
 ## 继续发现案例的资源
 

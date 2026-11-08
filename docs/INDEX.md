@@ -4,7 +4,7 @@
 
 > 收录 **105 道**公开来源的 AI 测试案例。这里是导航与整理，不代表已经由本仓库实测。
 
-按类型查看：[SVG 绘画 (32)](categories/svg.md) · [动画与物理 (31)](categories/animation.md) · [3D 与空间 (16)](categories/3d.md) · [游戏开发 (14)](categories/games.md) · [应用与交互 (12)](categories/applications.md)
+按类型查看：[SVG 绘画 (32)](categories/svg.md) · [动画与物理 (31)](categories/animation.md) · [3D 与空间 (15)](categories/3d.md) · [游戏开发 (15)](categories/games.md) · [应用与交互 (12)](categories/applications.md)
 
 [本轮新收录与社区出处](RESEARCH.md)
 
@@ -88,13 +88,13 @@
 | `x-superalesha-2102779758408774104` | [从加速器隧道到质子碰撞](categories/3d.md#从加速器隧道到质子碰撞) | 3D 与空间 | 作品改编方向 | [@superalesha / X](https://x.com/superalesha/status/2102779758408774104) |
 | `x-techartist_-2102503719762018434` | [从线稿逐步长成三维房屋](categories/3d.md#从线稿逐步长成三维房屋) | 3D 与空间 | 作品改编方向 | [@techartist_ / X](https://x.com/techartist_/status/2102503719762018434) |
 | `psydox-09` | [Python 软件渲染 3D 游戏](categories/3d.md#python-软件渲染-3d-游戏) | 3D 与空间 | 仅题面 | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/09_Python_Software_Rendered_3D_Game_Test.txt) |
-| `reddit-doner-doner` | [旋转烤肉串与燃气加热器](categories/3d.md#旋转烤肉串与燃气加热器) | 3D 与空间 | 题面与效果 | [r/LocalLLaMA 原帖 / original thread](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | `google-studio-neon_arena_laser_tag` | [Neon Arena 多人激光对战](categories/games.md#neon-arena-多人激光对战) | 游戏开发 | 官方演示 | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
 | `google-studio-neon_claw` | [Neon Claw 物理抓娃娃机](categories/games.md#neon-claw-物理抓娃娃机) | 游戏开发 | 官方演示 | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
 | `museum-006` | [一次写出卡丁车游戏](categories/games.md#一次写出卡丁车游戏) | 游戏开发 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/kart-racer) |
 | `museum-009` | [一个文件写出 Flappy Bird](categories/games.md#一个文件写出-flappy-bird) | 游戏开发 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/flappy-bird) |
 | `museum-010` | [一个文件写出俄罗斯方块](categories/games.md#一个文件写出俄罗斯方块) | 游戏开发 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/tetris) |
 | `museum-015` | [摩天楼间的 3D 飞行游戏](categories/games.md#摩天楼间的-3d-飞行游戏) | 游戏开发 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/flight-sim) |
+| `sac-little-prince` | [小王子：星辰之旅](categories/games.md#小王子星辰之旅) | 游戏开发 | 题面与效果 | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
 | `stock42-tetris-3d` | [带音效与排行榜的 3D 风格俄罗斯方块](categories/games.md#带音效与排行榜的-3d-风格俄罗斯方块) | 游戏开发 | 题面与效果 | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) |
 | `x-dangreenheck-2103004432786993341` | [海岸钓鱼与买卖升级游戏](categories/games.md#海岸钓鱼与买卖升级游戏) | 游戏开发 | 作品改编方向 | [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) |
 | `x-nachat_dayo-2102773498037023140` | [鱼叉捕鱼小游戏](categories/games.md#鱼叉捕鱼小游戏) | 游戏开发 | 作品改编方向 | [@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140) |

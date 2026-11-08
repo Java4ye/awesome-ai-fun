@@ -2,7 +2,7 @@
 
 **简体中文** | [English](THIRD_PARTY_MEDIA.en.md)
 
-[首页](README.md) · [历史效果](docs/HISTORY.md) · [精选预览](docs/GALLERY.md)
+[首页](README.zh-CN.md) · [历史效果](docs/HISTORY.md)
 
 本仓库记录公开可追溯的历史模型输出，不要求用已经不可用的模型重新生成。模型、运行日期和环境按来源记录填写，不代表本库独立核验了生成过程，也不代表模型厂商官方发布或背书。
 

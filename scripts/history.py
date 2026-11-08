@@ -81,11 +81,11 @@ def slug(title):
 
 def render_history(cases, records, language):
     en = language == 'en'
-    base, suffix, prefix = (Path('docs/en'), '_en', '../../') if en else (Path('docs'), '', '../')
+    base, suffix = (Path('docs/en'), '_en') if en else (Path('docs'), '')
     grouped = group_history(records)
     lines = ['# Historical outputs' if en else '# 历史效果档案', '',
         '[简体中文](../HISTORY.md) | **English**' if en else '**简体中文** | [English](en/HISTORY.md)', '',
-        '[Home](../../README.en.md) · [All challenges](INDEX.md) · [Preview gallery](GALLERY.md)' if en else '[首页](../README.md) · [全部案例](INDEX.md) · [精选预览](GALLERY.md)', '',
+        '[Home](../../README.md) · [Full catalog](INDEX.md)' if en else '[首页](../README.zh-CN.md) · [完整索引](INDEX.md)', '',
         f'> {len(records)} records covering {len(grouped)} challenges. Source-reported historical outputs, not our reproductions or a ranking.' if en else f'> {len(records)} 条效果记录，覆盖 {len(grouped)} 道题。这里记录来源方的历史输出，不代表本库复现或模型排名。', '',
         'Dates describe runs, not model releases. Publication dates are unknown unless recorded separately. Click a challenge for attribution and conditions.' if en else '日期指运行时间，不是模型发布日期；未单独公开的发布时间不作推测。点击题名查看出处及测试条件。', '',
         '| Challenge | Model | Run period | Output | Source |' if en else '| 案例 | 模型 | 运行时间 | 效果 | 来源 |', '| --- | --- | --- | --- | --- |']
@@ -94,16 +94,4 @@ def render_history(cases, records, language):
             lines.append(f'| [{c["title"+suffix]}](categories/{c["category"]}.md#{slug(c["title"+suffix])}) | {r["model"]} | {r["run_period"+suffix]} | [↗]({r["output_url"]}) | [{r["publisher"]}]({r["source_url"]}) |')
     notice = '[Media credits and corrections](../../THIRD_PARTY_MEDIA.en.md)' if en else '[素材署名与更正说明](../THIRD_PARTY_MEDIA.md)'
     lines.extend(['', notice, ''])
-    previews = [r for r in records if r.get('preview')]
-    gallery = ['# Selected previews' if en else '# 精选效果预览', '',
-        '[简体中文](../GALLERY.md) | **English**' if en else '**简体中文** | [English](en/GALLERY.md)', '',
-        '[Home](../../README.en.md) · [History](HISTORY.md)' if en else '[首页](../README.md) · [历史效果档案](HISTORY.md)', '',
-        f'> {len(previews)} unchanged upstream thumbnails from one separate 3D SDF task. These are not SVG animation outputs or a ranking.' if en else f'> {len(previews)} 张原项目缩略图，均来自独立的 3D SDF 题，不是 SVG 动画题的结果，也不构成排名。', '',
-        'Some frames are cropped or blank and are retained to show limitations. A still cannot verify interaction. Upstream records are marked unverified; we have not reproduced them.' if en else '部分画面有裁切或空白，按原样保留以展示局限。静态图不能验证交互；原项目记录为 unverified，本库未独立复现。', '']
-    by_id = {c['id']: c for c in cases}
-    for r in previews:
-        c = by_id[r['case_id']]
-        gallery.extend([f'## {r["model"]}', '', f'[{c["title"+suffix]}](categories/{c["category"]}.md#{slug(c["title"+suffix])})', ''])
-        gallery.extend(history_lines([r], language, prefix)[2:])
-    gallery.extend([notice, ''])
-    return {base/'HISTORY.md': '\n'.join(lines), base/'GALLERY.md': '\n'.join(gallery)}
+    return {base/'HISTORY.md': '\n'.join(lines)}

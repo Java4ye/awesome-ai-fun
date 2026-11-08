@@ -72,22 +72,30 @@ class CatalogTests(unittest.TestCase):
         bad[0]['included_case_id']='invented-case'
         self.assertTrue(any('unknown case' in e for e in check_research(self.cases,bad)))
 
-    def test_homepages_cover_all_cases_without_turning_links_into_previews(self):
-        from showcase import render_homepages, resolve_showcase
+    def test_gallery_groups_related_works_without_losing_catalog_entries(self):
+        from showcase import render_homepages
+        from site_catalog import render_site_catalog
         from build import CATEGORIES
         previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
-        covers=resolve_showcase(self.history,previews)
-        for language,name in [('zh','README.md'),('en','README.en.md')]:
+        script=render_site_catalog(self.cases,self.sources,self.history,previews)[Path('site/catalog.js')]
+        gallery=json.loads(script.split('window.AI_FUN_CATALOG = ',1)[1].strip().removesuffix(';'))
+        covered=[v['id'] for work in gallery['works'] for v in (work['variants'] or [work])]
+        works=[c for c in self.cases if c.get('evidence_level')!='prompt_only']
+        self.assertCountEqual([c['id'] for c in works],covered)
+        self.assertEqual(len(self.cases)-len(works),len(gallery['prompts']))
+        series=next(w for w in gallery['works'] if w['id']=='svg-001')
+        self.assertEqual(30,len(series['variants']))
+        prince=next(w for w in gallery['works'] if w['id']=='sac-little-prince')
+        self.assertEqual('https://littleprince.dev/',prince['play'])
+        for language,name in [('zh','README.zh-CN.md'),('en','README.md')]:
             page=render_homepages(self.cases,self.sources,self.history,previews,CATEGORIES,language)[Path(name)]
-            for case in self.cases:
-                self.assertEqual(1,page.count(f'id="case-{case["id"]}"'))
-            for category in {c['category'] for c in self.cases}:
-                section=page.split(f'<a id="category-{category}"></a>',1)[1].split('<a id="category-',1)[0]
-                folded=section.find('<summary>Awaiting previews' if language=='en' else '<summary>待补效果')
-                for case in (c for c in self.cases if c['category']==category):
-                    position=section.index(f'id="case-{case["id"]}"')
-                    if case['id'] in covers:self.assertTrue(folded<0 or position<folded)
-                    else:self.assertGreater(position,folded)
+            gallery_url='https://java4ye.github.io/awesome-ai-fun/site/' + ('?lang=zh' if language=='zh' else '')
+            self.assertIn(gallery_url,page)
+            self.assertIn('README.md)' if language=='zh' else 'README.zh-CN.md)',page)
+            self.assertEqual(len(gallery['works']),page.count('<td width="33%"'))
+            self.assertEqual(sum(bool(w['image']) for w in gallery['works']),page.count('<img '))
+            self.assertIn('COLLECTIONS.md#svg-001',page)
+            self.assertNotIn('Featured works' if language=='en' else '精选作品',page)
 
     def test_showcase_rejects_wrong_case_or_unlicensed_media(self):
         from showcase import check_showcase
@@ -138,15 +146,22 @@ class CatalogTests(unittest.TestCase):
         self.assertTrue(any('unknown case' in e for e in errors))
         self.assertTrue(any('duplicate id' in e for e in errors))
 
-    def test_history_and_gallery_have_bilingual_navigation(self):
+    def test_history_and_category_pages_retain_previews(self):
+        from html import escape
+        from showcase import resolve_showcase
+        previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
+        covers=resolve_showcase(self.history,previews)
         for language,base,switch in [('zh',Path('docs'),'en/'),('en',Path('docs/en'),'../')]:
             pages=render_history(self.cases,self.history,language)
-            for name in ('HISTORY.md','GALLERY.md'):
-                self.assertIn(f'({switch}{name})',pages[base/name])
-            gallery=pages[base/'GALLERY.md']
+            self.assertIn(f'({switch}HISTORY.md)',pages[base/'HISTORY.md'])
+            details=render(self.cases,self.sources,language,self.history,previews)
+            all_details='\n'.join(text for path,text in details.items() if path.parent.name=='categories')
+            for preview in covers.values():
+                image=preview.get('preview') or preview.get('capture') or preview.get('image_url')
+                self.assertIn(escape(image,quote=True),all_details)
             for record in self.history:
                 if record.get('preview'):
-                    self.assertIn(record['preview'],gallery)
-                    self.assertIn(record['source_url'],gallery)
+                    self.assertIn(record['preview'],all_details)
+                    self.assertIn(record['source_url'],all_details)
 
 if __name__=='__main__':unittest.main()

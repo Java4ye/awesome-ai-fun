@@ -2,9 +2,9 @@
 
 **简体中文** | [English](en/RESEARCH.md)
 
-[首页](../README.md) · [全部案例](INDEX.md) · [来源导航](SOURCES.md)
+[首页](../README.zh-CN.md) · [全部案例](INDEX.md) · [来源导航](SOURCES.md)
 
-整理日期：2026-11-08。新增 **54 道案例方向**，共整理 **146 条来源记录**，其中 **112 条 X 帖子**、**92 条尚未纳入正式索引的线索**。来源记录与案例重叠，不能相加算题数。
+整理日期：2026-11-09。已收录 **54 条作品与题目**，共整理 **146 条来源记录**，其中 **113 条 X 帖子**、**92 条尚未纳入正式索引的线索**。来源记录与案例重叠，不能相加算题数。
 
 这是本轮有边界的检索结果，不代表穷尽全网。继续围绕视觉、编程与交互测试整理，未将大型学术评测数据集拆成几千道题凑数。
 
@@ -16,7 +16,7 @@
 - 官方演示：核对官方说明；Google AI Studio 试玩 / Remix 要求登录，本轮未登录运行。
 - 未公开的完整题面、素材来源、运行日期和迭代次数不作推测。观察点是本库编辑建议，不是原站评分规则。
 
-来源渠道：X: 112 · GitHub: 20 · Official: 8 · Author site: 1 · Hacker News: 1 · Reddit: 4
+来源渠道：X: 113 · GitHub: 20 · Official: 8 · Author site: 1 · Hacker News: 1 · Reddit: 3
 
 ## 已接入索引的新案例
 
@@ -54,7 +54,6 @@
 | [扮演语言模型的交互叙事](categories/applications.md#扮演语言模型的交互叙事) | 来源题目 / 作品与效果 | 部分 / 示例请求 | [出处](https://news.ycombinator.com/item?id=49311484) · [↗](https://chrisjz.github.io/between-tokens/) |
 | [玻璃桥破裂与受力演示](categories/animation.md#玻璃桥破裂与受力演示) | 来源题目 / 作品与效果 | 部分 / 示例请求 | [出处](https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/) · [↗](https://x.com/EntelligenceAI/status/2075282696008532097) |
 | [从 PGN 棋谱推演并绘制 SVG 棋盘](categories/svg.md#从-pgn-棋谱推演并绘制-svg-棋盘) | 来源题目 / 作品与效果 | 公开 | [出处](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · [↗](https://qwen3-6-27b-benchmark.vercel.app/) |
-| [旋转烤肉串与燃气加热器](categories/3d.md#旋转烤肉串与燃气加热器) | 来源题目 / 作品与效果 | 公开 | [出处](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | [多人角色同步舞蹈 Three.js 场景](categories/3d.md#多人角色同步舞蹈-threejs-场景) | 来源题目 / 作品与效果 | 公开 | [出处](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) |
 | [列车窗外四季变换的代码短片](categories/animation.md#列车窗外四季变换的代码短片) | 按作品整理 | 完整原题未确认 | [出处](https://x.com/itsolelehmann/status/2103124033365762215) |
 | [逆运动学像素奔马](categories/animation.md#逆运动学像素奔马) | 按作品整理 | 完整原题未确认 | [出处](https://x.com/victormustar/status/2102707412704919910) |
@@ -76,6 +75,7 @@
 | [可输入词语探索的柔彩村庄](categories/3d.md#可输入词语探索的柔彩村庄) | 按作品整理 | 完整原题未确认 | [出处](https://x.com/studio_veco/status/2102684366996738511) · [↗](https://powapowa.pages.dev/) |
 | [用 Blender 制作黏土风动画](categories/animation.md#用-blender-制作黏土风动画) | 按作品整理 | 完整原题未确认 | [出处](https://x.com/alexalbert__/status/2102458348511879448) |
 | [纯 JavaScript 乐理视听实验](categories/animation.md#纯-javascript-乐理视听实验) | 按作品整理 | 完整原题未确认 | [出处](https://x.com/dadabots/status/2103039181266338276) |
+| [小王子：星辰之旅](categories/games.md#小王子星辰之旅) | 来源题目 / 作品与效果 | 部分 / 示例请求 | [出处](https://x.com/Saccc_c/status/2109962425512734739) · [↗](https://littleprince.dev/) |
 
 ## 待进一步整理的 X 线索
 

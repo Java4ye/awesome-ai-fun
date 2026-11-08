@@ -40,10 +40,11 @@ def render_research(cases,sources,records,language):
     leads=[r for r in records if not r.get('included_case_id')]
     x=[r for r in records if r['platform']=='X']
     n=Counter(r['platform'] for r in records)
+    latest=max((r.get('collected_on','') for r in records),default='')
     lines=['# Community source research' if en else '# 社区出处与本轮新收录','',
         '[简体中文](../RESEARCH.md) | **English**' if en else '**简体中文** | [English](en/RESEARCH.md)','',
-        '[Home](../../README.en.md) · [Catalog](INDEX.md) · [Sources](SOURCES.md)' if en else '[首页](../README.md) · [全部案例](INDEX.md) · [来源导航](SOURCES.md)','',
-        f'As of 2026-11-08: **{len(new)} additions**, **{len(records)} source records**, including **{len(x)} X posts** and **{len(leads)} remaining leads**. Source records overlap the catalog; do not add these counts together.' if en else f'整理日期：2026-11-08。新增 **{len(new)} 道案例方向**，共整理 **{len(records)} 条来源记录**，其中 **{len(x)} 条 X 帖子**、**{len(leads)} 条尚未纳入正式索引的线索**。来源记录与案例重叠，不能相加算题数。','',
+        '[Home](../../README.md) · [Catalog](INDEX.md) · [Sources](SOURCES.md)' if en else '[首页](../README.zh-CN.md) · [全部案例](INDEX.md) · [来源导航](SOURCES.md)','',
+        f'As of {latest}: **{len(new)} indexed entries** from this research, **{len(records)} source records**, including **{len(x)} X posts** and **{len(leads)} remaining leads**. Source records overlap the catalog; do not add these counts together.' if en else f'整理日期：{latest}。已收录 **{len(new)} 条作品与题目**，共整理 **{len(records)} 条来源记录**，其中 **{len(x)} 条 X 帖子**、**{len(leads)} 条尚未纳入正式索引的线索**。来源记录与案例重叠，不能相加算题数。','',
         'This is a bounded research pass, not exhaustive coverage of the internet. Categories follow the project’s visual and interactive coding focus.' if en else '这是本轮有边界的检索结果，不代表穷尽全网。继续围绕视觉、编程与交互测试整理，未将大型学术评测数据集拆成几千道题凑数。','',
         '## How the evidence was checked' if en else '## 来源是怎样核对的','',
         '- GitHub: original prompt files, pinned revisions and output directories were checked. Code links open source, not hosted play sessions.\n- Reddit and Hacker News: author posts and linked projects were read. Claims remain participant-reported.\n- X: original post URLs and IDs were discovered through [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation); public FxTwitter metadata was used to match IDs, accounts and text. This is indirect access, not a direct X session or a video review.\n- Official demos: source descriptions were checked. Google AI Studio play/remix links require sign-in and were not run after login.\n- Unknown full prompts, assets, run dates and iteration counts remain unknown. Observation points are our editorial suggestions, not source scoring rules.' if en else '- GitHub：核对作者题面、固定提交和输出目录。代码链接打开源码，不冒充可直接试玩的网页。\n- Reddit / Hacker News：读取发帖者的说明和项目入口；保留“作者报告”的证据性质。\n- X：通过 [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation) 发现原帖，再用 FxTwitter 公共元数据核对帖子 ID、账号和文字。这属于间接读取，不是登录 X 直接核验或逐条观看视频。\n- 官方演示：核对官方说明；Google AI Studio 试玩 / Remix 要求登录，本轮未登录运行。\n- 未公开的完整题面、素材来源、运行日期和迭代次数不作推测。观察点是本库编辑建议，不是原站评分规则。','',
@@ -68,7 +69,7 @@ def render_research(cases,sources,records,language):
         '[Machine-readable source ledger](../../data/research.json)' if en else '[机器可读的来源记录](../data/research.json)',''])
     source_lines=['# Source directory' if en else '# 来源与资源导航','',
         '[简体中文](../SOURCES.md) | **English**' if en else '**简体中文** | [English](en/SOURCES.md)','',
-        '[Home](../../README.en.md) · [Catalog](INDEX.md) · [Research](RESEARCH.md)' if en else '[首页](../README.md) · [全部案例](INDEX.md) · [社区出处整理](RESEARCH.md)','',
+        '[Home](../../README.md) · [Catalog](INDEX.md) · [Research](RESEARCH.md)' if en else '[首页](../README.zh-CN.md) · [全部案例](INDEX.md) · [社区出处整理](RESEARCH.md)','',
         f'{len(sources)} source groups. Counts describe this repository’s indexed entries as of 2026-11-08, not all content on the source sites.' if en else f'共 {len(sources)} 个来源组。数量为本库截至 2026-11-08 的收录数，不代表来源网站的全部内容。','']
     for s in sources:
         source_lines.extend([f'## {s["name"+suffix]}','',f'[Source]({s["url"]}) · {s["count"]} entries' if en else f'[来源入口]({s["url"]}) · 本库收录 {s["count"]} 条','',s['note'+suffix],''])

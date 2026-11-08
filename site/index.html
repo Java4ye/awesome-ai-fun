@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A gallery of fun things people make with AI: games, 3D worlds, animations, interactive apps, and SVG art.">
+  <title>Awesome AI Fun · Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="catalog.js" defer></script>
+  <script src="gallery.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#gallery" data-copy="skip">Skip to the gallery</a>
+  <header class="masthead shell">
+    <a class="brand" href="./index.html"><span class="mark" aria-hidden="true">✳</span> Awesome AI Fun</a>
+    <nav aria-label="Site">
+      <button id="language" type="button" lang="zh-CN">简体中文</button>
+      <a href="https://github.com/Java4ye/awesome-ai-fun">GitHub ↗</a>
+    </nav>
+  </header>
+  <main class="shell">
+    <section class="intro" aria-labelledby="headline">
+      <h1 id="headline" data-copy="headline">Look what AI helped make</h1>
+      <p class="lede" data-copy="intro">Games, 3D worlds, animation, and interactive ideas. Open a work to see it, play it, or find the original source.</p>
+    </section>
+    <section id="gallery" aria-labelledby="gallery-title">
+      <div class="gallery-heading">
+        <h2 id="gallery-title" data-copy="gallery">All works</h2>
+        <p id="count" role="status" aria-live="polite"></p>
+      </div>
+      <div class="toolbar">
+        <label class="search">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+          <span class="sr-only" data-copy="searchLabel">Search works</span>
+          <input id="search" type="search" placeholder="Search titles, creators, or tags">
+        </label>
+        <label class="play-filter"><input id="playable" type="checkbox"> <span data-copy="playable">Playable only</span></label>
+      </div>
+      <div id="categories" class="categories" role="group" aria-label="Categories"></div>
+      <div id="grid" class="grid"></div>
+      <noscript><p>Enable JavaScript to browse the gallery, or view the catalog on <a href="https://github.com/Java4ye/awesome-ai-fun">GitHub</a>.</p></noscript>
+      <div id="empty" class="empty" hidden>
+        <p data-copy="empty">No matching works.</p>
+        <button id="reset" type="button" data-copy="reset">Clear filters</button>
+      </div>
+    </section>
+    <details class="prompt-box">
+      <summary id="prompt-label">Hands-on prompts</summary>
+      <ul id="prompts"></ul>
+    </details>
+  </main>
+  <footer class="shell footer">
+    <span>Awesome AI Fun</span>
+    <a id="credits" data-copy="credits" href="https://github.com/Java4ye/awesome-ai-fun/blob/main/THIRD_PARTY_MEDIA.en.md">Media credits</a>
+    <a data-copy="contribute" href="https://github.com/Java4ye/awesome-ai-fun/issues/new/choose">Suggest a work ↗</a>
+  </footer>
+  <dialog id="detail" aria-labelledby="detail-title">
+    <button id="close" class="close" type="button" aria-label="Close details" autofocus>×</button>
+    <div id="detail-body"></div>
+  </dialog>
+</body>
+</html>

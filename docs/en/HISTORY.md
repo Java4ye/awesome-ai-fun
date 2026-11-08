@@ -2,7 +2,7 @@
 
 [简体中文](../HISTORY.md) | **English**
 
-[Home](../../README.en.md) · [All challenges](INDEX.md) · [Preview gallery](GALLERY.md)
+[Home](../../README.md) · [Full catalog](INDEX.md)
 
 > 101 records covering 97 challenges. Source-reported historical outputs, not our reproductions or a ranking.
 
@@ -89,7 +89,6 @@ Dates describe runs, not model releases. Publication dates are unknown unless re
 | [An interactive story where you are the model](categories/applications.md#an-interactive-story-where-you-are-the-model) | Claude Fable 5（仓库署名 / repository credit） | Run date not disclosed | [↗](https://chrisjz.github.io/between-tokens/) | [Chris Zaharia / chrisjz](https://news.ycombinator.com/item?id=49311484) |
 | [Glass bridge fracture and loading](categories/animation.md#glass-bridge-fracture-and-loading) | GPT-5.6 SOL / Grok 4.5 Pro | Run date not disclosed | [↗](https://x.com/EntelligenceAI/status/2075282696008532097) | [EntelligenceAI / u/entelligenceai17](https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/) |
 | [Render the final PGN position as SVG](categories/svg.md#render-the-final-pgn-position-as-svg) | Qwen 3.6 27B（多种量化 / multiple quants） | Run date not disclosed | [↗](https://qwen3-6-27b-benchmark.vercel.app/) | [u/bobaburger](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) |
-| [Rotating doner skewer and gas heater](categories/3d.md#rotating-doner-skewer-and-gas-heater) | 多个模型与量化，见原帖 / Multiple models and quants | Run date not disclosed | [↗](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) | [r/LocalLLaMA 原帖 / original thread](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | [Synchronized multi-character Three.js dance](categories/3d.md#synchronized-multi-character-threejs-dance) | 多个模型，见原帖 / Multiple models; see source | Run date not disclosed | [↗](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) | [r/LocalLLaMA 原帖及评论 / original thread and comments](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) |
 | [Code film of four seasons through a train window](categories/animation.md#code-film-of-four-seasons-through-a-train-window) | Opus 5.5 | Run date not disclosed | [↗](https://x.com/itsolelehmann/status/2103124033365762215) | [@itsolelehmann](https://x.com/itsolelehmann/status/2103124033365762215) |
 | [Inverse-kinematics pixel horse](categories/animation.md#inverse-kinematics-pixel-horse) | Opus 5.5 | Run date not disclosed | [↗](https://x.com/victormustar/status/2102707412704919910) | [@victormustar](https://x.com/victormustar/status/2102707412704919910) |
@@ -111,5 +110,6 @@ Dates describe runs, not model releases. Publication dates are unknown unless re
 | [Word-driven soft-colored village](categories/3d.md#word-driven-soft-colored-village) | Opus5.5 | Run date not disclosed | [↗](https://x.com/studio_veco/status/2102684366996738511) | [@studio_veco](https://x.com/studio_veco/status/2102684366996738511) |
 | [Blender claymation-style animation](categories/animation.md#blender-claymation-style-animation) | Opus 5.5 | Run date not disclosed | [↗](https://x.com/alexalbert__/status/2102458348511879448) | [@alexalbert__](https://x.com/alexalbert__/status/2102458348511879448) |
 | [JavaScript music-theory audiovisual](categories/animation.md#javascript-music-theory-audiovisual) | Opus 5.5 | Run date not disclosed | [↗](https://x.com/dadabots/status/2103039181266338276) | [@dadabots](https://x.com/dadabots/status/2103039181266338276) |
+| [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars) | Claude Opus 5.5 · Tripo · Blender · Unity | Multi-step creation; no single run | [↗](https://littleprince.dev/) | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
 
 [Media credits and corrections](../../THIRD_PARTY_MEDIA.en.md)

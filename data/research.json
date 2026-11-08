@@ -3385,24 +3385,6 @@
     "included_case_id": "reddit-pgn-svg-pgn-svg"
   },
   {
-    "id": "research-reddit-doner-doner",
-    "title": "Rotating doner skewer and gas heater",
-    "title_zh": "旋转烤肉串与燃气加热器",
-    "category": "3d",
-    "platform": "Reddit",
-    "publisher": "r/LocalLLaMA 原帖 / original thread",
-    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "discovery_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "demo_urls": [
-      "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/"
-    ],
-    "prompt_availability": "public",
-    "collected_on": "2026-11-08",
-    "verification": "source_record",
-    "rights": "link_only",
-    "included_case_id": "reddit-doner-doner"
-  },
-  {
     "id": "research-reddit-thriller-thriller",
     "title": "Synchronized multi-character Three.js dance",
     "title_zh": "多人角色同步舞蹈 Three.js 场景",
@@ -3419,5 +3401,31 @@
     "verification": "source_record",
     "rights": "link_only",
     "included_case_id": "reddit-thriller-thriller"
+  },
+  {
+    "id": "x-2109962425512734739",
+    "title": "The Little Prince: Across the Stars",
+    "category": "games",
+    "platform": "X",
+    "publisher": "Sac (@Saccc_c)",
+    "source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "discovery_url": "https://littleprince.dev/",
+    "demo_urls": [
+      "https://littleprince.dev/"
+    ],
+    "prompt_availability": "partial",
+    "collected_on": "2026-11-09",
+    "verification": "public_reader_metadata",
+    "rights": "link_only",
+    "reader_url": "https://api.fxtwitter.com/Saccc_c/status/2109962425512734739",
+    "source_text_sha256": "ccebc457023be8746d97def658e757a8fb01d92806ba515295d3ab8356e4282b",
+    "published_at_reported": "Tue Oct 13 11:00:18 +0000 2026",
+    "media_types": [
+      "video"
+    ],
+    "model_mentions": [
+      "Opus 5.5"
+    ],
+    "included_case_id": "sac-little-prince"
   }
 ]

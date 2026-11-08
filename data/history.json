@@ -1546,25 +1546,6 @@
     "license_url": null
   },
   {
-    "id": "reddit-doner-doner-source-output",
-    "case_id": "reddit-doner-doner",
-    "publisher": "r/LocalLLaMA 原帖 / original thread",
-    "model": "多个模型与量化，见原帖 / Multiple models and quants",
-    "run_date": null,
-    "run_period": "运行日期未公开",
-    "run_period_en": "Run date not disclosed",
-    "published_on": null,
-    "collected_on": "2026-11-08",
-    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "output_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "context_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "kind": "community_run",
-    "conditions": "原帖或评论中的历史效果，由发帖者报告；本库未验证运行成功或科学准确性。不同量化、硬件、工具和迭代条件不能混同比较。",
-    "conditions_en": "Historical outputs in the post or comments, reported by participants. Execution success and scientific accuracy were not verified here. Quantization, hardware, tools and iteration conditions differ.",
-    "rights": "link_only",
-    "license_url": null
-  },
-  {
     "id": "reddit-thriller-thriller-source-output",
     "case_id": "reddit-thriller-thriller",
     "publisher": "r/LocalLLaMA 原帖及评论 / original thread and comments",
@@ -1960,6 +1941,25 @@
     "kind": "community_run",
     "conditions": "通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。",
     "conditions_en": "Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.",
+    "rights": "link_only",
+    "license_url": null
+  },
+  {
+    "id": "sac-little-prince-creator-demo",
+    "case_id": "sac-little-prince",
+    "publisher": "Sac (@Saccc_c)",
+    "model": "Claude Opus 5.5 · Tripo · Blender · Unity",
+    "run_date": null,
+    "run_period": "多步骤创作，非单次运行",
+    "run_period_en": "Multi-step creation; no single run",
+    "published_on": "2026-10-13",
+    "collected_on": "2026-11-09",
+    "source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "output_url": "https://littleprince.dev/",
+    "context_url": "https://x.com/Saccc_c/status/2110694725640474759",
+    "kind": "community_run",
+    "conditions": "原帖及作者教程记录了 AI 辅助的多步骤制作流程；未独立复现，不作为单次模型输出。",
+    "conditions_en": "The original post and making-of guide document an AI-assisted workflow. This is not a single model output or an independent reproduction.",
     "rights": "link_only",
     "license_url": null
   }

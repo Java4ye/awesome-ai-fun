@@ -1,0 +1,50 @@
+name: Publish gallery
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gallery-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate the catalog and generated files
+        run: |
+          python scripts/validate.py
+          python scripts/build.py --check
+          python -m unittest discover -s tests -q
+      - name: Stage the static gallery
+        run: |
+          mkdir -p _site/site _site/assets
+          cp index.html _site/
+          cp site/{index.html,styles.css,gallery.js,catalog.js} _site/site/
+          cp -R assets/previews _site/assets/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

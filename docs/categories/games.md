@@ -2,9 +2,9 @@
 
 **简体中文** | [English](../en/categories/games.md)
 
-> 不仅能看，还要能玩 · 共 **14 道**
+> 不仅能看，还要能玩 · 共 **15 道**
 
-[← 返回首页](../../README.md) · [全部案例](../INDEX.md)
+[← 返回首页](../../README.zh-CN.md) · [全部案例](../INDEX.md)
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 
@@ -235,6 +235,45 @@ Google 官方演示视频的画面截图，点击播放原视频。
 [查看效果 / 体验](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [来源记录](https://aitestmuseum.com/zh/tests/flight-sim) · [测试背景](https://aitestmuseum.com/zh#methodology)
 
 原站 Claude Code agent 环境，包含其系统提示词；不等同裸 API。原站说明失败题可能重答，不将页面展示视作统一的一次成功记录。
+
+---
+
+## 小王子：星辰之旅
+
+**编号**：`sac-little-prince` · **收录来源**：[Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739)（本库来源组内序号 1）
+
+**英文标题**：The Little Prince: Across the Stars
+
+[<img src="../../assets/previews/historical/sac-little-prince.jpg" alt="小王子：星辰之旅 — Claude Opus 5.5 · Tripo · Blender · Unity" width="720">](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29)
+
+**模型：** Claude Opus 5.5 · Tripo · Blender · Unity · **作者 / 发布者：** Sac (@Saccc_c)
+
+图片署名：Sac (@Saccc_c) · [原图 / 作品出处](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+
+封面取自 Sac 首发演示视频的实际游戏画面。
+
+在浏览器里走进《小王子》的故事，探索一颗颗星球。作者 Sac 用 AI 辅助制作角色、场景和游戏代码。官网目前仅支持电脑游玩。
+
+**原站署名 / 来源线索**：Sac (@Saccc_c) · [作者制作教程](https://x.com/Saccc_c/status/2110694725640474759)
+
+**题面情况**：示例请求或部分题面
+
+**可以观察什么？**
+
+- 在不同星球之间探索
+- 查看作者如何从角色素材做到可玩场景
+
+**标签**：`3D 剧情探索`, `AI 辅助创作`
+
+**提示词与作品**：[前往原站查看](https://x.com/Saccc_c/status/2109962425512734739) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Claude Opus 5.5 · Tripo · Blender · Unity** · 多步骤创作，非单次运行 · Sac (@Saccc_c)
+
+[查看效果 / 体验](https://littleprince.dev/) · [来源记录](https://x.com/Saccc_c/status/2109962425512734739) · [测试背景](https://x.com/Saccc_c/status/2110694725640474759)
+
+原帖及作者教程记录了 AI 辅助的多步骤制作流程；未独立复现，不作为单次模型输出。
 
 ---
 

@@ -1716,5 +1716,26 @@
     "video_url": "https://video.twimg.com/amplify_video/2103038366216294400/vid/avc1/1920x1080/tgiBdoc_mBy8FCpl.mp4?tag=29",
     "license_status": "not_verified",
     "display_width": 720
+  },
+  {
+    "case_id": "sac-little-prince",
+    "source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "output_url": "https://littleprince.dev/",
+    "publisher": "Sac (@Saccc_c)",
+    "model": "Claude Opus 5.5 · Tripo · Blender · Unity",
+    "rights": "source_reference",
+    "license_status": "not_verified",
+    "media_kind": "video_poster",
+    "verification": "public_reader_metadata",
+    "source_reader_url": "https://api.fxtwitter.com/Saccc_c/status/2109962425512734739",
+    "collected_on": "2026-11-09",
+    "note": "封面取自 Sac 首发演示视频的实际游戏画面。",
+    "note_en": "The cover is a game frame from Sac’s original demo video.",
+    "video_url": "https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29",
+    "capture": "assets/previews/historical/sac-little-prince.jpg",
+    "capture_sha256": "dd049192fcee5e6077932f7f4545ab8e1fd814034f6284c094343579797c554c",
+    "captured_on": "2026-11-09",
+    "capture_video_time_seconds": 34.903,
+    "preview_source_url": "https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29"
   }
 ]

@@ -2,9 +2,9 @@
 
 [简体中文](../RESEARCH.md) | **English**
 
-[Home](../../README.en.md) · [Catalog](INDEX.md) · [Sources](SOURCES.md)
+[Home](../../README.md) · [Catalog](INDEX.md) · [Sources](SOURCES.md)
 
-As of 2026-11-08: **54 additions**, **146 source records**, including **112 X posts** and **92 remaining leads**. Source records overlap the catalog; do not add these counts together.
+As of 2026-11-09: **54 indexed entries** from this research, **146 source records**, including **113 X posts** and **92 remaining leads**. Source records overlap the catalog; do not add these counts together.
 
 This is a bounded research pass, not exhaustive coverage of the internet. Categories follow the project’s visual and interactive coding focus.
 
@@ -16,7 +16,7 @@ This is a bounded research pass, not exhaustive coverage of the internet. Catego
 - Official demos: source descriptions were checked. Google AI Studio play/remix links require sign-in and were not run after login.
 - Unknown full prompts, assets, run dates and iteration counts remain unknown. Observation points are our editorial suggestions, not source scoring rules.
 
-Discovery channels: X: 112 · GitHub: 20 · Official: 8 · Author site: 1 · Hacker News: 1 · Reddit: 4
+Discovery channels: X: 113 · GitHub: 20 · Official: 8 · Author site: 1 · Hacker News: 1 · Reddit: 3
 
 ## Newly indexed challenges
 
@@ -54,7 +54,6 @@ Discovery channels: X: 112 · GitHub: 20 · Official: 8 · Author site: 1 · Hac
 | [An interactive story where you are the model](categories/applications.md#an-interactive-story-where-you-are-the-model) | Source prompt / work + output | Partial / example request | [Source](https://news.ycombinator.com/item?id=49311484) · [↗](https://chrisjz.github.io/between-tokens/) |
 | [Glass bridge fracture and loading](categories/animation.md#glass-bridge-fracture-and-loading) | Source prompt / work + output | Partial / example request | [Source](https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/) · [↗](https://x.com/EntelligenceAI/status/2075282696008532097) |
 | [Render the final PGN position as SVG](categories/svg.md#render-the-final-pgn-position-as-svg) | Source prompt / work + output | Public | [Source](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · [↗](https://qwen3-6-27b-benchmark.vercel.app/) |
-| [Rotating doner skewer and gas heater](categories/3d.md#rotating-doner-skewer-and-gas-heater) | Source prompt / work + output | Public | [Source](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | [Synchronized multi-character Three.js dance](categories/3d.md#synchronized-multi-character-threejs-dance) | Source prompt / work + output | Public | [Source](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) |
 | [Code film of four seasons through a train window](categories/animation.md#code-film-of-four-seasons-through-a-train-window) | Work adaptation | Full prompt unconfirmed | [Source](https://x.com/itsolelehmann/status/2103124033365762215) |
 | [Inverse-kinematics pixel horse](categories/animation.md#inverse-kinematics-pixel-horse) | Work adaptation | Full prompt unconfirmed | [Source](https://x.com/victormustar/status/2102707412704919910) |
@@ -76,6 +75,7 @@ Discovery channels: X: 112 · GitHub: 20 · Official: 8 · Author site: 1 · Hac
 | [Word-driven soft-colored village](categories/3d.md#word-driven-soft-colored-village) | Work adaptation | Full prompt unconfirmed | [Source](https://x.com/studio_veco/status/2102684366996738511) · [↗](https://powapowa.pages.dev/) |
 | [Blender claymation-style animation](categories/animation.md#blender-claymation-style-animation) | Work adaptation | Full prompt unconfirmed | [Source](https://x.com/alexalbert__/status/2102458348511879448) |
 | [JavaScript music-theory audiovisual](categories/animation.md#javascript-music-theory-audiovisual) | Work adaptation | Full prompt unconfirmed | [Source](https://x.com/dadabots/status/2103039181266338276) |
+| [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars) | Source prompt / work + output | Partial / example request | [Source](https://x.com/Saccc_c/status/2109962425512734739) · [↗](https://littleprince.dev/) |
 
 ## Remaining X leads
 

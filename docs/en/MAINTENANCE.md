@@ -2,7 +2,7 @@
 
 [简体中文](../MAINTENANCE.md) | **English**
 
-[Home](../../README.en.md) · [Contribution guide](../../CONTRIBUTING.en.md)
+[Home](../../README.md) · [Contribution guide](../../CONTRIBUTING.en.md)
 
 ## Editing sources
 
@@ -12,7 +12,9 @@
 - `data/showcase.json`: per-case source images, video posters and historical captures, distinguishing open licenses from unverified source references.
 - `data/research.json`: community source records and research leads.
 
-The homepage, categories and gallery share preview data. Illustrated cases are expanded; cases without previews are retained in a collapsible section at the end of each category. Adding a preview and rebuilding moves a case to the expanded section without counting it twice.
+The README, category pages, and website share the catalog. The README and website show every work and collection by category. Open `site/index.html` to browse locally. Collections in `WORK_GROUPS` preserve catalog IDs and categories. The playable filter uses interactive destinations rather than source posts or videos.
+
+The build also writes `site/catalog.js`. Pushes to `main` validate the catalog and deploy the gallery and its covers to [GitHub Pages](https://java4ye.github.io/awesome-ai-fun/site/). The website uses the same catalog data as the README.
 
 Python 3.10+, no third-party dependencies:
 

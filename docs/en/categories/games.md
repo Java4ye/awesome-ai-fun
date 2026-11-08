@@ -2,9 +2,9 @@
 
 [简体中文](../../categories/games.md) | **English**
 
-> Make something playable · **14 challenges**
+> Make something playable · **15 challenges**
 
-[← Home](../../../README.en.md) · [All challenges](../INDEX.md)
+[← Home](../../../README.md) · [All challenges](../INDEX.md)
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 
@@ -223,6 +223,43 @@ Generate a browser flight game through skyscrapers from a short instruction.
 [View output / demo](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [Source record](https://aitestmuseum.com/zh/tests/flight-sim) · [Test context](https://aitestmuseum.com/zh#methodology)
 
 Source Claude Code agent environment with its system context, not a bare API call. The source allows retries for failed tasks; a displayed result is not treated as proof of universal one-shot success.
+
+---
+
+## The Little Prince: Across the Stars
+
+**ID**: `sac-little-prince` · **Source**: [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) (catalog source position 1)
+
+[<img src="../../../assets/previews/historical/sac-little-prince.jpg" alt="The Little Prince: Across the Stars — Claude Opus 5.5 · Tripo · Blender · Unity" width="720">](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29)
+
+**Model:** Claude Opus 5.5 · Tripo · Blender · Unity · **Author / publisher:** Sac (@Saccc_c)
+
+Image: Sac (@Saccc_c) · [Original image / work](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+
+The cover is a game frame from Sac’s original demo video.
+
+Walk through the planets of The Little Prince in a browser. Creator Sac used AI to help make the characters, scenes, and game code. The official site currently supports desktop play only.
+
+**Source credit / attribution lead**: Sac (@Saccc_c) · [Creator’s making-of guide](https://x.com/Saccc_c/status/2110694725640474759)
+
+**Prompt availability**: Example request / partial prompt
+
+**What to observe**
+
+- Explore the different planets
+- See how the creator turned character assets into playable scenes
+
+**Tags**: `3D narrative exploration`, `AI-assisted creation`
+
+**Prompts and outputs**: [View the source](https://x.com/Saccc_c/status/2109962425512734739) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Claude Opus 5.5 · Tripo · Blender · Unity** · Multi-step creation; no single run · Sac (@Saccc_c)
+
+[View output / demo](https://littleprince.dev/) · [Source record](https://x.com/Saccc_c/status/2109962425512734739) · [Test context](https://x.com/Saccc_c/status/2110694725640474759)
+
+The original post and making-of guide document an AI-assisted workflow. This is not a single model output or an independent reproduction.
 
 ---
 

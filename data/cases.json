@@ -2886,40 +2886,6 @@
     "evidence_level": "source_record"
   },
   {
-    "id": "reddit-doner-doner",
-    "title": "旋转烤肉串与燃气加热器",
-    "title_en": "Rotating doner skewer and gas heater",
-    "category": "3d",
-    "summary": "不用外部库，在 Canvas 中呈现旋转肉串、热源与立体质感。",
-    "summary_en": "Render a rotating skewer, heat source and depth in Canvas without external libraries.",
-    "checks": [
-      "肉串是否绕竖直轴旋转",
-      "热源、遮挡与明暗是否一致"
-    ],
-    "checks_en": [
-      "The skewer rotates around its vertical axis",
-      "Heat source, occlusion and shading are coherent"
-    ],
-    "tags": [
-      "三维场景",
-      "来源整理"
-    ],
-    "tags_en": [
-      "3D scenes",
-      "source collection"
-    ],
-    "source_id": "reddit-doner",
-    "source_item_no": 1,
-    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "source_credit": "r/LocalLLaMA 原帖 / original thread",
-    "source_credit_en": "r/LocalLLaMA 原帖 / original thread",
-    "prompt_status": "source_only",
-    "prompt_availability": "public",
-    "status": "collected_not_tested",
-    "verified_on": "2026-11-08",
-    "evidence_level": "source_record"
-  },
-  {
     "id": "reddit-thriller-thriller",
     "title": "多人角色同步舞蹈 Three.js 场景",
     "title_en": "Synchronized multi-character Three.js dance",
@@ -3672,5 +3638,40 @@
     "evidence_level": "public_reader_metadata",
     "discovery_url": "https://github.com/krillinai/awesome-opus-animation/blob/main/categories/code-animation.md#case-2103039181266338276",
     "source_reader_url": "https://api.fxtwitter.com/dadabots/status/2103039181266338276"
+  },
+  {
+    "id": "sac-little-prince",
+    "title": "小王子：星辰之旅",
+    "title_en": "The Little Prince: Across the Stars",
+    "category": "games",
+    "summary": "在浏览器里走进《小王子》的故事，探索一颗颗星球。作者 Sac 用 AI 辅助制作角色、场景和游戏代码。官网目前仅支持电脑游玩。",
+    "summary_en": "Walk through the planets of The Little Prince in a browser. Creator Sac used AI to help make the characters, scenes, and game code. The official site currently supports desktop play only.",
+    "checks": [
+      "在不同星球之间探索",
+      "查看作者如何从角色素材做到可玩场景"
+    ],
+    "checks_en": [
+      "Explore the different planets",
+      "See how the creator turned character assets into playable scenes"
+    ],
+    "tags": [
+      "3D 剧情探索",
+      "AI 辅助创作"
+    ],
+    "tags_en": [
+      "3D narrative exploration",
+      "AI-assisted creation"
+    ],
+    "source_id": "sac-little-prince",
+    "source_item_no": 1,
+    "source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "source_credit": "Sac (@Saccc_c) · [作者制作教程](https://x.com/Saccc_c/status/2110694725640474759)",
+    "source_credit_en": "Sac (@Saccc_c) · [Creator’s making-of guide](https://x.com/Saccc_c/status/2110694725640474759)",
+    "prompt_status": "source_only",
+    "prompt_availability": "partial",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-09",
+    "evidence_level": "source_record",
+    "guide_url": "https://x.com/Saccc_c/status/2110694725640474759"
   }
 ]

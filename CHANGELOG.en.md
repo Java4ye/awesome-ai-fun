@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+- Add a searchable static gallery with category and playable filters. The README and gallery display all works by category, grouping related works into collections.
+- Add Sac’s The Little Prince: Across the Stars with an original demo frame, the playable site, and a making-of guide.
+
 - Rename the project to Awesome AI Fun, a collection of fun AI creations and things to try; preserve existing case IDs, categories, and attribution.
 
 - Add historical output links, model attribution, run periods, and environments for all original 50 tasks.

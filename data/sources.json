@@ -35,8 +35,8 @@
     "note": "可交互 3D SDF 鹈鹕骑车挑战，保留原始输出、逐次记录及缩略图。这里只收录一道题，多个模型输出不重复计数。",
     "note_en": "An interactive 3D SDF pelican challenge with original outputs, run records, and thumbnails. Indexed as one task; model outputs are not counted as extra tasks.",
     "verified_on": "2026-11-07",
-    "details": "- **项目**：[AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)\n- **题面与版本**：[固定版本原题](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)\n- **本库收录**：1 道独立的 3D SDF 鹈鹕骑车题，不与 SVG 动画题混为一题。\n- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [精选预览](GALLERY.md)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。\n- **条件**：上游模型输出来自不同 CLI / SDK 环境，记录标为 unverified；本库未独立复现，不用缩略图建立成绩排名。",
-    "details_en": "- **Project**: [AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)\n- **Versioned task**: [fixed prompt](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)\n- **Indexed here**: one separate 3D SDF pelican task, distinct from the SVG animation.\n- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [previews](GALLERY.md) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).\n- **Context**: upstream runs use different CLI / SDK environments and remain unverified. We have not reproduced them or ranked models from thumbnails."
+    "details": "- **项目**：[AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)\n- **题面与版本**：[固定版本原题](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)\n- **本库收录**：1 道独立的 3D SDF 鹈鹕骑车题，不与 SVG 动画题混为一题。\n- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [3D 鹈鹕案例详情](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。\n- **条件**：上游模型输出来自不同 CLI / SDK 环境，记录标为 unverified；本库未独立复现，不用缩略图建立成绩排名。",
+    "details_en": "- **Project**: [AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)\n- **Versioned task**: [fixed prompt](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)\n- **Indexed here**: one separate 3D SDF pelican task, distinct from the SVG animation.\n- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [3D pelican case details](categories/3d.md#interactive-3d-pelican-on-a-bicycle-with-sdfs) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).\n- **Context**: upstream runs use different CLI / SDK environments and remain unverified. We have not reproduced them or ranked models from thumbnails."
   },
   {
     "id": "electricazimuth",
@@ -143,17 +143,6 @@
     "name_en": "u/bobaburger",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
     "about_url": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
-    "count": 1,
-    "note": "社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。",
-    "note_en": "Community-reported results; subjective judgments, single runs and quantization differences are not general scores.",
-    "verified_on": "2026-11-08"
-  },
-  {
-    "id": "reddit-doner",
-    "name": "r/LocalLLaMA 原帖 / original thread",
-    "name_en": "r/LocalLLaMA 原帖 / original thread",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
-    "about_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
     "count": 1,
     "note": "社区作者报告；不将主观判断、单次效果或量化差异当作通用成绩。",
     "note_en": "Community-reported results; subjective judgments, single runs and quantization differences are not general scores.",
@@ -389,5 +378,16 @@
     "note": "原帖元数据通过公开读取服务核对；作品与模型信息由发布者报告。",
     "note_en": "Post metadata checked through a public reader; work and model claims are publisher-reported.",
     "verified_on": "2026-11-08"
+  },
+  {
+    "id": "sac-little-prince",
+    "name": "Sac (@Saccc_c)",
+    "name_en": "Sac (@Saccc_c)",
+    "url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "about_url": "https://x.com/Saccc_c/status/2110694725640474759",
+    "count": 1,
+    "verified_on": "2026-11-09",
+    "note": "《小王子：星辰之旅》的作者首发与制作教程。",
+    "note_en": "The creator’s launch post and making-of guide for The Little Prince: Across the Stars."
   }
 ]

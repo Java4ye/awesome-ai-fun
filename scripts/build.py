@@ -7,6 +7,7 @@ import json
 import sys
 from history import check_history, group_history, history_lines, render_history
 from showcase import check_showcase, resolve_showcase, image_lines, render_homepages
+from site_catalog import render_site_catalog
 
 ROOT=Path(__file__).resolve().parents[1]
 CATEGORIES=[('svg','SVG 绘画','画出来，更要画得对'),('animation','动画与物理','让画面真正动起来'),('3d','3D 与空间','把空间关系做正确'),('games','游戏开发','不仅能看，还要能玩'),('applications','应用与交互','从好看的界面走向可用的功能')]
@@ -37,7 +38,7 @@ def render(cases, sources, language='zh', history=(), showcase=()):
         lines=[f'# {label}', '',
             f'[简体中文](../../categories/{key}.md) | **English**' if english else f'**简体中文** | [English](../en/categories/{key}.md)', '',
             f'> {subtitle} · **{len(entries)} challenges**' if english else f'> {subtitle} · 共 **{len(entries)} 道**', '',
-            '[← Home](../../../README.en.md) · [All challenges](../INDEX.md)' if english else '[← 返回首页](../../README.md) · [全部案例](../INDEX.md)', '',
+            '[← Home](../../../README.md) · [All challenges](../INDEX.md)' if english else '[← 返回首页](../../README.zh-CN.md) · [全部案例](../INDEX.md)', '',
             '> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.' if english else '> 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。', '']
         pending_open=False
         for c in entries:
@@ -112,7 +113,8 @@ def main():
            **render_history(cases,history,'zh'), **render_history(cases,history,'en'),
            **render_research(cases,sources,research,'zh'), **render_research(cases,sources,research,'en'),
            **render_homepages(cases,sources,history,showcase,CATEGORIES,'zh'),
-           **render_homepages(cases,sources,history,showcase,CATEGORIES,'en')}
+           **render_homepages(cases,sources,history,showcase,CATEGORIES,'en'),
+           **render_site_catalog(cases,sources,history,showcase)}
     mismatch=[]
     for rel,contents in pages.items():
         path=ROOT/rel
@@ -125,6 +127,6 @@ def main():
         print('❌ Outdated generated files: '+', '.join(mismatch))
         print('Run: python scripts/build.py')
         return 1
-    print(f'✅ {"Verified" if args.check else "Generated"} {len(pages)} Markdown pages from {len(cases)} cases')
+    print(f'✅ {"Verified" if args.check else "Generated"} {len(pages)} catalog files from {len(cases)} cases')
     return 0
 if __name__=='__main__':sys.exit(main())

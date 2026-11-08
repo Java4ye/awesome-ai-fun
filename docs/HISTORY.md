@@ -2,7 +2,7 @@
 
 **简体中文** | [English](en/HISTORY.md)
 
-[首页](../README.md) · [全部案例](INDEX.md) · [精选预览](GALLERY.md)
+[首页](../README.zh-CN.md) · [完整索引](INDEX.md)
 
 > 101 条效果记录，覆盖 97 道题。这里记录来源方的历史输出，不代表本库复现或模型排名。
 
@@ -89,7 +89,6 @@
 | [扮演语言模型的交互叙事](categories/applications.md#扮演语言模型的交互叙事) | Claude Fable 5（仓库署名 / repository credit） | 运行日期未公开 | [↗](https://chrisjz.github.io/between-tokens/) | [Chris Zaharia / chrisjz](https://news.ycombinator.com/item?id=49311484) |
 | [玻璃桥破裂与受力演示](categories/animation.md#玻璃桥破裂与受力演示) | GPT-5.6 SOL / Grok 4.5 Pro | 运行日期未公开 | [↗](https://x.com/EntelligenceAI/status/2075282696008532097) | [EntelligenceAI / u/entelligenceai17](https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/) |
 | [从 PGN 棋谱推演并绘制 SVG 棋盘](categories/svg.md#从-pgn-棋谱推演并绘制-svg-棋盘) | Qwen 3.6 27B（多种量化 / multiple quants） | 运行日期未公开 | [↗](https://qwen3-6-27b-benchmark.vercel.app/) | [u/bobaburger](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) |
-| [旋转烤肉串与燃气加热器](categories/3d.md#旋转烤肉串与燃气加热器) | 多个模型与量化，见原帖 / Multiple models and quants | 运行日期未公开 | [↗](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) | [r/LocalLLaMA 原帖 / original thread](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | [多人角色同步舞蹈 Three.js 场景](categories/3d.md#多人角色同步舞蹈-threejs-场景) | 多个模型，见原帖 / Multiple models; see source | 运行日期未公开 | [↗](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) | [r/LocalLLaMA 原帖及评论 / original thread and comments](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) |
 | [列车窗外四季变换的代码短片](categories/animation.md#列车窗外四季变换的代码短片) | Opus 5.5 | 运行日期未公开 | [↗](https://x.com/itsolelehmann/status/2103124033365762215) | [@itsolelehmann](https://x.com/itsolelehmann/status/2103124033365762215) |
 | [逆运动学像素奔马](categories/animation.md#逆运动学像素奔马) | Opus 5.5 | 运行日期未公开 | [↗](https://x.com/victormustar/status/2102707412704919910) | [@victormustar](https://x.com/victormustar/status/2102707412704919910) |
@@ -111,5 +110,6 @@
 | [可输入词语探索的柔彩村庄](categories/3d.md#可输入词语探索的柔彩村庄) | Opus5.5 | 运行日期未公开 | [↗](https://x.com/studio_veco/status/2102684366996738511) | [@studio_veco](https://x.com/studio_veco/status/2102684366996738511) |
 | [用 Blender 制作黏土风动画](categories/animation.md#用-blender-制作黏土风动画) | Opus 5.5 | 运行日期未公开 | [↗](https://x.com/alexalbert__/status/2102458348511879448) | [@alexalbert__](https://x.com/alexalbert__/status/2102458348511879448) |
 | [纯 JavaScript 乐理视听实验](categories/animation.md#纯-javascript-乐理视听实验) | Opus 5.5 | 运行日期未公开 | [↗](https://x.com/dadabots/status/2103039181266338276) | [@dadabots](https://x.com/dadabots/status/2103039181266338276) |
+| [小王子：星辰之旅](categories/games.md#小王子星辰之旅) | Claude Opus 5.5 · Tripo · Blender · Unity | 多步骤创作，非单次运行 | [↗](https://littleprince.dev/) | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
 
 [素材署名与更正说明](../THIRD_PARTY_MEDIA.md)

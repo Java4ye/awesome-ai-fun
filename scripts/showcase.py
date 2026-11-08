@@ -1,5 +1,4 @@
 """Generate a single-column homepage from cases and attributed previews."""
-from collections import Counter
 from pathlib import Path
 from urllib.parse import urlsplit
 from hashlib import sha256
@@ -7,8 +6,8 @@ from html import escape
 import re
 
 INTRO = {
-    'zh': '# Awesome AI Fun · 有趣的 AI 作品与玩法合集\n\n**简体中文** | [English](README.en.md)\n\n> 收集互联网上好玩、奇怪、脑洞大开的 AI 作品与玩法，涵盖 SVG、动画、3D、游戏和交互应用。\n>\n> 看效果、找出处，再挑一个感兴趣的题目试试。\n\nA curated collection of fun AI creations and things to try — with visual previews, original sources, and challenges in Chinese and English.\n',
-    'en': '# Awesome AI Fun · Fun AI creations and things to try\n\n[简体中文](README.md) | **English**\n\n> Discover fun, strange, and imaginative AI creations: SVG art, animation, 3D scenes, games, and interactive apps.\n> See the results, find the original sources, and pick a challenge to try.\n',
+    'zh': '# Awesome AI Fun · 有趣的 AI 作品与玩法合集\n\n**简体中文** | [English](README.md)\n\n> 收集大家用 AI 做出来的好玩作品：能逛的 3D 世界、小游戏、动画，还有各种奇怪的交互点子。\n>\n> 往下看效果，喜欢就去试玩，或者看看作者是怎么做出来的。\n',
+    'en': '# Awesome AI Fun · Fun AI creations and things to try\n\n[简体中文](README.zh-CN.md) | **English**\n\n> A collection of fun things people make with AI: 3D worlds to explore, little games, animations, and odd interactive ideas.\n>\n> Browse the previews, try something you like, or see how its creator made it.\n',
 }
 
 def slug(value):
@@ -79,71 +78,126 @@ def image_lines(case, preview, language, prefix=''):
     if preview.get('note'+suffix):lines.extend([preview['note'+suffix],''])
     return lines
 
-def card_lines(case,preview,history,language,prefix='',docs_prefix='docs/'):
-    en=language=='en';suffix='_en' if en else '';title=case['title'+suffix]
-    summary=case['summary'+suffix]
-    if case.get('evidence_level')=='public_reader_metadata':
-        summary=('Observe: ' if en else '观察重点：')+(' / ' if en else '；').join(case['checks'+suffix])+'。'
-    media=image_lines(case,preview,language,prefix)
-    lines=[f'### {title}','']+media[:2]+[summary,'']+media[2:]
-    detail=f'{docs_prefix}categories/{case["category"]}.md#{slug(title)}'
-    links=[f'[Original source]({case["source_url"]})' if en else f'[原题 / 来源]({case["source_url"]})',
-        f'[Open work]({preview["output_url"]})' if en else f'[打开作品]({preview["output_url"]})',
-        f'[Details]({detail})' if en else f'[案例详情]({detail})']
-    if urlsplit(case['source_url']).netloc=='x.com':links.append(f'[▶ Creator video]({case["source_url"]})' if en else f'[▶ 作者视频]({case["source_url"]})')
-    if preview.get('video_url'):links.append(f'[▶ Play video]({preview["video_url"]})' if en else f'[▶ 播放视频]({preview["video_url"]})')
-    lines.extend([' · '.join(links),''])
-    others=[r for r in history if r['case_id']==case['id'] and r.get('preview') and r.get('preview')!=preview.get('preview')]
-    if others:
-        lines.extend(['<details>','<summary>More model outputs</summary>' if en else '<summary>其他模型的效果</summary>',''])
-        for r in others:lines.extend(image_lines(case,r,language,prefix))
-        lines.extend(['</details>',''])
-    return lines
+WORK_GROUPS = (
+    ('svg-001', tuple(f'svg-{n:03d}' for n in range(1,31)), ('svg-010','svg-007','svg-003'),
+     ('奇怪生物与机械', 'Odd Creatures and Machines'),
+     ('同一个 SVG 系列：企鹅抛电锯、水母转摩天轮、海星开推土机，还有 27 个怪点子。',
+      'One SVG series: a chainsaw-juggling penguin, a jellyfish at a Ferris wheel, a starfish with a bulldozer, and 27 more odd ideas.')),
+    ('museum-010', ('museum-010','stock42-tetris-3d'), ('museum-010',),
+     ('俄罗斯方块', 'Tetris'),
+     ('从经典单文件版玩起，另有带音效和排行榜的 3D 风格版。',
+      'Start with classic single-file Tetris, or try the 3D-style version with sound and high scores.')),
+    ('google-sim-double-pendulum', ('google-sim-double-pendulum','stock42-triple-pendulum'), ('stock42-triple-pendulum',),
+     ('混沌摆', 'Chaotic Pendulums'),
+     ('拖动双摆看轨迹如何变化，或看看三摆如何用末端轨迹作画。',
+      'Explore how a double pendulum moves, or watch a triple pendulum draw with its tip.')),
+    ('museum-002', ('museum-002','kcores-ball-bouncing-inside-spinning-heptagon','museum-017','electricazimuth-ball_bound'), ('museum-002',),
+     ('弹球与碰撞', 'Bouncing Balls and Collisions'),
+     ('从旋转六边形里的单球开始，再看多球碰撞、七边形和四维空间。',
+      'Start with a ball in a spinning hexagon, then explore multiple balls, a heptagon, and four dimensions.')),
+    ('museum-001', ('museum-001','pelican-sdf-001'), ('museum-001','pelican-sdf-001'),
+     ('鹈鹕骑自行车', 'Pelican on a Bicycle'),
+     ('同一个脑洞，两种做法：SVG 动画和可旋转查看的 3D 场景。',
+      'One idea in two forms: an SVG animation and a 3D scene you can rotate.')),
+)
+
+
+def work_link(case,docs,suffix):
+    return f'{docs}categories/{case["category"]}.md#{slug(case["title"+suffix])}'
+
+
+CATEGORY_NAMES = {
+    'games': ('游戏', 'Games'),
+    '3d': ('3D 与空间', '3D & Spaces'),
+    'animation': ('动画与物理', 'Animation & Physics'),
+    'applications': ('应用与交互', 'Apps & Interaction'),
+    'svg': ('SVG 绘画', 'SVG Art'),
+}
+
+PLAY_LINKS = {
+    'sac-little-prince': 'https://littleprince.dev/',
+    'x-dotey-2102940980379017293': 'https://s.baoyu.io/files/taohuayuan/index.html',
+    'x-studio_veco-2102684366996738511': 'https://powapowa.pages.dev/',
+    'x-dangreenheck-2103004432786993341': 'https://dgreenheck.github.io/tidewater/',
+    'between-tokens-interactive-story': 'https://chrisjz.github.io/between-tokens/',
+}
+
+
+def play_link(cid, output):
+    url=urlsplit(output)
+    if url.hostname=='aitestmuseum.com' and url.path.startswith('/results/') and url.path.endswith('/output.html'):
+        return output
+    return PLAY_LINKS.get(cid)
+
+
+def collection_entries(cases):
+    by_id={c['id']:c for c in cases}
+    groups={g[0]:g for g in WORK_GROUPS if set(g[1])<=by_id.keys()}
+    grouped_away={cid for g in groups.values() for cid in g[1] if cid!=g[0]}
+    prompts=[c for c in cases if c.get('evidence_level')=='prompt_only']
+    entries=[c for c in cases if c['id'] not in grouped_away and c not in prompts]
+    return entries,groups,prompts
+
 
 def render_homepages(cases,sources,history,records,categories,language):
     en=language=='en';suffix='_en' if en else '';covers=resolve_showcase(history,records)
-    count=Counter(c['category'] for c in cases)
-    names={'svg':('SVG 绘画','SVG Drawing'),'animation':('动画与物理','Animation & Physics'),'3d':('3D 与空间','3D & Spatial Scenes'),'games':('游戏开发','Games'),'applications':('应用与交互','Apps & Interaction')}
-    # Put categories with visible works first; this is a browsing order, not a ranking.
-    order=['games','3d','applications','animation','svg']
+    by_id={c['id']:c for c in cases}
+    works,groups,prompts=collection_entries(cases)
     docs='docs/en/' if en else 'docs/'
-    lines=[INTRO[language].rstrip(),'','## Categories' if en else '## 分类导航','',
-        ' · '.join(f'[{names[k][int(en)]} ({count[k]})](#category-{k})' for k in order),'',
-        f'**{len(cases)} cases** · {len(covers)} with inline previews · {len(cases)-len(covers)} awaiting previews.' if en else f'**{len(cases)} 条案例** · {len(covers)} 条已有预览 · {len(cases)-len(covers)} 条待补效果。','']
-    for k in order:
-        entries=[c for c in cases if c['category']==k]
-        shown=[c for c in entries if c['id'] in covers];pending=[c for c in entries if c['id'] not in covers]
-        lines.extend([f'<a id="category-{k}"></a>','',f'## {names[k][int(en)]} · {len(entries)}','',
-            '[↑ Categories](#categories)' if en else '[↑ 返回分类导航](#分类导航)',''])
-        for c in shown:
-            lines.extend([f'<a id="case-{c["id"]}"></a>',''])
-            lines.extend(card_lines(c,covers[c['id']],history,language,docs_prefix=docs))
-            lines.extend(['---',''])
-        if pending:
-            lines.extend(['<details>',f'<summary>Awaiting previews · {len(pending)} cases</summary>' if en else f'<summary>待补效果 · {len(pending)} 条案例</summary>','',
-                'Real, reusable previews are still missing. Source output links are retained below; they are not inline previews.' if en else '这些案例尚缺可直接展示的真实预览。下方保留来源方作品入口，不将链接当成已补齐效果。','',
-                '| Case | What to try | Source / output |' if en else '| 案例 | 测试内容 | 来源 / 历史作品 |','| --- | --- | --- |'])
-            for c in pending:
-                title=c['title'+suffix];summary=c['summary'+suffix].replace('|','/')
-                if len(summary)>180:summary=summary[:177]+'…'
-                if c.get('evidence_level')=='public_reader_metadata':summary=('Observe: ' if en else '观察：')+c['checks'+suffix][0]
-                detail=f'{docs}categories/{k}.md#{slug(title)}'
-                original=f'[Source]({c["source_url"]})' if en else f'[来源]({c["source_url"]})'
-                h=next((r for r in history if r['case_id']==c['id']),None)
-                if h and h['output_url']!=c['source_url']:original+=f' · [↗]({h["output_url"]})'
-                lines.append(f'| <a id="case-{c["id"]}"></a>[{title}]({detail}) | {summary} | {original} |')
-            lines.extend(['','</details>',''])
+    site='https://java4ye.github.io/awesome-ai-fun/site/' + ('' if en else '?lang=zh')
+    lines=[INTRO[language].rstrip(),'',
+        f'**{len(works)} works and collections** · [Open the gallery]({site}) · [Full catalog]({docs}INDEX.md)' if en else
+        f'**{len(works)} 个作品与专题** · [打开作品画廊]({site}) · [完整索引]({docs}INDEX.md)','',
+        '## All works' if en else '## 全部作品','',
+        ' · '.join(f'[{names[en]}](#category-{key})' for key,names in CATEGORY_NAMES.items()),'']
+    def a(label, url):
+        return f'<a href="{escape(url,quote=True)}">{escape(label)}</a>'
+
+    for key,names in CATEGORY_NAMES.items():
+        entries=[c for c in works if c['category']==key]
+        if not entries:continue
+        lines.extend([f'<a id="category-{key}"></a>','',f'### {names[en]} · {len(entries)}','','<table>'])
+        for offset in range(0,len(entries),3):
+            lines.append('  <tr>')
+            for c in entries[offset:offset+3]:
+                cid=c['id'];group=groups.get(cid)
+                sample=next((m for m in (group[2] if group else (cid,)) if m in covers),None)
+                p=covers.get(sample)
+                title=group[3][en] if group else c['title'+suffix]
+                detail=f'{docs}COLLECTIONS.md#{cid}' if group else work_link(c,docs,suffix)
+                cell=[]
+                if p:
+                    src=p.get('preview') or p.get('capture') or p['image_url']
+                    width=min(240,round(p.get('display_width',720)/3))
+                    target=p.get('video_url') or p['output_url']
+                    cell.append(f'<a href="{escape(target,quote=True)}"><img src="{escape(src,quote=True)}" alt="{escape(title,quote=True)}" width="{width}" loading="lazy"></a><br>')
+                else:
+                    cell.append('<sub>Preview pending</sub><br>' if en else '<sub>画面待补</sub><br>')
+                cell.append(f'<strong>{a(title,detail)}</strong><br>')
+                play=next((url for m in (group[1] if group else (cid,))
+                    if (url:=play_link(m,covers.get(m,{}).get('output_url','')))),None)
+                if play:
+                    cell.append(a('Play' if en else '试玩',play)+' · ')
+                cell.append(a('Source' if en else '原出处',p['source_url'] if p else c['source_url']))
+                lines.append(f'    <td width="33%" valign="top">{"".join(cell)}</td>')
+            lines.extend(['    <td></td>']*(3-len(entries[offset:offset+3])))
+            lines.append('  </tr>')
+        lines.extend(['</table>',''])
+    lines.extend([f'[{len(prompts)} hands-on prompts]({docs}INDEX.md) · [Historical records]({docs}HISTORY.md)' if en else
+        f'[{len(prompts)} 道动手题]({docs}INDEX.md) · [历史记录]({docs}HISTORY.md)',''])
     lines.extend(['## Contribute' if en else '## 欢迎补充','',
         f'Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).' if en else '欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。','',
         f'[Sources]({docs}SOURCES.md) · [History]({docs}HISTORY.md) · [Research leads]({docs}RESEARCH.md) · [Guide]({docs}GUIDE.md) · [Maintenance]({docs}MAINTENANCE.md) · [Media credits](THIRD_PARTY_MEDIA.en.md)' if en else f'[来源导航]({docs}SOURCES.md) · [历史档案]({docs}HISTORY.md) · [社区线索]({docs}RESEARCH.md) · [使用指南]({docs}GUIDE.md) · [维护说明]({docs}MAINTENANCE.md) · [素材署名](THIRD_PARTY_MEDIA.md)','',
-        'Images show source-published works; historical models were not rerun here. Click video posters for source playback. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights; attribution does not imply permission. Source conditions differ and do not form a standardized ranking.' if en else '图片为来源方作品，本库未重新调用历史模型；点击视频封面打开原视频。本库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人，署名不等于授权。不同来源的测试条件不构成统一排行榜。',''])
-    readme=Path('README.en.md' if en else 'README.md')
-    base=Path('docs/en') if en else Path('docs');prefix='../../' if en else '../'
-    gallery=['# Preview gallery' if en else '# 案例效果画廊','',
-        '[简体中文](../GALLERY.md) | **English**' if en else '**简体中文** | [English](en/GALLERY.md)','',
-        '[Home](../../README.en.md) · [All cases](INDEX.md)' if en else '[首页](../README.md) · [全部案例](INDEX.md)','',
-        f'{len(covers)} cases with real previews. Additional model outputs are collapsed under the relevant case.' if en else f'目前 {len(covers)} 条案例有真实预览；同题的其他模型结果折叠在对应案例下。','']
-    for c in cases:
-        if c['id'] in covers:gallery.extend(card_lines(c,covers[c['id']],history,language,prefix=prefix,docs_prefix=''))
-    gallery.extend([f'[Media credits]({prefix}THIRD_PARTY_MEDIA.en.md)' if en else f'[素材署名]({prefix}THIRD_PARTY_MEDIA.md)',''])
-    return {readme:'\n'.join(lines),base/'GALLERY.md':'\n'.join(gallery)}
+        'Previews are credited to their sources. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights.' if en else '效果预览附原始出处。仓库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人。',''])
+    readme=Path('README.md' if en else 'README.zh-CN.md')
+    base=Path('docs/en') if en else Path('docs')
+    collections=['# Work collections' if en else '# 作品专题','',
+        '[Back to all works](../../README.md)' if en else '[返回全部作品](../README.zh-CN.md)','']
+    for cid,group in groups.items():
+        collections.extend([f'<a id="{cid}"></a>','',f'## {group[3][en]}','',group[4][en],''])
+        for member in group[1]:
+            c=by_id[member];p=covers.get(member,{})
+            original=p.get('output_url') or c['source_url']
+            collections.append(f'- [{c["title"+suffix]}]({work_link(c,"",suffix)}) · [{"Original work" if en else "原作品"}]({original})')
+        collections.append('')
+    return {readme:'\n'.join(lines),base/'COLLECTIONS.md':'\n'.join(collections)}

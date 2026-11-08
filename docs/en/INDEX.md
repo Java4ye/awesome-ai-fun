@@ -4,7 +4,7 @@
 
 > **105 challenges** from public sources. This is a curated index; this repository has not tested these challenges.
 
-Browse by type: [SVG Drawing (32)](categories/svg.md) · [Animation & Physics (31)](categories/animation.md) · [3D & Spatial Scenes (16)](categories/3d.md) · [Games (14)](categories/games.md) · [Apps & Interaction (12)](categories/applications.md)
+Browse by type: [SVG Drawing (32)](categories/svg.md) · [Animation & Physics (31)](categories/animation.md) · [3D & Spatial Scenes (15)](categories/3d.md) · [Games (15)](categories/games.md) · [Apps & Interaction (12)](categories/applications.md)
 
 [Source research and new additions](RESEARCH.md)
 
@@ -88,13 +88,13 @@ Browse by type: [SVG Drawing (32)](categories/svg.md) · [Animation & Physics (3
 | `x-superalesha-2102779758408774104` | [From accelerator tunnel to proton collision](categories/3d.md#from-accelerator-tunnel-to-proton-collision) | 3D & Spatial Scenes | Work adaptation | [@superalesha / X](https://x.com/superalesha/status/2102779758408774104) |
 | `x-techartist_-2102503719762018434` | [From line sketch to 3D house](categories/3d.md#from-line-sketch-to-3d-house) | 3D & Spatial Scenes | Work adaptation | [@techartist_ / X](https://x.com/techartist_/status/2102503719762018434) |
 | `psydox-09` | [Python software-rendered 3D game](categories/3d.md#python-software-rendered-3d-game) | 3D & Spatial Scenes | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/09_Python_Software_Rendered_3D_Game_Test.txt) |
-| `reddit-doner-doner` | [Rotating doner skewer and gas heater](categories/3d.md#rotating-doner-skewer-and-gas-heater) | 3D & Spatial Scenes | Prompt + output | [r/LocalLLaMA 原帖 / original thread](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | `google-studio-neon_arena_laser_tag` | [Neon Arena multiplayer laser tag](categories/games.md#neon-arena-multiplayer-laser-tag) | Games | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
 | `google-studio-neon_claw` | [Neon Claw physics claw machine](categories/games.md#neon-claw-physics-claw-machine) | Games | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
 | `museum-006` | [One-shot kart racing game](categories/games.md#one-shot-kart-racing-game) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/kart-racer) |
 | `museum-009` | [Flappy Bird in one file](categories/games.md#flappy-bird-in-one-file) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/flappy-bird) |
 | `museum-010` | [Tetris in one file](categories/games.md#tetris-in-one-file) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/tetris) |
 | `museum-015` | [3D flight game among skyscrapers](categories/games.md#3d-flight-game-among-skyscrapers) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/flight-sim) |
+| `sac-little-prince` | [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars) | Games | Prompt + output | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
 | `stock42-tetris-3d` | [3D-style Tetris with sound and scores](categories/games.md#3d-style-tetris-with-sound-and-scores) | Games | Prompt + output | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) |
 | `x-dangreenheck-2103004432786993341` | [Coastal fishing and trading game](categories/games.md#coastal-fishing-and-trading-game) | Games | Work adaptation | [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) |
 | `x-nachat_dayo-2102773498037023140` | [Harpoon fishing game](categories/games.md#harpoon-fishing-game) | Games | Work adaptation | [@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140) |

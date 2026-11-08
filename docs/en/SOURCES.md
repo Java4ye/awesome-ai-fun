@@ -2,7 +2,7 @@
 
 [简体中文](../SOURCES.md) | **English**
 
-[Home](../../README.en.md) · [Catalog](INDEX.md) · [Research](RESEARCH.md)
+[Home](../../README.md) · [Catalog](INDEX.md) · [Research](RESEARCH.md)
 
 35 source groups. Counts describe this repository’s indexed entries as of 2026-11-08, not all content on the source sites.
 
@@ -42,7 +42,7 @@ An interactive 3D SDF pelican challenge with original outputs, run records, and 
 - **Project**: [AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)
 - **Versioned task**: [fixed prompt](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)
 - **Indexed here**: one separate 3D SDF pelican task, distinct from the SVG animation.
-- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [previews](GALLERY.md) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).
+- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [3D pelican case details](categories/3d.md#interactive-3d-pelican-on-a-bicycle-with-sdfs) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).
 - **Context**: upstream runs use different CLI / SDK environments and remain unverified. We have not reproduced them or ranked models from thumbnails.
 
 ## David Harris / LocalLLM Visual Code Test
@@ -102,12 +102,6 @@ Community-reported results; subjective judgments, single runs and quantization d
 ## u/bobaburger
 
 [Source](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) · 1 entries
-
-Community-reported results; subjective judgments, single runs and quantization differences are not general scores.
-
-## r/LocalLLaMA 原帖 / original thread
-
-[Source](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) · 1 entries
 
 Community-reported results; subjective judgments, single runs and quantization differences are not general scores.
 
@@ -236,6 +230,12 @@ Post metadata checked through a public reader; work and model claims are publish
 [Source](https://x.com/dadabots/status/2103039181266338276) · 1 entries
 
 Post metadata checked through a public reader; work and model claims are publisher-reported.
+
+## Sac (@Saccc_c)
+
+[Source](https://x.com/Saccc_c/status/2109962425512734739) · 1 entries
+
+The creator’s launch post and making-of guide for The Little Prince: Across the Stars.
 
 ## Further discovery resources
 

@@ -2,7 +2,7 @@
 
 **简体中文** | [English](en/GUIDE.md)
 
-[← 返回首页](../README.md)
+[← 返回首页](../README.zh-CN.md)
 
 ## 为什么只收录索引，不直接拷贝 Prompt？
 
@@ -84,7 +84,7 @@ python -m unittest discover -s tests -v
 
 ## 历史效果与素材
 
-[历史效果档案](HISTORY.md)从 `data/history.json` 自动生成；首页和[效果画廊](GALLERY.md)结合 `data/showcase.json` 选择代表预览，并保留同题其他模型结果。每条历史记录关联 `case_id`，包括发布者、模型、运行日期或时间范围、收录日期、来源、效果入口和测试条件。`published_on: null` 表示发布时间未公开，不用运行日或收录日代替。补图与生成方式见[维护说明](MAINTENANCE.md)。
+[历史效果档案](HISTORY.md)从 `data/history.json` 自动生成；首页和分类页结合 `data/showcase.json` 选择代表预览，并保留同题其他模型结果。每条历史记录关联 `case_id`，包括发布者、模型、运行日期或时间范围、收录日期、来源、效果入口和测试条件。`published_on: null` 表示发布时间未公开，不用运行日或收录日代替。补图与生成方式见[维护说明](MAINTENANCE.md)。
 
 仅链接条目使用 `rights: link_only`。保存预览的条目必须包含具体许可依据、许可证副本、固定源提交、原图地址、SHA-256 和原始运行记录快照。当前支持 MIT 许可的本地预览；新增其他许可先补充明确的处理规则。来源方的未验证状态不改为本库实测。
 

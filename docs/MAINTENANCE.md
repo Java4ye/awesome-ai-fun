@@ -2,7 +2,7 @@
 
 **简体中文** | [English](en/MAINTENANCE.md)
 
-[首页](../README.md) · [贡献指南](../CONTRIBUTING.md)
+[首页](../README.zh-CN.md) · [贡献指南](../CONTRIBUTING.md)
 
 ## 编辑入口
 
@@ -12,7 +12,9 @@
 - `data/showcase.json`：逐案例预览，引用历史记录、原图 / 视频封面，或登记历史作品截图及出处；区分开放许可与未核实授权的来源引用。
 - `data/research.json`：社区出处与待整理线索。
 
-首页、分类页和画廊由同一份数据生成。有可展示预览的案例默认展开，暂缺预览的案例归入各分类末尾的“待补效果”。新增预览后重新生成即可移到展开区域，案例不会因此重复计数。
+README、分类页与网站画廊共用这份目录。README 与网站按分类展示全部作品和专题，可直接打开 `site/index.html` 本地预览。专题定义在 `scripts/showcase.py` 的 `WORK_GROUPS`，案例编号与原始分类不变。「可试玩」只列出有交互页面的作品；来源视频或原帖不能当作试玩。
+
+生成脚本也会更新 `site/catalog.js`。`main` 分支推送后，GitHub Actions 会校验目录并把画廊和预览图发布到 [GitHub Pages](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)。无需单独维护网站数据。
 
 维护需要 Python 3.10+，无第三方依赖：
 

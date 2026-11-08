@@ -4,7 +4,7 @@
 
 > Draw recognizable objects and believable relationships · **32 challenges**
 
-[← Home](../../../README.en.md) · [All challenges](../INDEX.md)
+[← Home](../../../README.md) · [All challenges](../INDEX.md)
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 
