@@ -2,9 +2,9 @@
 
 [简体中文](../SOURCES.md) | **English**
 
-[Home](../../README.md) · [Catalog](INDEX.md) · [Research](RESEARCH.md)
+[Home](../../README.md) · [Work index](INDEX.md)
 
-35 source groups. Counts describe this repository’s indexed entries as of 2026-11-08, not all content on the source sites.
+35 source groups. Counts are catalog records and include individual works in collections and prompt-only entries.
 
 ## Pelican-bicycle alternatives
 
@@ -244,6 +244,6 @@ The creator’s launch post and making-of guide for The Little Prince: Across th
 - [Animation2Code](https://anya-ji.github.io/animation2code-website/)
 - [ArtifactsBench](https://artifactsbenchmark.github.io/)
 
-Some Reddit and CodePen pages reject direct automated HTTP checks (403), although their public text was readable through web search. Google AI Studio links redirect to sign-in. These access limits are not treated as proof that a source was deleted; playback remains unverified.
+Some Reddit and CodePen pages reject direct automated HTTP checks (403), although their public text was readable through web search. Google AI Studio links redirect to sign-in. X attributions were checked using FxTwitter public metadata. Actual playback may require opening the original source.
 
 Discovery resources are not a blanket license to copy linked media. Follow each original source; store correction requests through an issue.

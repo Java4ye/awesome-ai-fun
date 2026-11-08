@@ -2,9 +2,7 @@
 
 **简体中文** | [English](../en/categories/animation.md)
 
-> 让画面真正动起来 · 共 **31 道**
-
-[← 返回首页](../../README.zh-CN.md) · [全部案例](../INDEX.md)
+[← 返回首页](../../README.zh-CN.md) · [作品索引](../INDEX.md)
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 

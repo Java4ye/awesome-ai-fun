@@ -2,9 +2,7 @@
 
 **简体中文** | [English](../en/categories/applications.md)
 
-> 从好看的界面走向可用的功能 · 共 **12 道**
-
-[← 返回首页](../../README.zh-CN.md) · [全部案例](../INDEX.md)
+[← 返回首页](../../README.zh-CN.md) · [作品索引](../INDEX.md)
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 
@@ -356,85 +354,3 @@ Google 官方演示视频的画面截图，点击播放原视频。
 通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
 
 ---
-
-<details>
-<summary>待补效果 · 3 条案例</summary>
-
-以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
-
-## 本地保存的个人记账应用
-
-**编号**：`psydox-05` · **收录来源**：[psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/05_Personal_Expense_Tracker_App_Test.txt)（本库来源组内序号 4）
-
-**英文标题**：Persistent personal expense tracker
-
-实现记录增删改、筛选、汇总与刷新后的持久化。
-
-**原站署名 / 来源线索**：psydox / Local LLM Coding Benchmark
-
-**题面情况**：公开题面
-
-尚未找到历史效果；本条仅提供原始题面，不补造模型输出。
-
-**可以观察什么？**
-
-- 金额和日期是否校验
-- 筛选后汇总与保存是否一致
-
-**标签**：`交互应用`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/05_Personal_Expense_Tracker_App_Test.txt) · **本库测试情况**：未实测
-
----
-
-## 可拖拽与归档的任务看板
-
-**编号**：`psydox-07` · **收录来源**：[psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/07_Kanban_Board_App_Test.txt)（本库来源组内序号 6）
-
-**英文标题**：Drag-and-drop Kanban board
-
-结合任务和列管理、归档恢复、组合筛选与持久化。
-
-**原站署名 / 来源线索**：psydox / Local LLM Coding Benchmark
-
-**题面情况**：公开题面
-
-尚未找到历史效果；本条仅提供原始题面，不补造模型输出。
-
-**可以观察什么？**
-
-- 拖拽后任务是否仍属于正确列
-- 归档恢复和键盘操作是否可用
-
-**标签**：`交互应用`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/07_Kanban_Board_App_Test.txt) · **本库测试情况**：未实测
-
----
-
-## Python 标准库图层绘图编辑器
-
-**编号**：`psydox-08` · **收录来源**：[psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt)（本库来源组内序号 7）
-
-**英文标题**：Python standard-library layered editor
-
-用 Tkinter 和自建像素数据实现画笔、图层、滤镜与撤销。
-
-**原站署名 / 来源线索**：psydox / Local LLM Coding Benchmark
-
-**题面情况**：公开题面
-
-尚未找到历史效果；本条仅提供原始题面，不补造模型输出。
-
-**可以观察什么？**
-
-- 图层合成与选区是否正确
-- 撤销重做和文件保存是否可靠
-
-**标签**：`交互应用`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt) · **本库测试情况**：未实测
-
----
-
-</details>

@@ -2,9 +2,7 @@
 
 [简体中文](../../categories/animation.md) | **English**
 
-> Make motion and simulation work · **31 challenges**
-
-[← Home](../../../README.md) · [All challenges](../INDEX.md)
+[← Home](../../../README.md) · [Work index](../INDEX.md)
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 

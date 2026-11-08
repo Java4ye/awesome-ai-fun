@@ -6,7 +6,7 @@
 >
 > 往下看效果，喜欢就去试玩，或者看看作者是怎么做出来的。
 
-**[打开作品画廊](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)** · [推荐作品](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case.md) · [完整索引](docs/INDEX.md)
+**[打开作品画廊](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)** · [推荐作品](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case.md) · [作品索引](docs/INDEX.md)
 
 **62 个作品与专题**
 
@@ -159,12 +159,12 @@
   </tr>
 </table>
 
-[8 道动手题](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh#prompt-library) · [历史记录](docs/HISTORY.md)
+[8 道动手题](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh#prompt-library)
 
 ## 推荐作品
 
 欢迎[提交 Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose)，附上原始链接和一句话介绍。维护者核对后统一收录；投稿和更正都走 Issue。
 
-[来源导航](docs/SOURCES.md) · [历史档案](docs/HISTORY.md) · [社区线索](docs/RESEARCH.md) · [使用指南](docs/GUIDE.md) · [维护说明](docs/MAINTENANCE.md) · [素材署名](docs/THIRD_PARTY_MEDIA.md) · [更新日志](docs/CHANGELOG.md)
+[来源导航](docs/SOURCES.md) · [素材署名](docs/THIRD_PARTY_MEDIA.md)
 
 效果预览附原始出处。仓库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人。

@@ -2,9 +2,7 @@
 
 [简体中文](../../categories/applications.md) | **English**
 
-> Turn interfaces into usable features · **12 challenges**
-
-[← Home](../../../README.md) · [All challenges](../INDEX.md)
+[← Home](../../../README.md) · [Work index](../INDEX.md)
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 
@@ -338,79 +336,3 @@ A challenge direction adapted from the public work: Bedroom bed-placement planne
 Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.
 
 ---
-
-<details>
-<summary>Awaiting previews · 3 cases</summary>
-
-Real inline previews are not yet available for these cases. Their original descriptions and source-output links are retained below.
-
-## Persistent personal expense tracker
-
-**ID**: `psydox-05` · **Source**: [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/05_Personal_Expense_Tracker_App_Test.txt) (catalog source position 4)
-
-Implement expense CRUD, filters, summaries and reload persistence.
-
-**Source credit / attribution lead**: psydox / Local LLM Coding Benchmark
-
-**Prompt availability**: Public prompt
-
-No historical output found; this entry links to a prompt only.
-
-**What to observe**
-
-- Amounts and dates are validated
-- Filtered summaries and persistence remain consistent
-
-**Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/05_Personal_Expense_Tracker_App_Test.txt) · **Test status in this repository**: Not tested
-
----
-
-## Drag-and-drop Kanban board
-
-**ID**: `psydox-07` · **Source**: [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/07_Kanban_Board_App_Test.txt) (catalog source position 6)
-
-Combine task and column management, archive restore, filters and persistence.
-
-**Source credit / attribution lead**: psydox / Local LLM Coding Benchmark
-
-**Prompt availability**: Public prompt
-
-No historical output found; this entry links to a prompt only.
-
-**What to observe**
-
-- Dragging preserves correct task-column relationships
-- Archive restore and keyboard controls work
-
-**Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/07_Kanban_Board_App_Test.txt) · **Test status in this repository**: Not tested
-
----
-
-## Python standard-library layered editor
-
-**ID**: `psydox-08` · **Source**: [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt) (catalog source position 7)
-
-Use Tkinter and a custom raster model for tools, layers, filters and undo.
-
-**Source credit / attribution lead**: psydox / Local LLM Coding Benchmark
-
-**Prompt availability**: Public prompt
-
-No historical output found; this entry links to a prompt only.
-
-**What to observe**
-
-- Layer compositing and selections work
-- Undo, redo and saving are reliable
-
-**Tags**: `interactive apps`, `source collection`
-
-**Prompts and outputs**: [View the source](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt) · **Test status in this repository**: Not tested
-
----
-
-</details>

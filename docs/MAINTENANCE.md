@@ -12,9 +12,9 @@
 - `data/sources.json`：来源导航。
 - `data/history.json`：来源方历史效果、模型与运行条件，以及有许可的本地预览。
 - `data/showcase.json`：逐案例预览，引用历史记录、原图 / 视频封面，或登记历史作品截图及出处；区分开放许可与未核实授权的来源引用。
-- `data/research.json`：社区出处与待整理线索。
+- `data/research.json`：已收录条目的社区出处和核对记录。待筛选线索单独保存在仓库外。
 
-README、分类页与网站画廊共用这份目录。README 与网站按分类展示全部作品和专题，可直接打开 `site/index.html` 本地预览。专题定义在 `scripts/showcase.py` 的 `WORK_GROUPS`，案例编号与原始分类不变。「可试玩」只列出有交互页面的作品；来源视频或原帖不能当作试玩。
+README、作品索引与网站画廊共用同一份作品和专题清单。专题在索引中占一个入口，子项可从专题页进入详情。只有题面的条目在网站动手题库单独展示。可直接打开 `site/index.html` 本地预览。专题定义在 `scripts/showcase.py` 的 `WORK_GROUPS`，入库后的案例编号应保持稳定。「可试玩」对应有交互页面的作品。
 
 生成脚本也会更新 `site/catalog.js`。`main` 分支推送后，GitHub Actions 会校验目录并把画廊和预览图发布到 [GitHub Pages](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)。无需单独维护网站数据。
 

@@ -8,7 +8,7 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from validate import check_data
 from build import render
-from history import check_history, render_history
+from history import check_history
 
 class CatalogTests(unittest.TestCase):
     @classmethod
@@ -44,7 +44,10 @@ class CatalogTests(unittest.TestCase):
         cases[0]['checks_en']=cases[0]['checks_en'][:2]
         self.assertTrue(any('translation count mismatch' in err for err in check_data(cases,self.sources)))
 
-    def test_both_indexes_cover_every_case_and_switch_languages(self):
+    def test_both_indexes_match_gallery_and_switch_languages(self):
+        from showcase import collection_entries, work_link
+
+        works, groups, prompts = collection_entries(self.cases)
         for language, index_path, switch in [
             ('zh', Path('docs/INDEX.md'), '(en/INDEX.md)'),
             ('en', Path('docs/en/INDEX.md'), '(../INDEX.md)'),
@@ -54,8 +57,17 @@ class CatalogTests(unittest.TestCase):
                 index=pages[index_path]
                 self.assertEqual(len(pages),6)
                 self.assertIn(switch,index)
-                for case in self.cases:
-                    self.assertEqual(index.count(f'`{case["id"]}`'),1)
+                suffix = '_en' if language == 'en' else ''
+                expected = [
+                    f'COLLECTIONS.md#{case["id"]}' if case['id'] in groups else work_link(case, '', suffix)
+                    for case in works
+                ]
+                links = [line.rsplit('](', 1)[1][:-1] for line in index.splitlines() if line.startswith('- [')]
+                self.assertCountEqual(expected, links)
+                self.assertIn(f'[{len(prompts)} ', index)
+                self.assertIn('#prompt-library)', index)
+                for prompt in prompts:
+                    self.assertNotIn(work_link(prompt, '', suffix), index)
 
     def test_history_covers_every_case_with_valid_provenance(self):
         expected={c['id'] for c in self.cases if c.get('evidence_level') != 'prompt_only'}
@@ -75,7 +87,6 @@ class CatalogTests(unittest.TestCase):
     def test_gallery_groups_related_works_without_losing_catalog_entries(self):
         from showcase import render_homepages
         from site_catalog import render_site_catalog
-        from build import CATEGORIES
         previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
         script=render_site_catalog(self.cases,self.sources,self.history,previews)[Path('site/catalog.js')]
         gallery=json.loads(script.split('window.AI_FUN_CATALOG = ',1)[1].strip().removesuffix(';'))
@@ -88,7 +99,7 @@ class CatalogTests(unittest.TestCase):
         prince=next(w for w in gallery['works'] if w['id']=='sac-little-prince')
         self.assertEqual('https://littleprince.dev/',prince['play'])
         for language,name in [('zh','README.zh-CN.md'),('en','README.md')]:
-            page=render_homepages(self.cases,self.sources,self.history,previews,CATEGORIES,language)[Path(name)]
+            page=render_homepages(self.cases,self.history,previews,language)[Path(name)]
             gallery_url='https://java4ye.github.io/awesome-ai-fun/site/' + ('?lang=zh' if language=='zh' else '')
             self.assertIn(gallery_url,page)
             self.assertIn('README.md)' if language=='zh' else 'README.zh-CN.md)',page)
@@ -146,14 +157,12 @@ class CatalogTests(unittest.TestCase):
         self.assertTrue(any('unknown case' in e for e in errors))
         self.assertTrue(any('duplicate id' in e for e in errors))
 
-    def test_history_and_category_pages_retain_previews(self):
+    def test_category_pages_retain_previews(self):
         from html import escape
         from showcase import resolve_showcase
         previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
         covers=resolve_showcase(self.history,previews)
-        for language,base,switch in [('zh',Path('docs'),'en/'),('en',Path('docs/en'),'../')]:
-            pages=render_history(self.cases,self.history,language)
-            self.assertIn(f'({switch}HISTORY.md)',pages[base/'HISTORY.md'])
+        for language in ('zh','en'):
             details=render(self.cases,self.sources,language,self.history,previews)
             all_details='\n'.join(text for path,text in details.items() if path.parent.name=='categories')
             for preview in covers.values():

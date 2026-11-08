@@ -1,44 +1,61 @@
 #!/usr/bin/env python3
 """Generate the browseable Markdown catalog from data/cases.json."""
 from pathlib import Path
-from collections import Counter
 import argparse
 import json
 import sys
-from history import check_history, group_history, history_lines, render_history
-from showcase import check_showcase, resolve_showcase, image_lines, render_homepages
+from history import check_history, group_history, history_lines
+from showcase import (
+    CATEGORY_NAMES, check_showcase, collection_entries, image_lines,
+    render_homepages, resolve_showcase, work_link,
+)
 from site_catalog import render_site_catalog
 
 ROOT=Path(__file__).resolve().parents[1]
-CATEGORIES=[('svg','SVG 绘画','画出来，更要画得对'),('animation','动画与物理','让画面真正动起来'),('3d','3D 与空间','把空间关系做正确'),('games','游戏开发','不仅能看，还要能玩'),('applications','应用与交互','从好看的界面走向可用的功能')]
-EN_CATEGORIES=[('svg','SVG Drawing','Draw recognizable objects and believable relationships'),('animation','Animation & Physics','Make motion and simulation work'),('3d','3D & Spatial Scenes','Build coherent spatial relationships'),('games','Games','Make something playable'),('applications','Apps & Interaction','Turn interfaces into usable features')]
 
 
 def render(cases, sources, language='zh', history=(), showcase=()):
     english = language == 'en'
-    categories = EN_CATEGORIES if english else CATEGORIES
     suffix = '_en' if english else ''
     base = Path('docs/en') if english else Path('docs')
     source_names = {s['id']: s['name'+suffix] for s in sources}
     historical = group_history(history)
     covers = resolve_showcase(history,showcase)
-    count=Counter(c['category'] for c in cases)
-    order={name:i for i,(name,_,_) in enumerate(CATEGORIES)}
-    cases=sorted(cases,key=lambda c:(order[c['category']],c['source_id'],c['source_item_no']))
-    index = ['# All challenges' if english else '# 全部测试案例', '',
+    works, groups, prompts = collection_entries(cases)
+    cases=sorted(cases,key=lambda c:(c['source_id'],c['source_item_no']))
+    site = 'https://java4ye.github.io/awesome-ai-fun/site/' + ('' if english else '?lang=zh')
+    work_categories = {
+        key: [c for c in works if c['category'] == key]
+        for key in CATEGORY_NAMES
+    }
+    index = ['# Work index' if english else '# 作品索引', '',
         '[简体中文](../INDEX.md) | **English**' if english else '**简体中文** | [English](en/INDEX.md)', '',
-        f'> **{len(cases)} challenges** from public sources. This is a curated index; this repository has not tested these challenges.' if english else f'> 收录 **{len(cases)} 道**公开来源的 AI 测试案例。这里是导航与整理，不代表已经由本仓库实测。', '',
-        ('Browse by type: ' if english else '按类型查看：') + ' · '.join(f'[{label} ({count[key]})](categories/{key}.md)' for key,label,_ in categories), '',
-        '[Source research and new additions](RESEARCH.md)' if english else '[本轮新收录与社区出处](RESEARCH.md)', '',
-        '| ID | Challenge | Type | Material | Source |' if english else '| 编号 | 案例 | 分类 | 资料形态 | 来源 |', '| --- | --- | --- | --- | --- |']
+        f'[Home](../../README.md) · [Open the gallery]({site})' if english else f'[首页](../README.zh-CN.md) · [打开作品画廊]({site})', '',
+        f'**{len(works)} works and collections.** Open a collection to browse its individual works.' if english else f'**{len(works)} 个作品与专题。** 专题里的作品可点进去逐个查看。', '',
+        ' · '.join(
+            f'[{CATEGORY_NAMES[key][english]} ({len(entries)})](#category-{key})'
+            for key, entries in work_categories.items() if entries
+        ), '']
+    for key, entries in work_categories.items():
+        if not entries:
+            continue
+        index.extend([f'<a id="category-{key}"></a>', '', f'## {CATEGORY_NAMES[key][english]}', ''])
+        for case in entries:
+            cid = case['id']
+            group = groups.get(cid)
+            title = group[3][english] if group else case['title'+suffix]
+            link = f'COLLECTIONS.md#{cid}' if group else work_link(case, '', suffix)
+            index.append(f'- [{title}]({link})')
+        index.append('')
+    if prompts:
+        index.append(f'[{len(prompts)} hands-on prompts]({site}#prompt-library)' if english else f'[{len(prompts)} 道动手题]({site}#prompt-library)')
     pages={}
-    for key,label,subtitle in categories:
-        entries=[c for c in cases if c['category']==key]
+    for key,names in CATEGORY_NAMES.items():
+        entries=[c for c in cases if c['category']==key and c.get('evidence_level')!='prompt_only']
         if showcase:entries.sort(key=lambda c:c['id'] not in covers)
-        lines=[f'# {label}', '',
+        lines=[f'# {names[english]}', '',
             f'[简体中文](../../categories/{key}.md) | **English**' if english else f'**简体中文** | [English](../en/categories/{key}.md)', '',
-            f'> {subtitle} · **{len(entries)} challenges**' if english else f'> {subtitle} · 共 **{len(entries)} 道**', '',
-            '[← Home](../../../README.md) · [All challenges](../INDEX.md)' if english else '[← 返回首页](../../README.zh-CN.md) · [全部案例](../INDEX.md)', '',
+            '[← Home](../../../README.md) · [Work index](../INDEX.md)' if english else '[← 返回首页](../../README.zh-CN.md) · [作品索引](../INDEX.md)', '',
             '> The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.' if english else '> 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。', '']
         pending_open=False
         for c in entries:
@@ -61,8 +78,6 @@ def render(cases, sources, language='zh', history=(), showcase=()):
                 labels = {'public': ('公开题面', 'Public prompt'), 'partial': ('示例请求或部分题面', 'Example request / partial prompt'), 'not_verified': ('完整原题未确认，按作品整理', 'Full prompt unconfirmed; adapted from work')}
                 prompt_label = labels[c['prompt_availability']][1 if english else 0]
                 lines[-2:-2] = [('**Prompt availability**: ' if english else '**题面情况**：') + prompt_label, '']
-                if c.get('evidence_level') == 'prompt_only':
-                    lines[-2:-2] = ['No historical output found; this entry links to a prompt only.' if english else '尚未找到历史效果；本条仅提供原始题面，不补造模型输出。', '']
             lines.extend(f'- {v}' for v in c['checks'+suffix])
             lines.extend(['', ('**Tags**: ' if english else '**标签**：') + ', '.join('`'+tag+'`' for tag in c['tags'+suffix]), '',
                 f'**Prompts and outputs**: [View the source]({c["source_url"]}) · **Test status in this repository**: Not tested' if english else f'**提示词与作品**：[前往原站查看]({c["source_url"]}) · **本库测试情况**：未实测', ''])
@@ -80,17 +95,8 @@ def render(cases, sources, language='zh', history=(), showcase=()):
             lines.extend(['---',''])
         if pending_open:lines.extend(['</details>',''])
         pages[base/'categories'/f'{key}.md']='\n'.join(lines).rstrip()+'\n'
-        for c in entries:
-            title = c['title'+suffix]
-            material = ('Work adaptation' if english else '作品改编方向') if c.get('evidence_level') == 'public_reader_metadata' else ('Prompt only' if english else '仅题面') if c.get('evidence_level') == 'prompt_only' else ('Official demo' if english else '官方演示') if c['source_id'].startswith('google-') else ('Prompt + output' if english else '题面与效果')
-            index.append(f'| `{c["id"]}` | [{title}](categories/{key}.md#{slug(title)}) | {label} | {material} | [{source_names[c["source_id"]]}]({c["source_url"]}) |')
-    pages[base/'INDEX.md']='\n'.join(index)+'\n'
+    pages[base/'INDEX.md']='\n'.join(index).rstrip()+'\n'
     return pages
-
-# GitHub heading fragment handling for Chinese: GitHub keeps CJK characters and removes punctuation.
-def slug(title):
-    import re
-    return re.sub(r'[^\w\u4e00-\u9fff\- ]','',title.lower()).replace(' ','-')
 
 def main():
     ap=argparse.ArgumentParser()
@@ -102,7 +108,7 @@ def main():
     problems=check_data(cases,sources)
     history=json.loads((ROOT/'data/history.json').read_text(encoding='utf-8'))
     problems.extend(check_history(cases,history,ROOT))
-    from research import check_research, render_research
+    from research import check_research, render_sources
     research=json.loads((ROOT/'data/research.json').read_text(encoding='utf-8'))
     problems.extend(check_research(cases,research))
     showcase=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf-8'))
@@ -110,10 +116,9 @@ def main():
     if problems:
         print('Catalog invalid: '+ '; '.join(problems));return 1
     pages={**render(cases,sources,history=history,showcase=showcase), **render(cases,sources,'en',history,showcase),
-           **render_history(cases,history,'zh'), **render_history(cases,history,'en'),
-           **render_research(cases,sources,research,'zh'), **render_research(cases,sources,research,'en'),
-           **render_homepages(cases,sources,history,showcase,CATEGORIES,'zh'),
-           **render_homepages(cases,sources,history,showcase,CATEGORIES,'en'),
+           **render_sources(sources,'zh'), **render_sources(sources,'en'),
+           **render_homepages(cases,history,showcase,'zh'),
+           **render_homepages(cases,history,showcase,'en'),
            **render_site_catalog(cases,sources,history,showcase)}
     mismatch=[]
     for rel,contents in pages.items():

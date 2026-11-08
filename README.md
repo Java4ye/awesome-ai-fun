@@ -6,7 +6,7 @@
 >
 > Browse the previews, try something you like, or see how its creator made it.
 
-**[Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/)** · [Suggest a work](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case-en.md) · [Full catalog](docs/en/INDEX.md)
+**[Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/)** · [Suggest a work](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case-en.md) · [Work index](docs/en/INDEX.md)
 
 **62 works and collections**
 
@@ -159,12 +159,12 @@
   </tr>
 </table>
 
-[8 hands-on prompts](https://java4ye.github.io/awesome-ai-fun/site/#prompt-library) · [Historical records](docs/en/HISTORY.md)
+[8 hands-on prompts](https://java4ye.github.io/awesome-ai-fun/site/#prompt-library)
 
 ## Suggest a work
 
 [Open an Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) with an original link and a short description. Maintainers check submissions and update the collection. Please use Issues for submissions and corrections.
 
-[Sources](docs/en/SOURCES.md) · [History](docs/en/HISTORY.md) · [Research leads](docs/en/RESEARCH.md) · [Guide](docs/en/GUIDE.md) · [Maintenance](docs/en/MAINTENANCE.md) · [Media credits](docs/en/THIRD_PARTY_MEDIA.md) · [Changelog](docs/en/CHANGELOG.md)
+[Sources](docs/en/SOURCES.md) · [Media credits](docs/en/THIRD_PARTY_MEDIA.md)
 
 Previews are credited to their sources. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights.

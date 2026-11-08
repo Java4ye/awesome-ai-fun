@@ -1,117 +1,98 @@
-# All challenges
+# Work index
 
 [简体中文](../INDEX.md) | **English**
 
-> **105 challenges** from public sources. This is a curated index; this repository has not tested these challenges.
+[Home](../../README.md) · [Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/)
 
-Browse by type: [SVG Drawing (32)](categories/svg.md) · [Animation & Physics (31)](categories/animation.md) · [3D & Spatial Scenes (15)](categories/3d.md) · [Games (15)](categories/games.md) · [Apps & Interaction (12)](categories/applications.md)
+**62 works and collections.** Open a collection to browse its individual works.
 
-[Source research and new additions](RESEARCH.md)
+[Games (10)](#category-games) · [3D & Spaces (13)](#category-3d) · [Animation & Physics (27)](#category-animation) · [Apps & Interaction (9)](#category-applications) · [SVG Art (3)](#category-svg)
 
-| ID | Challenge | Type | Material | Source |
-| --- | --- | --- | --- | --- |
-| `svg-001` | [An octopus operating a pipe organ](categories/svg.md#an-octopus-operating-a-pipe-organ) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-002` | [A giraffe assembling a grandfather clock](categories/svg.md#a-giraffe-assembling-a-grandfather-clock) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-003` | [A starfish driving a bulldozer](categories/svg.md#a-starfish-driving-a-bulldozer) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-004` | [A moose conducting a carousel](categories/svg.md#a-moose-conducting-a-carousel) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-005` | [A flamingo repairing a telescope](categories/svg.md#a-flamingo-repairing-a-telescope) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-006` | [A hedgehog playing an accordion](categories/svg.md#a-hedgehog-playing-an-accordion) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-007` | [A jellyfish piloting a Ferris wheel](categories/svg.md#a-jellyfish-piloting-a-ferris-wheel) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-008` | [An elephant typing on a typewriter](categories/svg.md#an-elephant-typing-on-a-typewriter) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-009` | [A chameleon tuning a grand piano](categories/svg.md#a-chameleon-tuning-a-grand-piano) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-010` | [A penguin juggling chainsaws](categories/svg.md#a-penguin-juggling-chainsaws) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-011` | [A sloth steering an excavator](categories/svg.md#a-sloth-steering-an-excavator) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-012` | [A dragonfly balancing a chandelier](categories/svg.md#a-dragonfly-balancing-a-chandelier) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-013` | [A rhinoceros painting a lighthouse](categories/svg.md#a-rhinoceros-painting-a-lighthouse) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-014` | [A seahorse examining a microscope](categories/svg.md#a-seahorse-examining-a-microscope) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-015` | [A peacock spinning a pottery wheel](categories/svg.md#a-peacock-spinning-a-pottery-wheel) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-016` | [A kangaroo climbing a radio tower](categories/svg.md#a-kangaroo-climbing-a-radio-tower) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-017` | [A lobster polishing a harp](categories/svg.md#a-lobster-polishing-a-harp) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-018` | [A porcupine pushing a lawnmower](categories/svg.md#a-porcupine-pushing-a-lawnmower) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-019` | [A gecko installing a satellite dish](categories/svg.md#a-gecko-installing-a-satellite-dish) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-020` | [An iguana carving a totem pole](categories/svg.md#an-iguana-carving-a-totem-pole) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-021` | [An armadillo lifting a drawbridge](categories/svg.md#an-armadillo-lifting-a-drawbridge) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-022` | [A mantis studying a sextant](categories/svg.md#a-mantis-studying-a-sextant) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-023` | [An ostrich pulling a rickshaw](categories/svg.md#an-ostrich-pulling-a-rickshaw) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-024` | [A squid disassembling a printing press](categories/svg.md#a-squid-disassembling-a-printing-press) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-025` | [A butterfly inspecting a steam engine](categories/svg.md#a-butterfly-inspecting-a-steam-engine) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-026` | [A crab descending a fire escape](categories/svg.md#a-crab-descending-a-fire-escape) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-027` | [A venus flytrap swallowing a street lamp](categories/svg.md#a-venus-flytrap-swallowing-a-street-lamp) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-028` | [Coral cleaning a ship's wheel](categories/svg.md#coral-cleaning-a-ships-wheel) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-029` | [A sea anemone threading a loom](categories/svg.md#a-sea-anemone-threading-a-loom) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `svg-030` | [An orchid supporting a pergola](categories/svg.md#an-orchid-supporting-a-pergola) | SVG Drawing | Prompt + output | [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) |
-| `reddit-pgn-svg-pgn-svg` | [Render the final PGN position as SVG](categories/svg.md#render-the-final-pgn-position-as-svg) | SVG Drawing | Prompt + output | [u/bobaburger](https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/) |
-| `springprompt-unicorn` | [Draw a unicorn in SVG](categories/svg.md#draw-a-unicorn-in-svg) | SVG Drawing | Prompt + output | [Spring Prompt / SVG unicorn](https://springprompt.com/playground/unicorn) |
-| `electricazimuth-aquarium` | [Autonomous aquarium](categories/animation.md#autonomous-aquarium) | Animation & Physics | Prompt + output | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/aquarium.md) |
-| `electricazimuth-ball_bound` | [Many-ball gravity and damping](categories/animation.md#many-ball-gravity-and-damping) | Animation & Physics | Prompt + output | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/ball_bound.md) |
-| `electricazimuth-chicken` | [Wandering and egg-laying chicken](categories/animation.md#wandering-and-egg-laying-chicken) | Animation & Physics | Prompt + output | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/chicken.md) |
-| `electricazimuth-fireworks` | [Autonomous fireworks particles](categories/animation.md#autonomous-fireworks-particles) | Animation & Physics | Prompt + output | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/fireworks.md) |
-| `electricazimuth-vehicles` | [Vehicle collision and restart](categories/animation.md#vehicle-collision-and-restart) | Animation & Physics | Prompt + output | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/vehicles.md) |
-| `google-sim-fractals` | [Interactive fractal visualization](categories/animation.md#interactive-fractal-visualization) | Animation & Physics | Official demo | [Google / Gemini interactive visualizations](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) |
-| `google-sim-double-slit` | [Interactive double-slit interference](categories/animation.md#interactive-double-slit-interference) | Animation & Physics | Official demo | [Google / Gemini interactive visualizations](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) |
-| `google-sim-double-pendulum` | [Interactive double-pendulum chaos](categories/animation.md#interactive-double-pendulum-chaos) | Animation & Physics | Official demo | [Google / Gemini interactive visualizations](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) |
-| `kcores-ball-bouncing-inside-spinning-heptagon` | [20 numbered balls in a spinning heptagon](categories/animation.md#20-numbered-balls-in-a-spinning-heptagon) | Animation & Physics | Prompt + output | [KCORES LLM Arena](https://github.com/KCORES/kcores-llm-arena/blob/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-ball-bouncing-inside-spinning-heptagon/README.md) |
-| `kcores-mandelbrot-set-meet-libai` | [Mandelbrot fractal drawn with Li Bai characters](categories/animation.md#mandelbrot-fractal-drawn-with-li-bai-characters) | Animation & Physics | Prompt + output | [KCORES LLM Arena](https://github.com/KCORES/kcores-llm-arena/blob/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/README.md) |
-| `museum-001` | [Pelican riding a bicycle](categories/animation.md#pelican-riding-a-bicycle) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/pelican-bicycle) |
-| `museum-002` | [Bouncing ball inside a spinning hexagon](categories/animation.md#bouncing-ball-inside-a-spinning-hexagon) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/bouncing-ball-hexagon) |
-| `museum-008` | [Supernova explosion](categories/animation.md#supernova-explosion) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/supernova) |
-| `museum-013` | [Drowned Gothic city shader](categories/animation.md#drowned-gothic-city-shader) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/drowned-gothic-city) |
-| `museum-016` | [Hand-controlled particles](categories/animation.md#hand-controlled-particles) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/hand-gesture-particles) |
-| `museum-017` | [Bouncing ball inside a hypercube](categories/animation.md#bouncing-ball-inside-a-hypercube) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/tesseract-ball) |
-| `museum-018` | [Starship control panel](categories/animation.md#starship-control-panel) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/starship-control-panel) |
-| `museum-019` | [Analog clock showing 10:10](categories/animation.md#analog-clock-showing-1010) | Animation & Physics | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/ai-world-clock) |
-| `reddit-glass-bridge-glass-bridge` | [Glass bridge fracture and loading](categories/animation.md#glass-bridge-fracture-and-loading) | Animation & Physics | Prompt + output | [EntelligenceAI / u/entelligenceai17](https://www.reddit.com/r/LLMDevs/comments/1urypfg/benchmarking_gpt56_sol_vs_grok_45_pro_with_the/) |
-| `stock42-triple-pendulum` | [Triple-pendulum chaos painter](categories/animation.md#triple-pendulum-chaos-painter) | Animation & Physics | Prompt + output | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/triple-pendulum.md) |
-| `stock42-1kg-block-bounces` | [Pi through block collisions](categories/animation.md#pi-through-block-collisions) | Animation & Physics | Prompt + output | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/1kg-block-bounces.md) |
-| `stock42-balls-fall` | [Galton board and bell curve](categories/animation.md#galton-board-and-bell-curve) | Animation & Physics | Prompt + output | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/balls-fall.md) |
-| `x-addyosmani-2103009037164110327` | [40-second coded browser explainer](categories/animation.md#40-second-coded-browser-explainer) | Animation & Physics | Work adaptation | [@addyosmani / X](https://x.com/addyosmani/status/2103009037164110327) |
-| `x-alexalbert__-2102458348511879448` | [Blender claymation-style animation](categories/animation.md#blender-claymation-style-animation) | Animation & Physics | Work adaptation | [@alexalbert__ / X](https://x.com/alexalbert__/status/2102458348511879448) |
-| `x-chetaslua-2102501773705670994` | [Interactive steam-morph stop motion](categories/animation.md#interactive-steam-morph-stop-motion) | Animation & Physics | Work adaptation | [@chetaslua / X](https://x.com/chetaslua/status/2102501773705670994) |
-| `x-dadabots-2103039181266338276` | [JavaScript music-theory audiovisual](categories/animation.md#javascript-music-theory-audiovisual) | Animation & Physics | Work adaptation | [@dadabots / X](https://x.com/dadabots/status/2103039181266338276) |
-| `x-dotcsv-2102737776219168939` | [Pixel animation of neural-network training](categories/animation.md#pixel-animation-of-neural-network-training) | Animation & Physics | Work adaptation | [@DotCSV / X](https://x.com/DotCSV/status/2102737776219168939) |
-| `x-itsolelehmann-2103124033365762215` | [Code film of four seasons through a train window](categories/animation.md#code-film-of-four-seasons-through-a-train-window) | Animation & Physics | Work adaptation | [@itsolelehmann / X](https://x.com/itsolelehmann/status/2103124033365762215) |
-| `x-lcslates-2102503027340988559` | [Reassembling glass-and-gold mosaic](categories/animation.md#reassembling-glass-and-gold-mosaic) | Animation & Physics | Work adaptation | [@LCSlates / X](https://x.com/LCSlates/status/2102503027340988559) |
-| `x-riku720720-2102515055116063144` | [Autonomous cosmic pixel dash](categories/animation.md#autonomous-cosmic-pixel-dash) | Animation & Physics | Work adaptation | [@riku720720 / X](https://x.com/riku720720/status/2102515055116063144) |
-| `x-victormustar-2102707412704919910` | [Inverse-kinematics pixel horse](categories/animation.md#inverse-kinematics-pixel-horse) | Animation & Physics | Work adaptation | [@victormustar / X](https://x.com/victormustar/status/2102707412704919910) |
-| `electricazimuth-lightshow` | [Ray-marched psychedelic metaballs](categories/3d.md#ray-marched-psychedelic-metaballs) | 3D & Spatial Scenes | Prompt + output | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/lightshow.md) |
-| `museum-003` | [Voxel pagoda garden](categories/3d.md#voxel-pagoda-garden) | 3D & Spatial Scenes | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/voxel-pagoda) |
-| `museum-004` | [Minecraft in three.js](categories/3d.md#minecraft-in-threejs) | 3D & Spatial Scenes | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/minecraft-web) |
-| `museum-005` | [Self-solving Rubik's cube](categories/3d.md#self-solving-rubiks-cube) | 3D & Spatial Scenes | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/rubiks-cube) |
-| `museum-007` | [Meteor hitting a city](categories/3d.md#meteor-hitting-a-city) | 3D & Spatial Scenes | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/meteor-city) |
-| `museum-011` | [Solar system simulation](categories/3d.md#solar-system-simulation) | 3D & Spatial Scenes | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/solar-system) |
-| `museum-020` | [Earth-Mars round trip](categories/3d.md#earth-mars-round-trip) | 3D & Spatial Scenes | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/mars-round-trip) |
-| `pelican-sdf-001` | [Interactive 3D pelican on a bicycle with SDFs](categories/3d.md#interactive-3d-pelican-on-a-bicycle-with-sdfs) | 3D & Spatial Scenes | Prompt + output | [Pelican SDF](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt) |
-| `reddit-thriller-thriller` | [Synchronized multi-character Three.js dance](categories/3d.md#synchronized-multi-character-threejs-dance) | 3D & Spatial Scenes | Prompt + output | [r/LocalLLaMA 原帖及评论 / original thread and comments](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) |
-| `x-dotey-2102940980379017293` | [Explorable Peach Blossom Land](categories/3d.md#explorable-peach-blossom-land) | 3D & Spatial Scenes | Work adaptation | [@dotey / X](https://x.com/dotey/status/2102940980379017293) |
-| `x-ishuagra02-2102543638689460488` | [Photo-to-cel-shaded autumn railway](categories/3d.md#photo-to-cel-shaded-autumn-railway) | 3D & Spatial Scenes | Work adaptation | [@ishuagra02 / X](https://x.com/ishuagra02/status/2102543638689460488) |
-| `x-studio_veco-2102684366996738511` | [Word-driven soft-colored village](categories/3d.md#word-driven-soft-colored-village) | 3D & Spatial Scenes | Work adaptation | [@studio_veco / X](https://x.com/studio_veco/status/2102684366996738511) |
-| `x-superalesha-2102779758408774104` | [From accelerator tunnel to proton collision](categories/3d.md#from-accelerator-tunnel-to-proton-collision) | 3D & Spatial Scenes | Work adaptation | [@superalesha / X](https://x.com/superalesha/status/2102779758408774104) |
-| `x-techartist_-2102503719762018434` | [From line sketch to 3D house](categories/3d.md#from-line-sketch-to-3d-house) | 3D & Spatial Scenes | Work adaptation | [@techartist_ / X](https://x.com/techartist_/status/2102503719762018434) |
-| `psydox-09` | [Python software-rendered 3D game](categories/3d.md#python-software-rendered-3d-game) | 3D & Spatial Scenes | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/09_Python_Software_Rendered_3D_Game_Test.txt) |
-| `google-studio-neon_arena_laser_tag` | [Neon Arena multiplayer laser tag](categories/games.md#neon-arena-multiplayer-laser-tag) | Games | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
-| `google-studio-neon_claw` | [Neon Claw physics claw machine](categories/games.md#neon-claw-physics-claw-machine) | Games | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
-| `museum-006` | [One-shot kart racing game](categories/games.md#one-shot-kart-racing-game) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/kart-racer) |
-| `museum-009` | [Flappy Bird in one file](categories/games.md#flappy-bird-in-one-file) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/flappy-bird) |
-| `museum-010` | [Tetris in one file](categories/games.md#tetris-in-one-file) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/tetris) |
-| `museum-015` | [3D flight game among skyscrapers](categories/games.md#3d-flight-game-among-skyscrapers) | Games | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/flight-sim) |
-| `sac-little-prince` | [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars) | Games | Prompt + output | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
-| `stock42-tetris-3d` | [3D-style Tetris with sound and scores](categories/games.md#3d-style-tetris-with-sound-and-scores) | Games | Prompt + output | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) |
-| `x-dangreenheck-2103004432786993341` | [Coastal fishing and trading game](categories/games.md#coastal-fishing-and-trading-game) | Games | Work adaptation | [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) |
-| `x-nachat_dayo-2102773498037023140` | [Harpoon fishing game](categories/games.md#harpoon-fishing-game) | Games | Work adaptation | [@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140) |
-| `x-oguzthedev-2102476490344730950` | [Flower planting and beekeeping game](categories/games.md#flower-planting-and-beekeeping-game) | Games | Work adaptation | [@oguzthedev / X](https://x.com/oguzthedev/status/2102476490344730950) |
-| `psydox-01` | [Single-file raycasting FPS](categories/games.md#single-file-raycasting-fps) | Games | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/01_Browser_FPS_Raycasting_Game_Test.txt) |
-| `psydox-03` | [Memory matching with best scores](categories/games.md#memory-matching-with-best-scores) | Games | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/03_Memory_Card_Matching_Game_Test.txt) |
-| `psydox-04` | [Canvas Breakout](categories/games.md#canvas-breakout) | Games | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/04_Breakout_Canvas_Game_Test.txt) |
-| `psydox-06` | [Top-down 2D driving game](categories/games.md#top-down-2d-driving-game) | Games | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/06_Top_Down_2D_Driving_Game_Test.txt) |
-| `between-tokens-interactive-story` | [An interactive story where you are the model](categories/applications.md#an-interactive-story-where-you-are-the-model) | Apps & Interaction | Prompt + output | [Chris Zaharia / Between Tokens](https://news.ycombinator.com/item?id=49311484) |
-| `google-studio-cosmic_flow` | [Cosmic Flow shared particles](categories/applications.md#cosmic-flow-shared-particles) | Apps & Interaction | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
-| `google-studio-geoseeker` | [GeoSeeker map interaction app](categories/applications.md#geoseeker-map-interaction-app) | Apps & Interaction | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
-| `google-studio-heirloom_recipes` | [Heirloom Recipes collaborative cookbook](categories/applications.md#heirloom-recipes-collaborative-cookbook) | Apps & Interaction | Official demo | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
-| `museum-012` | [An operating system in one HTML file](categories/applications.md#an-operating-system-in-one-html-file) | Apps & Interaction | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/web-os-desktop) |
-| `museum-014` | [Brick builder](categories/applications.md#brick-builder) | Apps & Interaction | Prompt + output | [AI Test Museum](https://aitestmuseum.com/zh/tests/brick-builder) |
-| `x-petergyang-2102849349122470205` | [Upload a photo and watch it painted](categories/applications.md#upload-a-photo-and-watch-it-painted) | Apps & Interaction | Work adaptation | [@petergyang / X](https://x.com/petergyang/status/2102849349122470205) |
-| `x-ryansael-2102591147927654847` | [Interactive focus and aperture lab](categories/applications.md#interactive-focus-and-aperture-lab) | Apps & Interaction | Work adaptation | [@RyanSael / X](https://x.com/RyanSael/status/2102591147927654847) |
-| `x-scheemunai-2103059885361598633` | [Bedroom bed-placement planner](categories/applications.md#bedroom-bed-placement-planner) | Apps & Interaction | Work adaptation | [@scheemunai / X](https://x.com/scheemunai/status/2103059885361598633) |
-| `psydox-05` | [Persistent personal expense tracker](categories/applications.md#persistent-personal-expense-tracker) | Apps & Interaction | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/05_Personal_Expense_Tracker_App_Test.txt) |
-| `psydox-07` | [Drag-and-drop Kanban board](categories/applications.md#drag-and-drop-kanban-board) | Apps & Interaction | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/07_Kanban_Board_App_Test.txt) |
-| `psydox-08` | [Python standard-library layered editor](categories/applications.md#python-standard-library-layered-editor) | Apps & Interaction | Prompt only | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/08_Python_GUI_Photoshop_Clone_Test.txt) |
+<a id="category-games"></a>
+
+## Games
+
+- [One-shot kart racing game](categories/games.md#one-shot-kart-racing-game)
+- [Flappy Bird in one file](categories/games.md#flappy-bird-in-one-file)
+- [Tetris](COLLECTIONS.md#museum-010)
+- [3D flight game among skyscrapers](categories/games.md#3d-flight-game-among-skyscrapers)
+- [Neon Arena multiplayer laser tag](categories/games.md#neon-arena-multiplayer-laser-tag)
+- [Neon Claw physics claw machine](categories/games.md#neon-claw-physics-claw-machine)
+- [Coastal fishing and trading game](categories/games.md#coastal-fishing-and-trading-game)
+- [Harpoon fishing game](categories/games.md#harpoon-fishing-game)
+- [Flower planting and beekeeping game](categories/games.md#flower-planting-and-beekeeping-game)
+- [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars)
+
+<a id="category-3d"></a>
+
+## 3D & Spaces
+
+- [Voxel pagoda garden](categories/3d.md#voxel-pagoda-garden)
+- [Minecraft in three.js](categories/3d.md#minecraft-in-threejs)
+- [Self-solving Rubik's cube](categories/3d.md#self-solving-rubiks-cube)
+- [Meteor hitting a city](categories/3d.md#meteor-hitting-a-city)
+- [Solar system simulation](categories/3d.md#solar-system-simulation)
+- [Earth-Mars round trip](categories/3d.md#earth-mars-round-trip)
+- [Ray-marched psychedelic metaballs](categories/3d.md#ray-marched-psychedelic-metaballs)
+- [Synchronized multi-character Three.js dance](categories/3d.md#synchronized-multi-character-threejs-dance)
+- [Explorable Peach Blossom Land](categories/3d.md#explorable-peach-blossom-land)
+- [Photo-to-cel-shaded autumn railway](categories/3d.md#photo-to-cel-shaded-autumn-railway)
+- [From accelerator tunnel to proton collision](categories/3d.md#from-accelerator-tunnel-to-proton-collision)
+- [From line sketch to 3D house](categories/3d.md#from-line-sketch-to-3d-house)
+- [Word-driven soft-colored village](categories/3d.md#word-driven-soft-colored-village)
+
+<a id="category-animation"></a>
+
+## Animation & Physics
+
+- [Pelican on a Bicycle](COLLECTIONS.md#museum-001)
+- [Bouncing Balls and Collisions](COLLECTIONS.md#museum-002)
+- [Supernova explosion](categories/animation.md#supernova-explosion)
+- [Drowned Gothic city shader](categories/animation.md#drowned-gothic-city-shader)
+- [Hand-controlled particles](categories/animation.md#hand-controlled-particles)
+- [Starship control panel](categories/animation.md#starship-control-panel)
+- [Analog clock showing 10:10](categories/animation.md#analog-clock-showing-1010)
+- [Autonomous aquarium](categories/animation.md#autonomous-aquarium)
+- [Wandering and egg-laying chicken](categories/animation.md#wandering-and-egg-laying-chicken)
+- [Autonomous fireworks particles](categories/animation.md#autonomous-fireworks-particles)
+- [Vehicle collision and restart](categories/animation.md#vehicle-collision-and-restart)
+- [Pi through block collisions](categories/animation.md#pi-through-block-collisions)
+- [Galton board and bell curve](categories/animation.md#galton-board-and-bell-curve)
+- [Mandelbrot fractal drawn with Li Bai characters](categories/animation.md#mandelbrot-fractal-drawn-with-li-bai-characters)
+- [Interactive fractal visualization](categories/animation.md#interactive-fractal-visualization)
+- [Interactive double-slit interference](categories/animation.md#interactive-double-slit-interference)
+- [Chaotic Pendulums](COLLECTIONS.md#google-sim-double-pendulum)
+- [Glass bridge fracture and loading](categories/animation.md#glass-bridge-fracture-and-loading)
+- [Code film of four seasons through a train window](categories/animation.md#code-film-of-four-seasons-through-a-train-window)
+- [Inverse-kinematics pixel horse](categories/animation.md#inverse-kinematics-pixel-horse)
+- [Interactive steam-morph stop motion](categories/animation.md#interactive-steam-morph-stop-motion)
+- [Reassembling glass-and-gold mosaic](categories/animation.md#reassembling-glass-and-gold-mosaic)
+- [Autonomous cosmic pixel dash](categories/animation.md#autonomous-cosmic-pixel-dash)
+- [Pixel animation of neural-network training](categories/animation.md#pixel-animation-of-neural-network-training)
+- [40-second coded browser explainer](categories/animation.md#40-second-coded-browser-explainer)
+- [Blender claymation-style animation](categories/animation.md#blender-claymation-style-animation)
+- [JavaScript music-theory audiovisual](categories/animation.md#javascript-music-theory-audiovisual)
+
+<a id="category-applications"></a>
+
+## Apps & Interaction
+
+- [An operating system in one HTML file](categories/applications.md#an-operating-system-in-one-html-file)
+- [Brick builder](categories/applications.md#brick-builder)
+- [Cosmic Flow shared particles](categories/applications.md#cosmic-flow-shared-particles)
+- [GeoSeeker map interaction app](categories/applications.md#geoseeker-map-interaction-app)
+- [Heirloom Recipes collaborative cookbook](categories/applications.md#heirloom-recipes-collaborative-cookbook)
+- [An interactive story where you are the model](categories/applications.md#an-interactive-story-where-you-are-the-model)
+- [Upload a photo and watch it painted](categories/applications.md#upload-a-photo-and-watch-it-painted)
+- [Interactive focus and aperture lab](categories/applications.md#interactive-focus-and-aperture-lab)
+- [Bedroom bed-placement planner](categories/applications.md#bedroom-bed-placement-planner)
+
+<a id="category-svg"></a>
+
+## SVG Art
+
+- [Odd Creatures and Machines](COLLECTIONS.md#svg-001)
+- [Draw a unicorn in SVG](categories/svg.md#draw-a-unicorn-in-svg)
+- [Render the final PGN position as SVG](categories/svg.md#render-the-final-pgn-position-as-svg)
+
+[8 hands-on prompts](https://java4ye.github.io/awesome-ai-fun/site/#prompt-library)

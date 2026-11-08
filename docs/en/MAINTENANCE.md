@@ -12,9 +12,9 @@ Collect submissions through Issues. Before adding a work, check for duplicates a
 - `data/sources.json`: source directory.
 - `data/history.json`: source-reported historical outputs, models, conditions and licensed local previews.
 - `data/showcase.json`: per-case source images, video posters and historical captures, distinguishing open licenses from unverified source references.
-- `data/research.json`: community source records and research leads.
+- `data/research.json`: community source and verification records for catalog entries. Keep unreviewed leads outside the repository.
 
-The README, category pages, and website share the catalog. The README and website show every work and collection by category. Open `site/index.html` to browse locally. Collections in `WORK_GROUPS` preserve catalog IDs and categories. The playable filter uses interactive destinations rather than source posts or videos.
+The README, work index, and gallery share the same list of works and collections. Each collection has one index entry with links to its individual works. Prompt-only entries appear separately in the gallery's prompt library. Open `site/index.html` to browse locally. Define collections in `WORK_GROUPS` and keep existing case IDs stable. The playable filter lists works with interactive destinations.
 
 The build also writes `site/catalog.js`. Pushes to `main` validate the catalog and deploy the gallery and its covers to [GitHub Pages](https://java4ye.github.io/awesome-ai-fun/site/). The website uses the same catalog data as the README.
 

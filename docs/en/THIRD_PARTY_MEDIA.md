@@ -2,7 +2,7 @@
 
 [简体中文](../THIRD_PARTY_MEDIA.md) | **English**
 
-[Home](../../README.md) · [Historical outputs](HISTORY.md)
+[Home](../../README.md) · [Work index](INDEX.md)
 
 This collection indexes traceable historical model outputs. It does not require regenerating them with unavailable models. Model names, run dates, and environments follow source records. We have not independently verified their generation, and community tests are not vendor-official demonstrations or endorsements.
 
