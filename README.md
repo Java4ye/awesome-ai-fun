@@ -6,7 +6,9 @@
 >
 > Browse the previews, try something you like, or see how its creator made it.
 
-**62 works and collections** · [Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/) · [Full catalog](docs/en/INDEX.md)
+**[Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/)** · [Suggest a work](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case-en.md) · [Full catalog](docs/en/INDEX.md)
+
+**62 works and collections**
 
 ## All works
 
@@ -157,7 +159,7 @@
   </tr>
 </table>
 
-[8 hands-on prompts](docs/en/INDEX.md) · [Historical records](docs/en/HISTORY.md)
+[8 hands-on prompts](https://java4ye.github.io/awesome-ai-fun/site/#prompt-library) · [Historical records](docs/en/HISTORY.md)
 
 ## Suggest a work
 

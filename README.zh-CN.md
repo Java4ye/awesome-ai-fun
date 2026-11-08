@@ -6,7 +6,9 @@
 >
 > 往下看效果，喜欢就去试玩，或者看看作者是怎么做出来的。
 
-**62 个作品与专题** · [打开作品画廊](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh) · [完整索引](docs/INDEX.md)
+**[打开作品画廊](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)** · [推荐作品](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case.md) · [完整索引](docs/INDEX.md)
+
+**62 个作品与专题**
 
 ## 全部作品
 
@@ -157,7 +159,7 @@
   </tr>
 </table>
 
-[8 道动手题](docs/INDEX.md) · [历史记录](docs/HISTORY.md)
+[8 道动手题](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh#prompt-library) · [历史记录](docs/HISTORY.md)
 
 ## 推荐作品
 

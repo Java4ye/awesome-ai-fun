@@ -261,3 +261,13 @@ $('reset').addEventListener('click', () => {
 $('close').addEventListener('click', () => dialog.close());
 dialog.addEventListener('close', () => $('detail-body').replaceChildren());
 localize();
+
+function revealPromptLibrary() {
+  if (location.hash !== '#prompt-library') return;
+  const library = $('prompt-library');
+  library.open = true;
+  requestAnimationFrame(() => library.scrollIntoView({block: 'start'}));
+}
+
+window.addEventListener('hashchange', revealPromptLibrary);
+revealPromptLibrary();

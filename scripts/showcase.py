@@ -145,9 +145,11 @@ def render_homepages(cases,sources,history,records,categories,language):
     works,groups,prompts=collection_entries(cases)
     docs='docs/en/' if en else 'docs/'
     site='https://java4ye.github.io/awesome-ai-fun/site/' + ('' if en else '?lang=zh')
+    suggest='https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case' + ('-en' if en else '') + '.md'
     lines=[INTRO[language].rstrip(),'',
-        f'**{len(works)} works and collections** · [Open the gallery]({site}) · [Full catalog]({docs}INDEX.md)' if en else
-        f'**{len(works)} 个作品与专题** · [打开作品画廊]({site}) · [完整索引]({docs}INDEX.md)','',
+        f'**[Open the gallery]({site})** · [Suggest a work]({suggest}) · [Full catalog]({docs}INDEX.md)' if en else
+        f'**[打开作品画廊]({site})** · [推荐作品]({suggest}) · [完整索引]({docs}INDEX.md)','',
+        f'**{len(works)} works and collections**' if en else f'**{len(works)} 个作品与专题**','',
         '## All works' if en else '## 全部作品','',
         ' · '.join(f'[{names[en]}](#category-{key})' for key,names in CATEGORY_NAMES.items()),'']
     def a(label, url):
@@ -183,8 +185,8 @@ def render_homepages(cases,sources,history,records,categories,language):
             lines.extend(['    <td></td>']*(3-len(entries[offset:offset+3])))
             lines.append('  </tr>')
         lines.extend(['</table>',''])
-    lines.extend([f'[{len(prompts)} hands-on prompts]({docs}INDEX.md) · [Historical records]({docs}HISTORY.md)' if en else
-        f'[{len(prompts)} 道动手题]({docs}INDEX.md) · [历史记录]({docs}HISTORY.md)',''])
+    lines.extend([f'[{len(prompts)} hands-on prompts]({site}#prompt-library) · [Historical records]({docs}HISTORY.md)' if en else
+        f'[{len(prompts)} 道动手题]({site}#prompt-library) · [历史记录]({docs}HISTORY.md)',''])
     lines.extend(['## Suggest a work' if en else '## 推荐作品','',
         '[Open an Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) with an original link and a short description. Maintainers check submissions and update the collection. Please use Issues for submissions and corrections.' if en else '欢迎[提交 Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose)，附上原始链接和一句话介绍。维护者核对后统一收录；投稿和更正都走 Issue。','',
         f'[Sources]({docs}SOURCES.md) · [History]({docs}HISTORY.md) · [Research leads]({docs}RESEARCH.md) · [Guide]({docs}GUIDE.md) · [Maintenance]({docs}MAINTENANCE.md) · [Media credits]({docs}THIRD_PARTY_MEDIA.md) · [Changelog]({docs}CHANGELOG.md)' if en else f'[来源导航]({docs}SOURCES.md) · [历史档案]({docs}HISTORY.md) · [社区线索]({docs}RESEARCH.md) · [使用指南]({docs}GUIDE.md) · [维护说明]({docs}MAINTENANCE.md) · [素材署名]({docs}THIRD_PARTY_MEDIA.md) · [更新日志]({docs}CHANGELOG.md)','',
