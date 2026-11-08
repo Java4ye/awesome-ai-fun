@@ -159,10 +159,10 @@
 
 [8 hands-on prompts](docs/en/INDEX.md) · [Historical records](docs/en/HISTORY.md)
 
-## Contribute
+## Suggest a work
 
-Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).
+[Open an Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) with an original link and a short description. Maintainers check submissions and update the collection. Please use Issues for submissions and corrections.
 
-[Sources](docs/en/SOURCES.md) · [History](docs/en/HISTORY.md) · [Research leads](docs/en/RESEARCH.md) · [Guide](docs/en/GUIDE.md) · [Maintenance](docs/en/MAINTENANCE.md) · [Media credits](THIRD_PARTY_MEDIA.en.md)
+[Sources](docs/en/SOURCES.md) · [History](docs/en/HISTORY.md) · [Research leads](docs/en/RESEARCH.md) · [Guide](docs/en/GUIDE.md) · [Maintenance](docs/en/MAINTENANCE.md) · [Media credits](docs/en/THIRD_PARTY_MEDIA.md) · [Changelog](docs/en/CHANGELOG.md)
 
 Previews are credited to their sources. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights.

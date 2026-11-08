@@ -1,6 +1,6 @@
 ---
 name: Recommend a source website (English)
-about: Suggest a collection of interesting AI challenges
+about: Suggest a site where we can discover original AI creations
 labels: enhancement
 assignees: []
 ---
@@ -9,6 +9,6 @@ assignees: []
 
 **What does it collect?**
 
-**At least one specific challenge worth adding:**
+**An example worth adding (link to the original creator if known):**
 
 **Original, curated, or republished material (if known):**

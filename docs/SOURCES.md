@@ -42,7 +42,7 @@
 - **项目**：[AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)
 - **题面与版本**：[固定版本原题](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)
 - **本库收录**：1 道独立的 3D SDF 鹈鹕骑车题，不与 SVG 动画题混为一题。
-- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [3D 鹈鹕案例详情](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车)和[第三方素材说明](../THIRD_PARTY_MEDIA.md)。
+- **素材**：从固定提交保存 5 张原项目缩略图、对应运行记录和完整 MIT 许可证。详见 [3D 鹈鹕案例详情](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车)和[第三方素材说明](THIRD_PARTY_MEDIA.md)。
 - **条件**：上游模型输出来自不同 CLI / SDK 环境，记录标为 unverified；本库未独立复现，不用缩略图建立成绩排名。
 
 ## David Harris / LocalLLM Visual Code Test

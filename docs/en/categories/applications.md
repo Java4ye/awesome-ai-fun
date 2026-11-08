@@ -53,7 +53,7 @@ The author reports two mobile fixes. Replies and attention highlights are author
 
 **Model:** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google_AIS_FSR_CosmicFlow_05_DR.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google_AIS_FSR_CosmicFlow_05_DR.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -90,7 +90,7 @@ Linked and described in the official article. Remix/play requires Google sign-in
 
 **Model:** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_GeoSeeker_07-DR.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_GeoSeeker_07-DR.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -127,7 +127,7 @@ Linked and described in the official article. Remix/play requires Google sign-in
 
 **Model:** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_HeirloomRecipes_010_ss.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_HeirloomRecipes_010_ss.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -164,7 +164,7 @@ Linked and described in the official article. Remix/play requires Google sign-in
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -200,7 +200,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -236,7 +236,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Opus 5.5 · **Author / publisher:** @petergyang
 
-Image: @petergyang · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @petergyang · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -273,7 +273,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @RyanSael
 
-Image: @RyanSael · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @RyanSael · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -310,7 +310,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @scheemunai
 
-Image: @scheemunai · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @scheemunai · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 

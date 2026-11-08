@@ -88,4 +88,4 @@ python -m unittest discover -s tests -v
 
 仅链接条目使用 `rights: link_only`。保存预览的条目必须包含具体许可依据、许可证副本、固定源提交、原图地址、SHA-256 和原始运行记录快照。当前支持 MIT 许可的本地预览；新增其他许可先补充明确的处理规则。来源方的未验证状态不改为本库实测。
 
-更多说明见[第三方素材与更正](../THIRD_PARTY_MEDIA.md)。
+更多说明见[第三方素材与更正](THIRD_PARTY_MEDIA.md)。

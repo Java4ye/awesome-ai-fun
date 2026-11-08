@@ -16,7 +16,7 @@
 
 **Model:** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_LaserTag_06-DR.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_LaserTag_06-DR.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -53,7 +53,7 @@ Linked and described in the official article. Remix/play requires Google sign-in
 
 **Model:** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_NeonClaw_v06_1.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_NeonClaw_v06_1.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -90,7 +90,7 @@ Linked and described in the official article. Remix/play requires Google sign-in
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -126,7 +126,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -162,7 +162,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -198,7 +198,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -234,7 +234,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · Tripo · Blender · Unity · **Author / publisher:** Sac (@Saccc_c)
 
-Image: Sac (@Saccc_c) · [Original image / work](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Sac (@Saccc_c) · [Original image / work](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 The cover is a game frame from Sac’s original demo video.
 
@@ -271,7 +271,7 @@ The original post and making-of guide document an AI-assisted workflow. This is 
 
 **Model:** GPT-5.5 / Codex · **Author / publisher:** stock42
 
-Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -345,7 +345,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus5.5 · **Author / publisher:** @nachat_dayo
 
-Image: @nachat_dayo · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @nachat_dayo · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -382,7 +382,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @oguzthedev
 
-Image: @oguzthedev · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @oguzthedev · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 

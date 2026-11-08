@@ -2,7 +2,9 @@
 
 [简体中文](../MAINTENANCE.md) | **English**
 
-[Home](../../README.md) · [Contribution guide](../../CONTRIBUTING.en.md)
+[Home](../../README.md) · [Submissions and feedback](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose)
+
+Collect submissions through Issues. Before adding a work, check for duplicates and distinguish the original creator from a republisher. Leave undisclosed models, run dates, and conditions unknown, and keep the two languages equivalent.
 
 ## Editing sources
 
@@ -31,4 +33,4 @@ Do not edit generated READMEs, categories, indexes or gallery pages directly. Th
 
 Use an actual output for the corresponding case. Preserve author, model, image source, pinned revision and license. Images and GIFs display inline; full videos link to original playback pages. Cases without media stay pending, without unrelated illustrations or blank placeholder images.
 
-`history.py` checks existing thumbnails and source snapshots. `showcase.py` checks new capture paths, dates, SHA-256 hashes, and external URL fields. Source references must retain `license_status: not_verified` rather than implying permission. See the [media notice](../../THIRD_PARTY_MEDIA.en.md).
+`history.py` checks existing thumbnails and source snapshots. `showcase.py` checks new capture paths, dates, SHA-256 hashes, and external URL fields. Source references must retain `license_status: not_verified` rather than implying permission. See the [media notice](THIRD_PARTY_MEDIA.md).

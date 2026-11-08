@@ -207,7 +207,8 @@ function localize() {
   $('language').textContent = lang ? '简体中文' : 'English';
   $('language').lang = lang ? 'zh-CN' : 'en';
   $('close').setAttribute('aria-label', t('close'));
-  $('credits').href = 'https://github.com/Java4ye/awesome-ai-fun/blob/main/THIRD_PARTY_MEDIA' + (lang ? '.en' : '') + '.md';
+  $('credits').href = 'https://github.com/Java4ye/awesome-ai-fun/blob/main/docs/' + (lang ? 'en/' : '') + 'THIRD_PARTY_MEDIA.md';
+  $('suggest').href = 'https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case' + (lang ? '-en' : '') + '.md';
   $('prompt-label').textContent = lang ? `Hands-on prompts · ${catalog.prompts.length}` : `动手题库 · ${catalog.prompts.length} 道题`;
   $('prompts').replaceChildren(...catalog.prompts.map(p => {
     const item = node('li');

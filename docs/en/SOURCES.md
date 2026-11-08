@@ -42,7 +42,7 @@ An interactive 3D SDF pelican challenge with original outputs, run records, and 
 - **Project**: [AzatJalilov/PelicanSdf](https://github.com/AzatJalilov/PelicanSdf)
 - **Versioned task**: [fixed prompt](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt)
 - **Indexed here**: one separate 3D SDF pelican task, distinct from the SVG animation.
-- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [3D pelican case details](categories/3d.md#interactive-3d-pelican-on-a-bicycle-with-sdfs) and the [media notice](../../THIRD_PARTY_MEDIA.en.md).
+- **Media**: five unchanged upstream thumbnails, matching run records, and the full MIT license from a fixed revision. See [3D pelican case details](categories/3d.md#interactive-3d-pelican-on-a-bicycle-with-sdfs) and the [media notice](THIRD_PARTY_MEDIA.md).
 - **Context**: upstream runs use different CLI / SDK environments and remain unverified. We have not reproduced them or ranked models from thumbnails.
 
 ## David Harris / LocalLLM Visual Code Test

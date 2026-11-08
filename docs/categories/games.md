@@ -18,7 +18,7 @@
 
 **模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_LaserTag_06-DR.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_LaserTag_06-DR.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -57,7 +57,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_NeonClaw_v06_1.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_NeonClaw_v06_1.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -96,7 +96,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/kart-racer/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -134,7 +134,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/flappy-bird/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -172,7 +172,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/tetris/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -210,7 +210,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/flight-sim/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -248,7 +248,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · Tripo · Blender · Unity · **作者 / 发布者：** Sac (@Saccc_c)
 
-图片署名：Sac (@Saccc_c) · [原图 / 作品出处](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Sac (@Saccc_c) · [原图 / 作品出处](https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 封面取自 Sac 首发演示视频的实际游戏画面。
 
@@ -287,7 +287,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** GPT-5.5 / Codex · **作者 / 发布者：** stock42
 
-图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/tetris-3d/index.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -365,7 +365,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus5.5 · **作者 / 发布者：** @nachat_dayo
 
-图片署名：@nachat_dayo · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@nachat_dayo · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -404,7 +404,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @oguzthedev
 
-图片署名：@oguzthedev · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@oguzthedev · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 

@@ -16,7 +16,7 @@
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -54,7 +54,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -92,7 +92,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -130,7 +130,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -168,7 +168,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -206,7 +206,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -244,7 +244,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -282,7 +282,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -320,7 +320,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -358,7 +358,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -396,7 +396,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -434,7 +434,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -472,7 +472,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -510,7 +510,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -548,7 +548,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -586,7 +586,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -624,7 +624,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -662,7 +662,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -700,7 +700,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -738,7 +738,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -776,7 +776,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -814,7 +814,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -852,7 +852,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -890,7 +890,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -928,7 +928,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -966,7 +966,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -1004,7 +1004,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -1042,7 +1042,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -1080,7 +1080,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -1118,7 +1118,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Gemini 2.5 Pro · **Author / publisher:** Tom Gally / Pelican-bicycle alternatives
 
-Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Tom Gally / Pelican-bicycle alternatives · [Original image / work](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Historical Gemini 2.5 Pro SVG output displayed by the source; click to view it.
 
@@ -1156,7 +1156,7 @@ Source 2025 round: default settings, one plain user message, no system prompt. E
 
 **Model:** Qwen3.6 27B · BF16（原画廊首图 / first source-gallery image） · **Author / publisher:** u/bobaburger
 
-Image: u/bobaburger · [Original image / work](https://qwen3-6-27b-benchmark.vercel.app/) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: u/bobaburger · [Original image / work](https://qwen3-6-27b-benchmark.vercel.app/) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -1193,7 +1193,7 @@ Historical outputs in the post or comments, reported by participants. Execution 
 
 **Model:** 以来源画面为准 / See source · **Author / publisher:** Spring Prompt
 
-Image: Spring Prompt · [Original image / work](https://springprompt.com/playground/unicorn) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Spring Prompt · [Original image / work](https://springprompt.com/playground/unicorn) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 

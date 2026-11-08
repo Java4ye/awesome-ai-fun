@@ -18,7 +18,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt1.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -58,7 +58,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt2.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -98,7 +98,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt3.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -138,7 +138,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt4.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -178,7 +178,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt5.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -218,7 +218,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt6.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -258,7 +258,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt7.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -298,7 +298,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt8.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -338,7 +338,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt9.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -378,7 +378,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt10.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -418,7 +418,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt11.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -458,7 +458,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt12.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -498,7 +498,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt13.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -538,7 +538,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt14.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -578,7 +578,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt15.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -618,7 +618,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt16.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -658,7 +658,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt17.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -698,7 +698,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt18.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -738,7 +738,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt19.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -778,7 +778,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt20.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -818,7 +818,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt21.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -858,7 +858,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt22.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -898,7 +898,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt23.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -938,7 +938,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt24.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -978,7 +978,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt25.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -1018,7 +1018,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt26.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -1058,7 +1058,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt27.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -1098,7 +1098,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt28.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -1138,7 +1138,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt29.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -1178,7 +1178,7 @@
 
 **模型：** Gemini 2.5 Pro · **作者 / 发布者：** Tom Gally / Pelican-bicycle alternatives
 
-图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Tom Gally / Pelican-bicycle alternatives · [原图 / 作品出处](https://gally.net/temp/20260914pelican-alternatives/svgs/google_gemini-2.5-pro_prompt30.svg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原站展示的 Gemini 2.5 Pro 历史 SVG 输出，点击查看原图。
 
@@ -1218,7 +1218,7 @@
 
 **模型：** Qwen3.6 27B · BF16（原画廊首图 / first source-gallery image） · **作者 / 发布者：** u/bobaburger
 
-图片署名：u/bobaburger · [原图 / 作品出处](https://qwen3-6-27b-benchmark.vercel.app/) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：u/bobaburger · [原图 / 作品出处](https://qwen3-6-27b-benchmark.vercel.app/) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -1257,7 +1257,7 @@
 
 **模型：** 以来源画面为准 / See source · **作者 / 发布者：** Spring Prompt
 
-图片署名：Spring Prompt · [原图 / 作品出处](https://springprompt.com/playground/unicorn) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Spring Prompt · [原图 / 作品出处](https://springprompt.com/playground/unicorn) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 

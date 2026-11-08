@@ -57,7 +57,7 @@
 
 **模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google_AIS_FSR_CosmicFlow_05_DR.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google_AIS_FSR_CosmicFlow_05_DR.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -96,7 +96,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_GeoSeeker_07-DR.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Google-AIS-FSR_GeoSeeker_07-DR.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -135,7 +135,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Google AI Studio agent（未列具体模型 / exact model undisclosed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_HeirloomRecipes_010_ss.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/FSR_HeirloomRecipes_010_ss.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -174,7 +174,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/web-os-desktop/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -212,7 +212,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/brick-builder/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -250,7 +250,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @petergyang
 
-图片署名：@petergyang · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@petergyang · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -289,7 +289,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @RyanSael
 
-图片署名：@RyanSael · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@RyanSael · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -328,7 +328,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @scheemunai
 
-图片署名：@scheemunai · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@scheemunai · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 

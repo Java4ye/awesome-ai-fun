@@ -16,7 +16,7 @@
 
 **Model:** GLM-4-32B-0414-F16-Q4_K_M · **Author / publisher:** David Harris / electricazimuth
 
-Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_aquarium_20250425_171639.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_aquarium_20250425_171639.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -53,7 +53,7 @@ Source-published output, not executed here. Refer to the source for the prompt, 
 
 **Model:** GLM-4-32B-0414-F16-Q4_K_M · **Author / publisher:** David Harris / electricazimuth
 
-Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_ball_bound_20250425_172122.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_ball_bound_20250425_172122.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -90,7 +90,7 @@ Source-published output, not executed here. Refer to the source for the prompt, 
 
 **Model:** GLM-4-32B-0414-F16-Q4_K_M · **Author / publisher:** David Harris / electricazimuth
 
-Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_chicken_20250425_172543.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_chicken_20250425_172543.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -127,7 +127,7 @@ Source-published output, not executed here. Refer to the source for the prompt, 
 
 **Model:** GLM-4-32B-0414-F16-Q4_K_M · **Author / publisher:** David Harris / electricazimuth
 
-Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_fireworks_20250425_172956.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_fireworks_20250425_172956.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -164,7 +164,7 @@ Source-published output, not executed here. Refer to the source for the prompt, 
 
 **Model:** claude37（原站名称 / source label） · **Author / publisher:** David Harris / electricazimuth
 
-Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/claude37_vehicles_20250425_174000.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: David Harris / electricazimuth · [Original image / work](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/claude37_vehicles_20250425_174000.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -201,7 +201,7 @@ Source-published output, not executed here. Refer to the source for the prompt, 
 
 **Model:** Gemini Pro（官方未列完整版本 / exact version not listed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/2_GeminiHacks_Fractal_NoPrompt_16x9.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/2_GeminiHacks_Fractal_NoPrompt_16x9.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -238,7 +238,7 @@ Demo videos appear in the official article. Example requests are public; full sy
 
 **Model:** Gemini Pro（官方未列完整版本 / exact version not listed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/4_GeminiHacks_DoubleSlit_NoPrompt_16x9.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/4_GeminiHacks_DoubleSlit_NoPrompt_16x9.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -275,7 +275,7 @@ Demo videos appear in the official article. Example requests are public; full sy
 
 **Model:** Gemini Pro（官方未列完整版本 / exact version not listed） · **Author / publisher:** Google
 
-Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/PENDULUM_NEW_FINAL_1.mp4) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: Google · [Original image / work](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/PENDULUM_NEW_FINAL_1.mp4) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the official Google demo video; click to play the original.
 
@@ -312,7 +312,7 @@ Demo videos appear in the official article. Example requests are public; full sy
 
 **Model:** 原仓库未标明 / Not disclosed · **Author / publisher:** KCORES team
 
-Image: KCORES team · [Original image / work](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/assets/images/ball-bouncing-gif.gif) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: KCORES team · [Original image / work](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/assets/images/ball-bouncing-gif.gif) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Multi-model view from the source heptagon animation; click to open the original.
 
@@ -349,7 +349,7 @@ The source selects the best of three runs per model. Not directly comparable wit
 
 **Model:** Gemini-2.5-Pro-Experimental-03-25 · **Author / publisher:** KCORES team
 
-Image: KCORES team · [Original image / work](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/src/mandelbrot-set-meet-libai-benchmark-Gemini-2.5-Pro-Experimental-03-25-turn-2-high-score.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: KCORES team · [Original image / work](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/src/mandelbrot-set-meet-libai-benchmark-Gemini-2.5-Pro-Experimental-03-25-turn-2-high-score.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -386,7 +386,7 @@ The source selects the best of three runs per model. Not directly comparable wit
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/pelican-bicycle/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/pelican-bicycle/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -422,7 +422,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/bouncing-ball-hexagon/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/bouncing-ball-hexagon/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -458,7 +458,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/supernova/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/supernova/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -494,7 +494,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/drowned-gothic-city/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/drowned-gothic-city/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -530,7 +530,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/hand-gesture-particles/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/hand-gesture-particles/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -566,7 +566,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/tesseract-ball/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/tesseract-ball/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -602,7 +602,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/starship-control-panel/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/starship-control-panel/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -638,7 +638,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** Claude Opus 5.5 · **Author / publisher:** AI Test Museum
 
-Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/ai-world-clock/output.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: AI Test Museum · [Original image / work](https://aitestmuseum.com/results/claude-opus-5-5/ai-world-clock/output.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -674,7 +674,7 @@ Source Claude Code agent environment with its system context, not a bare API cal
 
 **Model:** GPT-5.6 SOL / Grok 4.5 Pro（来源标记 / source label） · **Author / publisher:** @EntelligenceAI
 
-Image: @EntelligenceAI · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2075281891473952768/img/VhOVFPL17_NDgdBU.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @EntelligenceAI · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2075281891473952768/img/VhOVFPL17_NDgdBU.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -711,7 +711,7 @@ Historical outputs in the post or comments, reported by participants. Execution 
 
 **Model:** GPT-5.5 / Codex · **Author / publisher:** stock42
 
-Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/triple-pendulum/index.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/triple-pendulum/index.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -748,7 +748,7 @@ The link opens historical HTML source, not a hosted demo. RESULTS.md lists two a
 
 **Model:** GPT-5.5 / Codex · **Author / publisher:** stock42
 
-Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/1kg-block-bounces/index.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/1kg-block-bounces/index.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -785,7 +785,7 @@ The link opens historical HTML source, not a hosted demo. RESULTS.md lists two a
 
 **Model:** GPT-5.5 / Codex · **Author / publisher:** stock42
 
-Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/balls-fall/index.html) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: stock42 · [Original image / work](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/balls-fall/index.html) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Browser capture of a source-published historical work (2026-11-08), not a new model run. A still does not establish functional correctness.
 
@@ -822,7 +822,7 @@ The link opens historical HTML source, not a hosted demo. RESULTS.md lists two a
 
 **Model:** Opus 5.5 · **Author / publisher:** @addyosmani
 
-Image: @addyosmani · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @addyosmani · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -859,7 +859,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @alexalbert__
 
-Image: @alexalbert__ · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @alexalbert__ · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -896,7 +896,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @chetaslua
 
-Image: @chetaslua · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @chetaslua · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -933,7 +933,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @dadabots
 
-Image: @dadabots · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2103038366216294400/img/yB5hzAfoYKrVTEBZ.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @dadabots · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2103038366216294400/img/yB5hzAfoYKrVTEBZ.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -970,7 +970,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @DotCSV
 
-Image: @DotCSV · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @DotCSV · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -1007,7 +1007,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @itsolelehmann
 
-Image: @itsolelehmann · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @itsolelehmann · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -1044,7 +1044,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @LCSlates
 
-Image: @LCSlates · [Original image / work](https://video.twimg.com/amplify_video/2102502315185803264/vid/avc1/1080x1080/sAv8kDNKSV7KmtgO.mp4?tag=29) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @LCSlates · [Original image / work](https://video.twimg.com/amplify_video/2102502315185803264/vid/avc1/1080x1080/sAv8kDNKSV7KmtgO.mp4?tag=29) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 A frame captured from the source demo video; click to play the original.
 
@@ -1081,7 +1081,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** opus 5.5 · **Author / publisher:** @riku720720
 
-Image: @riku720720 · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @riku720720 · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 
@@ -1118,7 +1118,7 @@ Post ID, account and text checked via the public FxTwitter reader; no X login, i
 
 **Model:** Opus 5.5 · **Author / publisher:** @victormustar
 
-Image: @victormustar · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg) · [Media notice](../../../THIRD_PARTY_MEDIA.en.md)
+Image: @victormustar · [Original image / work](https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
 
 Original-post video poster; click to play the source video.
 

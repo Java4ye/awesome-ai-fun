@@ -112,4 +112,4 @@
 | [纯 JavaScript 乐理视听实验](categories/animation.md#纯-javascript-乐理视听实验) | Opus 5.5 | 运行日期未公开 | [↗](https://x.com/dadabots/status/2103039181266338276) | [@dadabots](https://x.com/dadabots/status/2103039181266338276) |
 | [小王子：星辰之旅](categories/games.md#小王子星辰之旅) | Claude Opus 5.5 · Tripo · Blender · Unity | 多步骤创作，非单次运行 | [↗](https://littleprince.dev/) | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
 
-[素材署名与更正说明](../THIRD_PARTY_MEDIA.md)
+[素材署名与更正说明](THIRD_PARTY_MEDIA.md)

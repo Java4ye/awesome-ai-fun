@@ -92,6 +92,6 @@ def render_history(cases, records, language):
     for c in cases:
         for r in grouped[c['id']]:
             lines.append(f'| [{c["title"+suffix]}](categories/{c["category"]}.md#{slug(c["title"+suffix])}) | {r["model"]} | {r["run_period"+suffix]} | [↗]({r["output_url"]}) | [{r["publisher"]}]({r["source_url"]}) |')
-    notice = '[Media credits and corrections](../../THIRD_PARTY_MEDIA.en.md)' if en else '[素材署名与更正说明](../THIRD_PARTY_MEDIA.md)'
+    notice = '[Media credits and corrections](THIRD_PARTY_MEDIA.md)' if en else '[素材署名与更正说明](THIRD_PARTY_MEDIA.md)'
     lines.extend(['', notice, ''])
     return {base/'HISTORY.md': '\n'.join(lines)}

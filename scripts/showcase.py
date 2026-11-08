@@ -70,7 +70,7 @@ def image_lines(case, preview, language, prefix=''):
         f'**Model:** {preview["model"]} · **Author / publisher:** {preview["publisher"]}' if en else f'**模型：** {preview["model"]} · **作者 / 发布者：** {preview["publisher"]}','',
         f'Image: {preview["publisher"]} · [Original image / work]({image_source})' if en else f'图片署名：{preview["publisher"]} · [原图 / 作品出处]({image_source})','']
     if preview.get('rights')=='MIT':lines[-2]+=f' · [MIT]({prefix}{preview["license_file"]})'
-    else:lines[-2]+=f' · [Media notice]({prefix}THIRD_PARTY_MEDIA.en.md)' if en else f' · [素材说明]({prefix}THIRD_PARTY_MEDIA.md)'
+    else:lines[-2]+=f' · [Media notice]({prefix}docs/en/THIRD_PARTY_MEDIA.md)' if en else f' · [素材说明]({prefix}docs/THIRD_PARTY_MEDIA.md)'
     if preview.get('preview'):
         lines.extend([f'[Source run record]({preview["source_url"]})' if en else f'[来源运行记录]({preview["source_url"]})',''])
     if preview.get('run_date'):
@@ -185,9 +185,9 @@ def render_homepages(cases,sources,history,records,categories,language):
         lines.extend(['</table>',''])
     lines.extend([f'[{len(prompts)} hands-on prompts]({docs}INDEX.md) · [Historical records]({docs}HISTORY.md)' if en else
         f'[{len(prompts)} 道动手题]({docs}INDEX.md) · [历史记录]({docs}HISTORY.md)',''])
-    lines.extend(['## Contribute' if en else '## 欢迎补充','',
-        f'Share a challenge, an original preview or an attribution correction through [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) or a pull request. See the [contribution guide](CONTRIBUTING.en.md).' if en else '欢迎通过 [Issues](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) 或 Pull Request 补充题目、真实效果和原始出处，或纠正署名。详见[贡献指南](CONTRIBUTING.md)。','',
-        f'[Sources]({docs}SOURCES.md) · [History]({docs}HISTORY.md) · [Research leads]({docs}RESEARCH.md) · [Guide]({docs}GUIDE.md) · [Maintenance]({docs}MAINTENANCE.md) · [Media credits](THIRD_PARTY_MEDIA.en.md)' if en else f'[来源导航]({docs}SOURCES.md) · [历史档案]({docs}HISTORY.md) · [社区线索]({docs}RESEARCH.md) · [使用指南]({docs}GUIDE.md) · [维护说明]({docs}MAINTENANCE.md) · [素材署名](THIRD_PARTY_MEDIA.md)','',
+    lines.extend(['## Suggest a work' if en else '## 推荐作品','',
+        '[Open an Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose) with an original link and a short description. Maintainers check submissions and update the collection. Please use Issues for submissions and corrections.' if en else '欢迎[提交 Issue](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose)，附上原始链接和一句话介绍。维护者核对后统一收录；投稿和更正都走 Issue。','',
+        f'[Sources]({docs}SOURCES.md) · [History]({docs}HISTORY.md) · [Research leads]({docs}RESEARCH.md) · [Guide]({docs}GUIDE.md) · [Maintenance]({docs}MAINTENANCE.md) · [Media credits]({docs}THIRD_PARTY_MEDIA.md) · [Changelog]({docs}CHANGELOG.md)' if en else f'[来源导航]({docs}SOURCES.md) · [历史档案]({docs}HISTORY.md) · [社区线索]({docs}RESEARCH.md) · [使用指南]({docs}GUIDE.md) · [维护说明]({docs}MAINTENANCE.md) · [素材署名]({docs}THIRD_PARTY_MEDIA.md) · [更新日志]({docs}CHANGELOG.md)','',
         'Previews are credited to their sources. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights.' if en else '效果预览附原始出处。仓库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人。',''])
     readme=Path('README.md' if en else 'README.zh-CN.md')
     base=Path('docs/en') if en else Path('docs')

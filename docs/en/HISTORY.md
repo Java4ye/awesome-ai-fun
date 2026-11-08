@@ -112,4 +112,4 @@ Dates describe runs, not model releases. Publication dates are unknown unless re
 | [JavaScript music-theory audiovisual](categories/animation.md#javascript-music-theory-audiovisual) | Opus 5.5 | Run date not disclosed | [↗](https://x.com/dadabots/status/2103039181266338276) | [@dadabots](https://x.com/dadabots/status/2103039181266338276) |
 | [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars) | Claude Opus 5.5 · Tripo · Blender · Unity | Multi-step creation; no single run | [↗](https://littleprince.dev/) | [Sac (@Saccc_c)](https://x.com/Saccc_c/status/2109962425512734739) |
 
-[Media credits and corrections](../../THIRD_PARTY_MEDIA.en.md)
+[Media credits and corrections](THIRD_PARTY_MEDIA.md)

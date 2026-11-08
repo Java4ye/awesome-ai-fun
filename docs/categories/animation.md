@@ -18,7 +18,7 @@
 
 **模型：** GLM-4-32B-0414-F16-Q4_K_M · **作者 / 发布者：** David Harris / electricazimuth
 
-图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_aquarium_20250425_171639.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_aquarium_20250425_171639.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -57,7 +57,7 @@
 
 **模型：** GLM-4-32B-0414-F16-Q4_K_M · **作者 / 发布者：** David Harris / electricazimuth
 
-图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_ball_bound_20250425_172122.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_ball_bound_20250425_172122.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -96,7 +96,7 @@
 
 **模型：** GLM-4-32B-0414-F16-Q4_K_M · **作者 / 发布者：** David Harris / electricazimuth
 
-图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_chicken_20250425_172543.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_chicken_20250425_172543.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -135,7 +135,7 @@
 
 **模型：** GLM-4-32B-0414-F16-Q4_K_M · **作者 / 发布者：** David Harris / electricazimuth
 
-图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_fireworks_20250425_172956.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/GLM-4-32B-0414-F16-Q4_K_M_fireworks_20250425_172956.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -174,7 +174,7 @@
 
 **模型：** claude37（原站名称 / source label） · **作者 / 发布者：** David Harris / electricazimuth
 
-图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/claude37_vehicles_20250425_174000.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：David Harris / electricazimuth · [原图 / 作品出处](https://electricazimuth.github.io/LocalLLM_VisualCodeTest/results/2025.04.28/html/claude37_vehicles_20250425_174000.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -213,7 +213,7 @@
 
 **模型：** Gemini Pro（官方未列完整版本 / exact version not listed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/2_GeminiHacks_Fractal_NoPrompt_16x9.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/2_GeminiHacks_Fractal_NoPrompt_16x9.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -252,7 +252,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Gemini Pro（官方未列完整版本 / exact version not listed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/4_GeminiHacks_DoubleSlit_NoPrompt_16x9.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/4_GeminiHacks_DoubleSlit_NoPrompt_16x9.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -291,7 +291,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Gemini Pro（官方未列完整版本 / exact version not listed） · **作者 / 发布者：** Google
 
-图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/PENDULUM_NEW_FINAL_1.mp4) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：Google · [原图 / 作品出处](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/PENDULUM_NEW_FINAL_1.mp4) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 Google 官方演示视频的画面截图，点击播放原视频。
 
@@ -330,7 +330,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** 原仓库未标明 / Not disclosed · **作者 / 发布者：** KCORES team
 
-图片署名：KCORES team · [原图 / 作品出处](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/assets/images/ball-bouncing-gif.gif) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：KCORES team · [原图 / 作品出处](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/assets/images/ball-bouncing-gif.gif) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原仓库七边形弹球动画的多模型对照画面；点击打开原动画。
 
@@ -369,7 +369,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Gemini-2.5-Pro-Experimental-03-25 · **作者 / 发布者：** KCORES team
 
-图片署名：KCORES team · [原图 / 作品出处](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/src/mandelbrot-set-meet-libai-benchmark-Gemini-2.5-Pro-Experimental-03-25-turn-2-high-score.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：KCORES team · [原图 / 作品出处](https://raw.githubusercontent.com/KCORES/kcores-llm-arena/8f09c63e78189858377a760d03f69fb744b19aa2/benchmark-mandelbrot-set-meet-libai/src/mandelbrot-set-meet-libai-benchmark-Gemini-2.5-Pro-Experimental-03-25-turn-2-high-score.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -408,7 +408,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/pelican-bicycle/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/pelican-bicycle/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -446,7 +446,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/bouncing-ball-hexagon/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/bouncing-ball-hexagon/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -484,7 +484,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/supernova/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/supernova/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -522,7 +522,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/drowned-gothic-city/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/drowned-gothic-city/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -560,7 +560,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/hand-gesture-particles/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/hand-gesture-particles/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -598,7 +598,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/tesseract-ball/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/tesseract-ball/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -636,7 +636,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/starship-control-panel/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/starship-control-panel/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -674,7 +674,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Claude Opus 5.5 · **作者 / 发布者：** AI Test Museum
 
-图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/ai-world-clock/output.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：AI Test Museum · [原图 / 作品出处](https://aitestmuseum.com/results/claude-opus-5-5/ai-world-clock/output.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -712,7 +712,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** GPT-5.6 SOL / Grok 4.5 Pro（来源标记 / source label） · **作者 / 发布者：** @EntelligenceAI
 
-图片署名：@EntelligenceAI · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2075281891473952768/img/VhOVFPL17_NDgdBU.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@EntelligenceAI · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2075281891473952768/img/VhOVFPL17_NDgdBU.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -751,7 +751,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** GPT-5.5 / Codex · **作者 / 发布者：** stock42
 
-图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/triple-pendulum/index.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/triple-pendulum/index.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -790,7 +790,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** GPT-5.5 / Codex · **作者 / 发布者：** stock42
 
-图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/1kg-block-bounces/index.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/1kg-block-bounces/index.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -829,7 +829,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** GPT-5.5 / Codex · **作者 / 发布者：** stock42
 
-图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/balls-fall/index.html) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：stock42 · [原图 / 作品出处](https://raw.githubusercontent.com/stock42/test-llm-coding/5dd2e8e63f026337ddfa39195d7f1008806bca1d/codex/gpt-5.5/balls-fall/index.html) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源方已发布历史作品的浏览器截图（2026-11-08），不是重新调用模型；静帧不代表功能实测通过。
 
@@ -868,7 +868,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @addyosmani
 
-图片署名：@addyosmani · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@addyosmani · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -907,7 +907,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @alexalbert__
 
-图片署名：@alexalbert__ · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@alexalbert__ · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -946,7 +946,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @chetaslua
 
-图片署名：@chetaslua · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@chetaslua · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -985,7 +985,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @dadabots
 
-图片署名：@dadabots · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103038366216294400/img/yB5hzAfoYKrVTEBZ.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@dadabots · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103038366216294400/img/yB5hzAfoYKrVTEBZ.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -1024,7 +1024,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @DotCSV
 
-图片署名：@DotCSV · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@DotCSV · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -1063,7 +1063,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @itsolelehmann
 
-图片署名：@itsolelehmann · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@itsolelehmann · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -1102,7 +1102,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @LCSlates
 
-图片署名：@LCSlates · [原图 / 作品出处](https://video.twimg.com/amplify_video/2102502315185803264/vid/avc1/1080x1080/sAv8kDNKSV7KmtgO.mp4?tag=29) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@LCSlates · [原图 / 作品出处](https://video.twimg.com/amplify_video/2102502315185803264/vid/avc1/1080x1080/sAv8kDNKSV7KmtgO.mp4?tag=29) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 来源演示视频的画面截图，点击播放原视频。
 
@@ -1141,7 +1141,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** opus 5.5 · **作者 / 发布者：** @riku720720
 
-图片署名：@riku720720 · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@riku720720 · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 
@@ -1180,7 +1180,7 @@ Google 官方演示视频的画面截图，点击播放原视频。
 
 **模型：** Opus 5.5 · **作者 / 发布者：** @victormustar
 
-图片署名：@victormustar · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg) · [素材说明](../../THIRD_PARTY_MEDIA.md)
+图片署名：@victormustar · [原图 / 作品出处](https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
 
 原帖视频封面，点击封面播放原视频。
 

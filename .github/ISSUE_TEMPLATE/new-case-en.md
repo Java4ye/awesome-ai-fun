@@ -1,17 +1,17 @@
 ---
-name: Recommend a challenge (English)
-about: Suggest an interesting AI challenge with a traceable source
-title: "[New challenge] "
+name: Suggest an AI creation (English)
+about: Recommend a fun AI creation with an original source
+title: "[New work] "
 labels: enhancement
 assignees: []
 ---
 
-**Challenge name:**
+**Work title:**
 
-**Original source URL:**
+**Creator and original source URL:**
 
-**What should the model do?**
+**What makes it interesting?** A sentence or two is enough.
 
-**Two useful things to observe:**
+**Demo, video, or making-of link (optional):**
 
-**Is the prompt adapted? Have you tested it?**
+Maintainers check sources, look for duplicates, and add accepted works to the catalog.

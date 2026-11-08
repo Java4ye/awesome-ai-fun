@@ -85,4 +85,4 @@ This version has no automatic model calls, scoring, online previews, or leaderbo
 
 Link-only records use `rights: link_only`. Saved previews require a specific license basis, preserved license, fixed source revision, original image URL, SHA-256, and source-run snapshot. Local previews currently support MIT licensing; add an explicit policy before supporting another license. An upstream unverified record is not promoted to an independently verified result.
 
-See the [media and corrections notice](../../THIRD_PARTY_MEDIA.en.md).
+See the [media and corrections notice](THIRD_PARTY_MEDIA.md).

@@ -2,7 +2,9 @@
 
 **简体中文** | [English](en/MAINTENANCE.md)
 
-[首页](../README.zh-CN.md) · [贡献指南](../CONTRIBUTING.md)
+[首页](../README.zh-CN.md) · [投稿与反馈](https://github.com/Java4ye/awesome-ai-fun/issues/new/choose)
+
+投稿从 Issue 收集。入库前先检查是否重复，并区分原作者与转发者。未披露的模型、运行日期或条件保持未知；中英文描述应表达同一事实。
 
 ## 编辑入口
 
@@ -31,4 +33,4 @@ python -m unittest discover -s tests -v
 
 使用对应案例的真实作品，保留作者、模型、原图、固定版本和许可信息。图片或 GIF 可以直接预览；完整视频保留原帖播放入口。没有素材时保留待补状态，不使用相似配图或空白占位图代替。
 
-`history.py` 核对原有缩略图与历史快照；`showcase.py` 核对新增本地截图的路径、日期与 SHA-256，以及外链字段。`source_reference` 记录必须保持 `license_status: not_verified`，不能冒称已获授权。使用条件见[素材说明](../THIRD_PARTY_MEDIA.md)。
+`history.py` 核对原有缩略图与历史快照；`showcase.py` 核对新增本地截图的路径、日期与 SHA-256，以及外链字段。`source_reference` 记录必须保持 `license_status: not_verified`，不能冒称已获授权。使用条件见[素材说明](THIRD_PARTY_MEDIA.md)。
