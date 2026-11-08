@@ -8,15 +8,12 @@
 
 ## 已保存的预览图
 
-本批五张图均为 **Pelican SDF** 原项目生成的 480×270 JPEG 缩略图，来自固定提交 `63190d7e5fb883175b8612374de5e7f094293548`。图片没有裁剪、压缩、重绘或替换；原图中的裁切或空白也照样保留。它们属于独立的 3D SDF 题，不是已有 SVG 动画题的结果。
+**Pelican SDF** 的 3D 作品使用上游项目原始的 480×270 JPEG 缩略图，来自固定提交 `63190d7e5fb883175b8612374de5e7f094293548`。
 
 - 作品整理者与署名：**AzatJalilov / Pelican SDF contributors**。
 - 版权声明：**Copyright (c) 2026 Pelican SDF contributors**。
 - 使用依据：[上游 MIT 许可证](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/LICENSE)，完整副本见 [assets/licenses/pelican-sdf-MIT.txt](../assets/licenses/pelican-sdf-MIT.txt)。
-- 文件：`assets/previews/pelican-sdf/*.jpg`；逐张原图地址、SHA-256、固定提交、运行日期与来源记录见 [data/history.json](../data/history.json)。
-- 模型记录快照：[data/upstream/pelican-sdf/](../data/upstream/pelican-sdf/)，保留原字段，仅格式化 JSON。上游状态为 `unverified`，不改成“实测通过”。
-
-预览涉及 gpt-5.5、claude-haiku-4-5-20251001、google/gemini-3.1-pro-preview、deepseek/deepseek-v4-pro 和 z-ai/glm-5.2。运行日均按上游 `createdAt` 记录为 2026-07-18；这不是模型发布日期或本站发布日期。
+- 图片：[原样保存的缩略图](../assets/previews/pelican-sdf/gemini-3-1-pro-high-run-01.jpg)。原图地址、SHA-256 与运行日期见 [来源记录](../data/history.json)，对应 [上游快照](../data/upstream/pelican-sdf/gemini-3-1-pro-high-run-01.json)。
 
 ## 首页引用的原仓库截图
 

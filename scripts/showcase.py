@@ -141,7 +141,6 @@ def collection_entries(cases):
 
 def render_homepages(cases,history,records,language):
     en=language=='en';suffix='_en' if en else '';covers=resolve_showcase(history,records)
-    by_id={c['id']:c for c in cases}
     works,groups,prompts=collection_entries(cases)
     docs='docs/en/' if en else 'docs/'
     site='https://java4ye.github.io/awesome-ai-fun/site/' + ('' if en else '?lang=zh')
@@ -166,7 +165,7 @@ def render_homepages(cases,history,records,language):
                 sample=next((m for m in (group[2] if group else (cid,)) if m in covers),None)
                 p=covers.get(sample)
                 title=group[3][en] if group else c['title'+suffix]
-                detail=f'{docs}COLLECTIONS.md#{cid}' if group else work_link(c,docs,suffix)
+                detail=f'{docs}INDEX.md#{cid}' if group else work_link(c,docs,suffix)
                 cell=[]
                 if p:
                     src=p.get('preview') or p.get('capture') or p['image_url']
@@ -192,14 +191,4 @@ def render_homepages(cases,history,records,language):
         f'[Sources]({docs}SOURCES.md) · [Media credits]({docs}THIRD_PARTY_MEDIA.md)' if en else f'[来源导航]({docs}SOURCES.md) · [素材署名]({docs}THIRD_PARTY_MEDIA.md)','',
         'Previews are credited to their sources. Original content and code: [MIT](LICENSE). Third-party media retain their owners’ rights.' if en else '效果预览附原始出处。仓库原创内容与代码采用 [MIT](LICENSE)，第三方素材的权利归原权利人。',''])
     readme=Path('README.md' if en else 'README.zh-CN.md')
-    base=Path('docs/en') if en else Path('docs')
-    collections=['# Work collections' if en else '# 作品专题','',
-        '[Back to all works](../../README.md)' if en else '[返回全部作品](../README.zh-CN.md)','']
-    for cid,group in groups.items():
-        collections.extend([f'<a id="{cid}"></a>','',f'## {group[3][en]}','',group[4][en],''])
-        for member in group[1]:
-            c=by_id[member];p=covers.get(member,{})
-            original=p.get('output_url') or c['source_url']
-            collections.append(f'- [{c["title"+suffix]}]({work_link(c,"",suffix)}) · [{"Original work" if en else "原作品"}]({original})')
-        collections.append('')
-    return {readme:'\n'.join(lines),base/'COLLECTIONS.md':'\n'.join(collections)}
+    return {readme:'\n'.join(lines)}

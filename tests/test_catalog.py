@@ -59,11 +59,18 @@ class CatalogTests(unittest.TestCase):
                 self.assertIn(switch,index)
                 suffix = '_en' if language == 'en' else ''
                 expected = [
-                    f'COLLECTIONS.md#{case["id"]}' if case['id'] in groups else work_link(case, '', suffix)
+                    f'#{case["id"]}' if case['id'] in groups else work_link(case, '', suffix)
                     for case in works
                 ]
-                links = [line.rsplit('](', 1)[1][:-1] for line in index.splitlines() if line.startswith('- [')]
+                heading = '## Work collections' if language == 'en' else '## 作品专题'
+                top, collections = index.split(heading, 1)
+                links = [line.rsplit('](', 1)[1][:-1] for line in top.splitlines() if line.startswith('- [')]
                 self.assertCountEqual(expected, links)
+                for cid, group in groups.items():
+                    self.assertIn(f'<a id="{cid}"></a>', collections)
+                    for member in self.cases:
+                        if member['id'] in group[1]:
+                            self.assertIn(f']({work_link(member, "", suffix)})', collections)
                 self.assertIn(f'[{len(prompts)} ', index)
                 self.assertIn('#prompt-library)', index)
                 for prompt in prompts:
@@ -105,7 +112,7 @@ class CatalogTests(unittest.TestCase):
             self.assertIn('README.md)' if language=='zh' else 'README.zh-CN.md)',page)
             self.assertEqual(len(gallery['works']),page.count('<td width="33%"'))
             self.assertEqual(sum(bool(w['image']) for w in gallery['works']),page.count('<img '))
-            self.assertIn('COLLECTIONS.md#svg-001',page)
+            self.assertIn('INDEX.md#svg-001',page)
             self.assertNotIn('Featured works' if language=='en' else '精选作品',page)
 
     def test_showcase_rejects_wrong_case_or_unlicensed_media(self):

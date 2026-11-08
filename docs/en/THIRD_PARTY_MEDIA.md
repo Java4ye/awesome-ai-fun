@@ -8,15 +8,12 @@ This collection indexes traceable historical model outputs. It does not require 
 
 ## Saved previews
 
-The five previews are original **Pelican SDF** 480×270 JPEG thumbnails from commit `63190d7e5fb883175b8612374de5e7f094293548`. We have not cropped, recompressed, redrawn, or replaced them. Cropped subjects and blank frames are preserved. They belong to a separate 3D SDF task, not the existing SVG animation challenge.
+The **Pelican SDF** 3D work uses an original 480×270 JPEG thumbnail from commit `63190d7e5fb883175b8612374de5e7f094293548`.
 
 - Creator / curator credit: **AzatJalilov / Pelican SDF contributors**.
 - Copyright notice: **Copyright (c) 2026 Pelican SDF contributors**.
 - Basis for reuse: [upstream MIT license](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/LICENSE), preserved in full in [assets/licenses/pelican-sdf-MIT.txt](../../assets/licenses/pelican-sdf-MIT.txt).
-- Files: `assets/previews/pelican-sdf/*.jpg`. Original image URLs, SHA-256 hashes, fixed revision, run dates, and source records are listed per image in [data/history.json](../../data/history.json).
-- Source record snapshots: [data/upstream/pelican-sdf/](../../data/upstream/pelican-sdf/). Fields are preserved; only JSON formatting was changed. The upstream `unverified` status is retained and is not reported as a passed test.
-
-The previews cover gpt-5.5, claude-haiku-4-5-20251001, google/gemini-3.1-pro-preview, deepseek/deepseek-v4-pro, and z-ai/glm-5.2. Their run date is 2026-07-18 according to upstream `createdAt`, not a model release date or our publication date.
+- Image: [unmodified thumbnail](../../assets/previews/pelican-sdf/gemini-3-1-pro-high-run-01.jpg). See the [source record](../../data/history.json) and [upstream snapshot](../../data/upstream/pelican-sdf/gemini-3-1-pro-high-run-01.json) for the original URL, SHA-256, and run date.
 
 ## Upstream screenshots referenced on the homepage
 

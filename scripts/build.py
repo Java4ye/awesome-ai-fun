@@ -22,6 +22,7 @@ def render(cases, sources, language='zh', history=(), showcase=()):
     historical = group_history(history)
     covers = resolve_showcase(history,showcase)
     works, groups, prompts = collection_entries(cases)
+    by_id = {case['id']: case for case in cases}
     cases=sorted(cases,key=lambda c:(c['source_id'],c['source_item_no']))
     site = 'https://java4ye.github.io/awesome-ai-fun/site/' + ('' if english else '?lang=zh')
     work_categories = {
@@ -44,11 +45,20 @@ def render(cases, sources, language='zh', history=(), showcase=()):
             cid = case['id']
             group = groups.get(cid)
             title = group[3][english] if group else case['title'+suffix]
-            link = f'COLLECTIONS.md#{cid}' if group else work_link(case, '', suffix)
+            link = f'#{cid}' if group else work_link(case, '', suffix)
             index.append(f'- [{title}]({link})')
         index.append('')
     if prompts:
-        index.append(f'[{len(prompts)} hands-on prompts]({site}#prompt-library)' if english else f'[{len(prompts)} 道动手题]({site}#prompt-library)')
+        index.extend([f'[{len(prompts)} hands-on prompts]({site}#prompt-library)' if english else f'[{len(prompts)} 道动手题]({site}#prompt-library)', ''])
+    if groups:
+        index.extend(['## Work collections' if english else '## 作品专题', ''])
+    for cid, group in groups.items():
+        index.extend([f'<a id="{cid}"></a>', '', f'### {group[3][english]}', '', group[4][english], ''])
+        for member in group[1]:
+            case = by_id[member]
+            original = covers.get(member, {}).get('output_url') or case['source_url']
+            index.append(f'- [{case["title"+suffix]}]({work_link(case, "", suffix)}) · [{"Original work" if english else "原作品"}]({original})')
+        index.append('')
     pages={}
     for key,names in CATEGORY_NAMES.items():
         entries=[c for c in cases if c['category']==key and c.get('evidence_level')!='prompt_only']
