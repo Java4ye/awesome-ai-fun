@@ -81,7 +81,7 @@ This version has no automatic model calls, scoring, online previews, or leaderbo
 
 ## Historical outputs and media
 
-[History](HISTORY.md) and [previews](GALLERY.md) are generated from `data/history.json`. Each record links a `case_id` to a publisher, model, run date or period, collection date, source, output, and conditions. A null `published_on` means the publication date is undisclosed; it is not replaced with the run or collection date.
+[History](HISTORY.md) is generated from `data/history.json`. Homepages and the [gallery](GALLERY.md) also use `data/showcase.json` to select representative previews, retaining other model outputs under the same case. Each historical record links a `case_id` to a publisher, model, run date or period, collection date, source, output, and conditions. A null `published_on` means the publication date is undisclosed; it is not replaced with the run or collection date. See [maintenance](MAINTENANCE.md) for adding previews and rebuilding.
 
 Link-only records use `rights: link_only`. Saved previews require a specific license basis, preserved license, fixed source revision, original image URL, SHA-256, and source-run snapshot. Local previews currently support MIT licensing; add an explicit policy before supporting another license. An upstream unverified record is not promoted to an independently verified result.
 

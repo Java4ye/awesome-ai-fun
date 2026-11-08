@@ -72,6 +72,35 @@ class CatalogTests(unittest.TestCase):
         bad[0]['included_case_id']='invented-case'
         self.assertTrue(any('unknown case' in e for e in check_research(self.cases,bad)))
 
+    def test_homepages_cover_all_cases_without_turning_links_into_previews(self):
+        from showcase import render_homepages, resolve_showcase
+        from build import CATEGORIES
+        previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
+        covers=resolve_showcase(self.history,previews)
+        for language,name in [('zh','README.md'),('en','README.en.md')]:
+            page=render_homepages(self.cases,self.sources,self.history,previews,CATEGORIES,language)[Path(name)]
+            for case in self.cases:
+                self.assertEqual(1,page.count(f'id="case-{case["id"]}"'))
+            for category in {c['category'] for c in self.cases}:
+                section=page.split(f'<a id="category-{category}"></a>',1)[1].split('<a id="category-',1)[0]
+                folded=section.find('<summary>Awaiting previews' if language=='en' else '<summary>待补效果')
+                for case in (c for c in self.cases if c['category']==category):
+                    position=section.index(f'id="case-{case["id"]}"')
+                    if case['id'] in covers:self.assertTrue(folded<0 or position<folded)
+                    else:self.assertGreater(position,folded)
+
+    def test_showcase_rejects_wrong_case_or_unlicensed_media(self):
+        from showcase import check_showcase
+        previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
+        self.assertEqual([],check_showcase(self.cases,self.history,previews,ROOT))
+        bad=deepcopy(previews)
+        bad[0]['case_id']='svg-001'
+        self.assertTrue(any('mismatched' in e for e in check_showcase(self.cases,self.history,bad,ROOT)))
+        bad=deepcopy(previews)
+        remote=next(p for p in bad if 'image_url' in p)
+        remote['rights']='link_only'
+        self.assertTrue(any('license' in e for e in check_showcase(self.cases,self.history,bad,ROOT)))
+
     def test_link_only_media_cannot_become_a_local_preview(self):
         record=deepcopy(next(r for r in self.history if r.get('preview')))
         record['rights']='link_only'

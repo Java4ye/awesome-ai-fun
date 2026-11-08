@@ -1,0 +1,34 @@
+[
+  {
+    "case_id": "pelican-sdf-001",
+    "history_id": "sdf-gemini-3-1-pro-high-run-01"
+  },
+  {
+    "case_id": "x-dangreenheck-2103004432786993341",
+    "image_url": "https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg",
+    "source_url": "https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg",
+    "output_url": "https://dgreenheck.github.io/tidewater/",
+    "publisher": "Dan Greenheck / DRG Software Solutions LLC",
+    "model": "Claude Opus 5.5（作者报告 / creator-reported）",
+    "rights": "MIT",
+    "license_url": "https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/LICENSE",
+    "license_file": "assets/licenses/tidewater-MIT.txt",
+    "source_commit": "4811ba48d795197de5621985f404e765c0b7c0ef",
+    "note": "原项目截图；多轮迭代作品，试玩需要 WebGPU。",
+    "note_en": "Original project screenshot; an iterative work. Playing requires WebGPU."
+  },
+  {
+    "case_id": "between-tokens-interactive-story",
+    "image_url": "https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png",
+    "source_url": "https://github.com/chrisjz/between-tokens/blob/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png",
+    "output_url": "https://chrisjz.github.io/between-tokens/",
+    "publisher": "Chris Zaharia",
+    "model": "Claude Fable 5（仓库署名 / repository credit）",
+    "rights": "MIT",
+    "license_url": "https://github.com/chrisjz/between-tokens/blob/93561477667dfc27df77f451e747353a15654f46/LICENSE",
+    "license_file": "assets/licenses/between-tokens-MIT.txt",
+    "source_commit": "93561477667dfc27df77f451e747353a15654f46",
+    "note": "原项目截图；候选文本预写，概率实时计算。",
+    "note_en": "Original project screenshot; candidate text is authored and probabilities are computed."
+  }
+]

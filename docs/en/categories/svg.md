@@ -8,6 +8,11 @@
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 
+<details>
+<summary>Awaiting previews · 32 cases</summary>
+
+Real inline previews are not yet available for these cases. Their original descriptions and source-output links are retained below.
+
 ## An octopus operating a pipe organ
 
 **ID**: `svg-001` · **Source**: [Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (catalog source position 1)
@@ -965,3 +970,5 @@ Inspect the horn, legs, mane, tail and connected shapes; this is not a direct re
 The page changes over time and cached/live model counts differ, so no dynamic count, scores or ranking are copied. This SVG adaptation draws on the TikZ unicorn idea; this page is not claimed as the earliest origin.
 
 ---
+
+</details>

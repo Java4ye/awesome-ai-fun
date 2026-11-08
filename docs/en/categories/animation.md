@@ -8,6 +8,11 @@
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 
+<details>
+<summary>Awaiting previews · 31 cases</summary>
+
+Real inline previews are not yet available for these cases. Their original descriptions and source-output links are retained below.
+
 ## Autonomous aquarium
 
 **ID**: `electricazimuth-aquarium` · **Source**: [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/aquarium.md) (catalog source position 1)
@@ -898,3 +903,5 @@ A challenge direction adapted from the public work: Inverse-kinematics pixel hor
 Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.
 
 ---
+
+</details>

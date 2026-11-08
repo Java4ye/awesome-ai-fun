@@ -73,6 +73,7 @@
 | `x-lcslates-2102503027340988559` | [会翻转重组的玻璃金箔马赛克](categories/animation.md#会翻转重组的玻璃金箔马赛克) | 动画与物理 | 作品改编方向 | [@LCSlates / X](https://x.com/LCSlates/status/2102503027340988559) |
 | `x-riku720720-2102515055116063144` | [自动闪避的宇宙像素冲刺](categories/animation.md#自动闪避的宇宙像素冲刺) | 动画与物理 | 作品改编方向 | [@riku720720 / X](https://x.com/riku720720/status/2102515055116063144) |
 | `x-victormustar-2102707412704919910` | [逆运动学像素奔马](categories/animation.md#逆运动学像素奔马) | 动画与物理 | 作品改编方向 | [@victormustar / X](https://x.com/victormustar/status/2102707412704919910) |
+| `pelican-sdf-001` | [用 SDF 构建可交互的 3D 鹈鹕骑车](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车) | 3D 与空间 | 题面与效果 | [Pelican SDF](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt) |
 | `electricazimuth-lightshow` | [光线步进迷幻融合球](categories/3d.md#光线步进迷幻融合球) | 3D 与空间 | 题面与效果 | [David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/lightshow.md) |
 | `museum-003` | [体素宝塔花园](categories/3d.md#体素宝塔花园) | 3D 与空间 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/voxel-pagoda) |
 | `museum-004` | [three.js 版 Minecraft](categories/3d.md#threejs-版-minecraft) | 3D 与空间 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/minecraft-web) |
@@ -80,7 +81,6 @@
 | `museum-007` | [陨石撞击城市](categories/3d.md#陨石撞击城市) | 3D 与空间 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/meteor-city) |
 | `museum-011` | [太阳系模拟](categories/3d.md#太阳系模拟) | 3D 与空间 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/solar-system) |
 | `museum-020` | [地球到火星往返](categories/3d.md#地球到火星往返) | 3D 与空间 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/mars-round-trip) |
-| `pelican-sdf-001` | [用 SDF 构建可交互的 3D 鹈鹕骑车](categories/3d.md#用-sdf-构建可交互的-3d-鹈鹕骑车) | 3D 与空间 | 题面与效果 | [Pelican SDF](https://github.com/AzatJalilov/PelicanSdf/blob/63190d7e5fb883175b8612374de5e7f094293548/benchmark/prompt.txt) |
 | `psydox-09` | [Python 软件渲染 3D 游戏](categories/3d.md#python-软件渲染-3d-游戏) | 3D 与空间 | 仅题面 | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/09_Python_Software_Rendered_3D_Game_Test.txt) |
 | `reddit-doner-doner` | [旋转烤肉串与燃气加热器](categories/3d.md#旋转烤肉串与燃气加热器) | 3D 与空间 | 题面与效果 | [r/LocalLLaMA 原帖 / original thread](https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/) |
 | `reddit-thriller-thriller` | [多人角色同步舞蹈 Three.js 场景](categories/3d.md#多人角色同步舞蹈-threejs-场景) | 3D 与空间 | 题面与效果 | [r/LocalLLaMA 原帖及评论 / original thread and comments](https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/) |
@@ -89,6 +89,7 @@
 | `x-studio_veco-2102684366996738511` | [可输入词语探索的柔彩村庄](categories/3d.md#可输入词语探索的柔彩村庄) | 3D 与空间 | 作品改编方向 | [@studio_veco / X](https://x.com/studio_veco/status/2102684366996738511) |
 | `x-superalesha-2102779758408774104` | [从加速器隧道到质子碰撞](categories/3d.md#从加速器隧道到质子碰撞) | 3D 与空间 | 作品改编方向 | [@superalesha / X](https://x.com/superalesha/status/2102779758408774104) |
 | `x-techartist_-2102503719762018434` | [从线稿逐步长成三维房屋](categories/3d.md#从线稿逐步长成三维房屋) | 3D 与空间 | 作品改编方向 | [@techartist_ / X](https://x.com/techartist_/status/2102503719762018434) |
+| `x-dangreenheck-2103004432786993341` | [海岸钓鱼与买卖升级游戏](categories/games.md#海岸钓鱼与买卖升级游戏) | 游戏开发 | 作品改编方向 | [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) |
 | `google-studio-neon_arena_laser_tag` | [Neon Arena 多人激光对战](categories/games.md#neon-arena-多人激光对战) | 游戏开发 | 官方演示 | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
 | `google-studio-neon_claw` | [Neon Claw 物理抓娃娃机](categories/games.md#neon-claw-物理抓娃娃机) | 游戏开发 | 官方演示 | [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) |
 | `museum-006` | [一次写出卡丁车游戏](categories/games.md#一次写出卡丁车游戏) | 游戏开发 | 题面与效果 | [AI 考题博物馆](https://aitestmuseum.com/zh/tests/kart-racer) |
@@ -100,7 +101,6 @@
 | `psydox-04` | [Canvas 打砖块](categories/games.md#canvas-打砖块) | 游戏开发 | 仅题面 | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/04_Breakout_Canvas_Game_Test.txt) |
 | `psydox-06` | [俯视角 2D 驾驶游戏](categories/games.md#俯视角-2d-驾驶游戏) | 游戏开发 | 仅题面 | [psydox / Local LLM Coding Benchmark](https://github.com/psydox/Local-LLM-Coding-Benchmark/blob/061dec9d8918b0b1d302678e070247f866471fa9/06_Top_Down_2D_Driving_Game_Test.txt) |
 | `stock42-tetris-3d` | [带音效与排行榜的 3D 风格俄罗斯方块](categories/games.md#带音效与排行榜的-3d-风格俄罗斯方块) | 游戏开发 | 题面与效果 | [Stock42 Creative Coding Challenges](https://github.com/stock42/test-llm-coding/blob/5dd2e8e63f026337ddfa39195d7f1008806bca1d/promptings/tetris-3d.md) |
-| `x-dangreenheck-2103004432786993341` | [海岸钓鱼与买卖升级游戏](categories/games.md#海岸钓鱼与买卖升级游戏) | 游戏开发 | 作品改编方向 | [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) |
 | `x-nachat_dayo-2102773498037023140` | [鱼叉捕鱼小游戏](categories/games.md#鱼叉捕鱼小游戏) | 游戏开发 | 作品改编方向 | [@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140) |
 | `x-oguzthedev-2102476490344730950` | [种花养蜂与采蜜游戏](categories/games.md#种花养蜂与采蜜游戏) | 游戏开发 | 作品改编方向 | [@oguzthedev / X](https://x.com/oguzthedev/status/2102476490344730950) |
 | `between-tokens-interactive-story` | [扮演语言模型的交互叙事](categories/applications.md#扮演语言模型的交互叙事) | 应用与交互 | 题面与效果 | [Chris Zaharia / Between Tokens](https://news.ycombinator.com/item?id=49311484) |

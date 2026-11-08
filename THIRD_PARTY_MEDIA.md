@@ -18,6 +18,17 @@
 
 预览涉及 gpt-5.5、claude-haiku-4-5-20251001、google/gemini-3.1-pro-preview、deepseek/deepseek-v4-pro 和 z-ai/glm-5.2。运行日均按上游 `createdAt` 记录为 2026-07-18；这不是模型发布日期或本站发布日期。
 
+## 首页引用的原仓库截图
+
+首页额外引用两张固定提交的原项目截图，图片通过原仓库 URL 展示，未保存到本仓库、裁切或重绘，也不是本库复现的结果。
+
+| 案例 | 原图与版本 | 署名与许可 |
+| --- | --- | --- |
+| Tidewater | [原图](https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg) · `4811ba48d795197de5621985f404e765c0b7c0ef` | Dan Greenheck / DRG Software Solutions LLC · Copyright (c) 2026 DRG Software Solutions LLC · [MIT 完整副本](assets/licenses/tidewater-MIT.txt) · [上游许可](https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/LICENSE) · [场景素材署名](https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/CREDITS.md) |
+| Between Tokens | [原图](https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png) · `93561477667dfc27df77f451e747353a15654f46` | Chris Zaharia · Copyright (c) 2026 Chris Zaharia · [MIT 完整副本](assets/licenses/between-tokens-MIT.txt) · [上游许可](https://github.com/chrisjz/between-tokens/blob/93561477667dfc27df77f451e747353a15654f46/LICENSE) |
+
+首页视频链接回到创作者原帖，未转载或保存视频。X 的完整题面与制作过程未公开部分仍保留在案例说明中，不将发布日期写成运行日期。
+
 ## 仅提供链接的历史作品
 
 - **Tom Gally 的 SVG 画廊**：按题号链接到原站及 2025 年 Gemini 2.5 Pro 原 SVG。原站没有提供本次使用所需的明确转载许可，所以不保存或内嵌这些图片。

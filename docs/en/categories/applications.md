@@ -12,6 +12,14 @@
 
 **ID**: `between-tokens-interactive-story` · **Source**: [Chris Zaharia / Between Tokens](https://news.ycombinator.com/item?id=49311484) (catalog source position 1)
 
+[![An interactive story where you are the model — Claude Fable 5（仓库署名 / repository credit）](https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png)](https://chrisjz.github.io/between-tokens/)
+
+**Model:** Claude Fable 5（仓库署名 / repository credit） · **Author / publisher:** Chris Zaharia
+
+Image: Chris Zaharia · [Original image](https://github.com/chrisjz/between-tokens/blob/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png) · [MIT license](../../../assets/licenses/between-tokens-MIT.txt)
+
+Original project screenshot; candidate text is authored and probabilities are computed.
+
 Let the reader choose candidate replies while exploring temperature, fading context and branching narrative.
 
 **Source credit / attribution lead**: Chris Zaharia / Between Tokens
@@ -36,6 +44,11 @@ Let the reader choose candidate replies while exploring temperature, fading cont
 The author reports two mobile fixes. Replies and attention highlights are authored in advance; only softmax probabilities are computed, rather than live model inference.
 
 ---
+
+<details>
+<summary>Awaiting previews · 11 cases</summary>
+
+Real inline previews are not yet available for these cases. Their original descriptions and source-output links are retained below.
 
 ## Cosmic Flow shared particles
 
@@ -335,3 +348,5 @@ A challenge direction adapted from the public work: Bedroom bed-placement planne
 Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.
 
 ---
+
+</details>

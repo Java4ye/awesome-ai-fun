@@ -8,6 +8,11 @@
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 
+<details>
+<summary>待补效果 · 31 条案例</summary>
+
+以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
+
 ## 自主游动的水族箱
 
 **编号**：`electricazimuth-aquarium` · **收录来源**：[David Harris / LocalLLM Visual Code Test](https://github.com/electricazimuth/LocalLLM_VisualCodeTest/blob/7e7004885221fafb8b1de360cacc2b8281cf934a/code_prompts/aquarium.md)（本库来源组内序号 1）
@@ -960,3 +965,5 @@
 通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
 
 ---
+
+</details>

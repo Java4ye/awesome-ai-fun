@@ -14,6 +14,14 @@
 
 **英文标题**：An interactive story where you are the model
 
+[![扮演语言模型的交互叙事 — Claude Fable 5（仓库署名 / repository credit）](https://raw.githubusercontent.com/chrisjz/between-tokens/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png)](https://chrisjz.github.io/between-tokens/)
+
+**模型：** Claude Fable 5（仓库署名 / repository credit） · **作者 / 发布者：** Chris Zaharia
+
+图片署名：Chris Zaharia · [原图出处](https://github.com/chrisjz/between-tokens/blob/93561477667dfc27df77f451e747353a15654f46/assets/screenshot.png) · [MIT 许可](../../assets/licenses/between-tokens-MIT.txt)
+
+原项目截图；候选文本预写，概率实时计算。
+
 让读者选择候选回复，观察温度滑杆、上下文消退与叙事分支。
 
 **原站署名 / 来源线索**：Chris Zaharia / Between Tokens
@@ -38,6 +46,11 @@
 作者披露有两次移动端修复；候选回复和注意力高亮为预写内容，只有 softmax 概率是实时计算，不是在线模型推理。
 
 ---
+
+<details>
+<summary>待补效果 · 11 条案例</summary>
+
+以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
 
 ## Cosmic Flow 多人共享粒子
 
@@ -359,3 +372,5 @@
 通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
 
 ---
+
+</details>

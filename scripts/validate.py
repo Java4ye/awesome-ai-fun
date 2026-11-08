@@ -73,6 +73,9 @@ def main():
     from research import check_research
     research=json.loads((ROOT/'data/research.json').read_text(encoding='utf8'))
     errors.extend(check_research(cases,research))
+    from showcase import check_showcase
+    previews=json.loads((ROOT/'data/showcase.json').read_text(encoding='utf8'))
+    errors.extend(check_showcase(cases,history,previews,ROOT))
     if errors:
         print("❌ Catalog validation failed:\n" + "\n".join(f" - {e}" for e in errors))
         return 1

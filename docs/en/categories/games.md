@@ -8,6 +8,48 @@
 
 > The summaries and observation points below are our editorial descriptions, not original prompts or official scoring rules.
 
+## Coastal fishing and trading game
+
+**ID**: `x-dangreenheck-2103004432786993341` · **Source**: [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) (catalog source position 1)
+
+[![Coastal fishing and trading game — Claude Opus 5.5（作者报告 / creator-reported）](https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg)](https://dgreenheck.github.io/tidewater/)
+
+**Model:** Claude Opus 5.5（作者报告 / creator-reported） · **Author / publisher:** Dan Greenheck / DRG Software Solutions LLC
+
+Image: Dan Greenheck / DRG Software Solutions LLC · [Original image](https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg) · [MIT license](../../../assets/licenses/tidewater-MIT.txt)
+
+Original project screenshot; an iterative work. Playing requires WebGPU.
+
+A challenge direction adapted from the public work: Coastal fishing and trading game. Do not treat this description as the original prompt.
+
+**Source credit / attribution lead**: @dangreenheck; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341); post metadata checked through a public reader.
+
+**Prompt availability**: Full prompt unconfirmed; adapted from work
+
+**What to observe**
+
+- Fishing, selling and equipment purchases form a working loop
+- Saving and restart preserve sensible state
+
+**Tags**: `game development`, `source collection`
+
+**Prompts and outputs**: [View the source](https://x.com/dangreenheck/status/2103004432786993341) · **Test status in this repository**: Not tested
+
+### Historical outputs
+
+**Opus 5.5** · Run date not disclosed · @dangreenheck
+
+[View output / demo](https://x.com/dangreenheck/status/2103004432786993341) · [Source record](https://x.com/dangreenheck/status/2103004432786993341) · [Test context](https://dgreenheck.github.io/tidewater/)
+
+Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.
+
+---
+
+<details>
+<summary>Awaiting previews · 13 cases</summary>
+
+Real inline previews are not yet available for these cases. Their original descriptions and source-output links are retained below.
+
 ## Neon Arena multiplayer laser tag
 
 **ID**: `google-studio-neon_arena_laser_tag` · **Source**: [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) (catalog source position 1)
@@ -299,35 +341,6 @@ The link opens historical HTML source, not a hosted demo. RESULTS.md lists two a
 
 ---
 
-## Coastal fishing and trading game
-
-**ID**: `x-dangreenheck-2103004432786993341` · **Source**: [@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341) (catalog source position 1)
-
-A challenge direction adapted from the public work: Coastal fishing and trading game. Do not treat this description as the original prompt.
-
-**Source credit / attribution lead**: @dangreenheck; discovery: [Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341); post metadata checked through a public reader.
-
-**Prompt availability**: Full prompt unconfirmed; adapted from work
-
-**What to observe**
-
-- Fishing, selling and equipment purchases form a working loop
-- Saving and restart preserve sensible state
-
-**Tags**: `game development`, `source collection`
-
-**Prompts and outputs**: [View the source](https://x.com/dangreenheck/status/2103004432786993341) · **Test status in this repository**: Not tested
-
-### Historical outputs
-
-**Opus 5.5** · Run date not disclosed · @dangreenheck
-
-[View output / demo](https://x.com/dangreenheck/status/2103004432786993341) · [Source record](https://x.com/dangreenheck/status/2103004432786993341) · [Test context](https://dgreenheck.github.io/tidewater/)
-
-Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.
-
----
-
 ## Harpoon fishing game
 
 **ID**: `x-nachat_dayo-2102773498037023140` · **Source**: [@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140) (catalog source position 1)
@@ -385,3 +398,5 @@ A challenge direction adapted from the public work: Flower planting and beekeepi
 Post ID, account and text checked via the public FxTwitter reader; no X login, independent execution or video verification. Discovery-index descriptions supplement the post. Missing prompt, asset and iteration details are not inferred. Publication time is not run time.
 
 ---
+
+</details>

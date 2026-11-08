@@ -8,6 +8,50 @@
 
 > 下文简介和观察点为本库整理，不是原始提示词或官方评分规则。
 
+## 海岸钓鱼与买卖升级游戏
+
+**编号**：`x-dangreenheck-2103004432786993341` · **收录来源**：[@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341)（本库来源组内序号 1）
+
+**英文标题**：Coastal fishing and trading game
+
+[![海岸钓鱼与买卖升级游戏 — Claude Opus 5.5（作者报告 / creator-reported）](https://raw.githubusercontent.com/dgreenheck/tidewater/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg)](https://dgreenheck.github.io/tidewater/)
+
+**模型：** Claude Opus 5.5（作者报告 / creator-reported） · **作者 / 发布者：** Dan Greenheck / DRG Software Solutions LLC
+
+图片署名：Dan Greenheck / DRG Software Solutions LLC · [原图出处](https://github.com/dgreenheck/tidewater/blob/4811ba48d795197de5621985f404e765c0b7c0ef/docs/screenshot.jpg) · [MIT 许可](../../assets/licenses/tidewater-MIT.txt)
+
+原项目截图；多轮迭代作品，试玩需要 WebGPU。
+
+由公开作品整理的挑战方向：海岸钓鱼与买卖升级游戏。完整题面未逐字确认时，请勿当成原始提示词。
+
+**原站署名 / 来源线索**：@dangreenheck；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341)；原帖通过公开读取服务核对。
+
+**题面情况**：完整原题未确认，按作品整理
+
+**可以观察什么？**
+
+- 捕鱼卖鱼买装备是否构成闭环
+- 保存与重开是否保持合理状态
+
+**标签**：`游戏开发`, `来源整理`
+
+**提示词与作品**：[前往原站查看](https://x.com/dangreenheck/status/2103004432786993341) · **本库测试情况**：未实测
+
+### 历史效果
+
+**Opus 5.5** · 运行日期未公开 · @dangreenheck
+
+[查看效果 / 体验](https://x.com/dangreenheck/status/2103004432786993341) · [来源记录](https://x.com/dangreenheck/status/2103004432786993341) · [测试背景](https://dgreenheck.github.io/tidewater/)
+
+通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
+
+---
+
+<details>
+<summary>待补效果 · 13 条案例</summary>
+
+以下案例暂缺可直接展示的真实预览，保留完整介绍和来源方作品入口。
+
 ## Neon Arena 多人激光对战
 
 **编号**：`google-studio-neon_arena_laser_tag` · **收录来源**：[Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/)（本库来源组内序号 1）
@@ -321,37 +365,6 @@
 
 ---
 
-## 海岸钓鱼与买卖升级游戏
-
-**编号**：`x-dangreenheck-2103004432786993341` · **收录来源**：[@dangreenheck / X](https://x.com/dangreenheck/status/2103004432786993341)（本库来源组内序号 1）
-
-**英文标题**：Coastal fishing and trading game
-
-由公开作品整理的挑战方向：海岸钓鱼与买卖升级游戏。完整题面未逐字确认时，请勿当成原始提示词。
-
-**原站署名 / 来源线索**：@dangreenheck；发现入口：[Awesome Opus Animation](https://github.com/krillinai/awesome-opus-animation/blob/main/categories/games.md#case-2103004432786993341)；原帖通过公开读取服务核对。
-
-**题面情况**：完整原题未确认，按作品整理
-
-**可以观察什么？**
-
-- 捕鱼卖鱼买装备是否构成闭环
-- 保存与重开是否保持合理状态
-
-**标签**：`游戏开发`, `来源整理`
-
-**提示词与作品**：[前往原站查看](https://x.com/dangreenheck/status/2103004432786993341) · **本库测试情况**：未实测
-
-### 历史效果
-
-**Opus 5.5** · 运行日期未公开 · @dangreenheck
-
-[查看效果 / 体验](https://x.com/dangreenheck/status/2103004432786993341) · [来源记录](https://x.com/dangreenheck/status/2103004432786993341) · [测试背景](https://dgreenheck.github.io/tidewater/)
-
-通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
-
----
-
 ## 鱼叉捕鱼小游戏
 
 **编号**：`x-nachat_dayo-2102773498037023140` · **收录来源**：[@nachat_dayo / X](https://x.com/nachat_dayo/status/2102773498037023140)（本库来源组内序号 1）
@@ -413,3 +426,5 @@
 通过 FxTwitter 公共读取接口核对原帖 ID、账号和文字；未直接登录 X，也未独立运行或验证视频。作品介绍部分参考发现索引；完整题面、素材来源与迭代次数未公开的部分不推测。发布时间不是运行时间。
 
 ---
+
+</details>
