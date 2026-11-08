@@ -12,7 +12,7 @@
 <body>
   <a class="skip" href="#gallery" data-copy="skip">Skip to the gallery</a>
   <header class="masthead shell">
-    <a class="brand" href="./index.html"><span class="mark" aria-hidden="true">✳</span> Awesome AI Fun</a>
+    <a class="brand" href="./index.html"><svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M7 5V3h14v14h-2M3 7h14v14H3zM6 17l3-4 2 2 2-3 4 5"/></svg> Awesome AI Fun</a>
     <nav aria-label="Site">
       <button id="language" type="button" lang="zh-CN">简体中文</button>
       <a href="https://github.com/Java4ye/awesome-ai-fun">GitHub ↗</a>
@@ -20,23 +20,23 @@
   </header>
   <main class="shell">
     <section class="intro" aria-labelledby="headline">
-      <h1 id="headline" data-copy="headline">Look what AI helped make</h1>
-      <p class="lede" data-copy="intro">Games, 3D worlds, animation, and interactive ideas. Open a work to see it, play it, or find the original source.</p>
+      <h1 id="headline" data-copy="headline">Games, worlds &amp; odd experiments</h1>
+      <p class="lede" data-copy="intro">Things people make with AI, with original videos, demos and credits.</p>
     </section>
     <section id="gallery" aria-labelledby="gallery-title">
-      <div class="gallery-heading">
-        <h2 id="gallery-title" data-copy="gallery">All works</h2>
-        <p id="count" role="status" aria-live="polite"></p>
+      <h2 id="gallery-title" class="sr-only" data-copy="gallery">All works</h2>
+      <div class="catalog-controls">
+        <div class="toolbar">
+          <label class="search">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+            <span class="sr-only" data-copy="searchLabel">Search works</span>
+            <input id="search" type="search" placeholder="Search works">
+          </label>
+          <label class="play-filter"><input id="playable" type="checkbox"> <span data-copy="playable">Playable only</span></label>
+          <p id="count" role="status" aria-live="polite"></p>
+        </div>
+        <div id="categories" class="categories" role="group" aria-label="Categories"></div>
       </div>
-      <div class="toolbar">
-        <label class="search">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-          <span class="sr-only" data-copy="searchLabel">Search works</span>
-          <input id="search" type="search" placeholder="Search titles, creators, or tags">
-        </label>
-        <label class="play-filter"><input id="playable" type="checkbox"> <span data-copy="playable">Playable only</span></label>
-      </div>
-      <div id="categories" class="categories" role="group" aria-label="Categories"></div>
       <div id="grid" class="grid"></div>
       <noscript><p>Enable JavaScript to browse the gallery, or view the catalog on <a href="https://github.com/Java4ye/awesome-ai-fun">GitHub</a>.</p></noscript>
       <div id="empty" class="empty" hidden>

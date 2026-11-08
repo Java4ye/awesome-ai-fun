@@ -4,11 +4,11 @@ const catalog = window.AI_FUN_CATALOG;
 const $ = id => document.getElementById(id);
 const copy = {
   skip: ['跳到作品列表', 'Skip to the gallery'],
-  headline: ['逛逛 AI 做的好玩东西', 'Look what AI helped make'],
-  intro: ['小游戏、3D 世界、动画和交互点子。点开作品看效果、试玩或找出处。', 'Games, 3D worlds, animation, and interactive ideas. Open a work to see it, play it, or find the original source.'],
+  headline: ['小游戏、3D 世界，还有些怪点子', 'Games, worlds & odd experiments'],
+  intro: ['收集大家用 AI 做出来的作品，附原始演示、试玩和作者出处。', 'Things people make with AI, with original videos, demos and credits.'],
   gallery: ['全部作品', 'All works'],
   searchLabel: ['搜索作品', 'Search works'],
-  searchHint: ['搜作品、作者或标签', 'Search titles, creators, or tags'],
+  searchHint: ['搜索作品', 'Search works'],
   playable: ['只看可试玩', 'Playable only'],
   empty: ['没有找到匹配的作品。', 'No matching works.'],
   reset: ['清除筛选', 'Clear filters'],
@@ -37,6 +37,11 @@ const title = work => work.title[lang];
 const grid = $('grid');
 const dialog = $('detail');
 const works = catalog.works;
+const chapterByCategory = new Map(Object.keys(catalog.categories)
+  .map((key, index) => [key, ['I', 'II', 'III', 'IV', 'V'][index] || String(index + 1)]));
+const positions = new Map(Object.keys(catalog.categories)
+  .flatMap(key => works.filter(work => work.category === key))
+  .map((work, index) => [work.id, String(index + 1).padStart(2, '0')]));
 
 function node(tag, text, className) {
   const element = document.createElement(tag);
@@ -91,7 +96,7 @@ function openDetail(work) {
   const content = node('section', '', 'detail-content');
   const heading = node('h2', title(work));
   heading.id = 'detail-title';
-  content.append(node('p', catalog.categories[work.category][lang], 'eyebrow'), heading);
+  content.append(node('p', catalog.categories[work.category][lang], 'detail-category'), heading);
   if (work.summary[lang]) content.append(node('p', work.summary[lang]));
   if (!work.image && !work.video) content.append(node('p', t('pending')));
   const links = node('div', '', 'detail-links');
@@ -142,18 +147,19 @@ function card(work) {
     img.addEventListener('error', () => { cover.dataset.failed = 'true'; });
     cover.append(img);
   }
-  if (work.video || work.variants.length) {
-    const icon = node('span', work.video ? '▶' : String(work.variants.length), 'cover-icon');
-    icon.setAttribute('aria-hidden', 'true');
-    cover.append(icon);
+  if (work.variants.length) {
+    cover.append(node('span', lang ? `${work.variants.length} works` : `${work.variants.length} 个作品`, 'cover-label'));
   }
-  const meta = catalog.categories[work.category][lang] + (work.variants.length ? (lang ? ' · Collection' : ' · 专题') : '');
+  const caption = node('div', '', 'card-caption');
+  const number = node('span', positions.get(work.id), 'card-number');
+  number.setAttribute('aria-hidden', 'true');
   const h = node('h3');
   h.append(button(title(work), () => openDetail(work)));
+  caption.append(number, h);
   const bottom = node('div', '', 'card-bottom');
   bottom.append(node('span', work.publisher), work.play ? link(t('try'), work.play) :
     button(t(work.video ? 'watch' : 'details'), () => openDetail(work)));
-  article.append(cover, node('p', meta, 'card-meta'), h, bottom);
+  article.append(cover, caption, bottom);
   return article;
 }
 
@@ -175,7 +181,12 @@ function render() {
   for (const [key, names] of Object.entries(catalog.categories)) {
     const entries = filtered.filter(w => w.category === key);
     if (!entries.length) continue;
-    if (!category) sections.push(node('h3', `${names[lang]} · ${entries.length}`, 'grid-heading'));
+    const heading = node('h3', '', 'grid-heading');
+    const chapter = node('span', chapterByCategory.get(key), 'chapter-number');
+    chapter.setAttribute('aria-hidden', 'true');
+    heading.append(chapter, node('span', names[lang], 'chapter-title'),
+      node('span', lang ? `${entries.length} entries` : `${entries.length} 项`, 'section-count'));
+    sections.push(heading);
     sections.push(...entries.map(card));
   }
   grid.replaceChildren(...sections);
@@ -190,11 +201,19 @@ function renderCategories() {
   $('categories').replaceChildren(...[['', t('all')], ...Object.entries(catalog.categories).map(([key, names]) => [key, names[lang]])]
     .map(([key, label]) => {
       const control = button(label, () => {
+        const gallery = $('gallery');
+        const wasScrolled = gallery.getBoundingClientRect().top < 0;
         category = key;
         for (const btn of $('categories').children) btn.setAttribute('aria-pressed', String(btn === control));
         render();
+        if (wasScrolled) gallery.scrollIntoView({block: 'start'});
       });
       control.setAttribute('aria-pressed', String(category === key));
+      if (key) {
+        const marker = node('span', chapterByCategory.get(key), 'tab-number');
+        marker.setAttribute('aria-hidden', 'true');
+        control.prepend(marker);
+      }
       return control;
     }));
 }
