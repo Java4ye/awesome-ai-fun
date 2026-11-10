@@ -4,7 +4,7 @@
 
 [首页](../README.zh-CN.md) · [作品索引](INDEX.md)
 
-共 35 个来源组。数量按收录记录统计，包含专题内的单件作品和仅有题面的条目。
+共 36 个来源组。数量按收录记录统计，包含专题内的单件作品和仅有题面的条目。
 
 ## Pelican-bicycle alternatives
 
@@ -236,6 +236,12 @@ SVG 独角兽题及同题输出；与 Sparks of AGI 的 TikZ 版本区分。
 [来源入口](https://x.com/Saccc_c/status/2109962425512734739) · 本库收录 1 条
 
 《小王子：星辰之旅》的作者首发与制作教程。
+
+## Notes by Lex · Lex Toumbourou
+
+[来源入口](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · 本库收录 1 条
+
+作者原文记录了从手绘角色到浏览器游戏的过程，附提示词、战斗画面和试玩入口。
 
 ## 继续发现案例的资源
 

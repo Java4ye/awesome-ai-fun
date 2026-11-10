@@ -6,6 +6,43 @@
 
 > 简介和观赏要点由本库整理，原作品与已公开的题面见出处。
 
+## 艾登的复仇
+
+**编号**：`aidens-revenge` · **收录来源**：[Notes by Lex · Lex Toumbourou](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)（本库来源组内序号 1）
+
+**英文标题**：Aiden's Revenge
+
+[<img src="https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg" alt="艾登的复仇 — Claude Fable 5.2" width="720">](https://aidens-revenge.pages.dev/)
+
+**模型：** Claude Fable 5.2 · **作者 / 发布者：** Lex Toumbourou
+
+图片署名：Lex Toumbourou · [原图 / 作品出处](https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg) · [素材说明](../../docs/THIRD_PARTY_MEDIA.md)
+
+封面引用作者原文的战斗截图，画面是 Hulk Owen 在木栈道发动重击。
+
+Aiden 手绘了英雄和反派，叔叔 Lex 借助 Claude 把这些点子做成一款浏览器横版清版动作游戏。最终版本有 12 关、18 名可玩角色，支持本地四人合作。
+
+**原站署名 / 来源线索**：Lex Toumbourou（开发与文章） · Aiden（游戏创意与角色手绘）
+
+**题面情况**：公开题面
+
+**观赏要点**
+
+- 对照作者原文，看看手绘角色如何变成游戏精灵
+- 体验横版战斗和角色的专属招式
+
+**标签**：`横版动作`, `本地合作`, `手绘角色`
+
+### 历史效果
+
+**Claude Fable 5.2** · 在早期原型上开发，后续经试玩迭代 · Lex Toumbourou
+
+[查看效果 / 体验](https://aidens-revenge.pages.dev/) · [来源记录](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · [测试背景](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+
+据作者记录，Fable 5.2 在已有原型基础上大幅重写游戏。试玩后又调整招式、增加角色。原文也记录了用 ChatGPT Images 2.5 制作精灵。
+
+---
+
 ## Neon Arena 多人激光对战
 
 **编号**：`google-studio-neon_arena_laser_tag` · **收录来源**：[Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/)（本库来源组内序号 1）

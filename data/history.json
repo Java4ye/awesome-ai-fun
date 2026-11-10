@@ -1850,5 +1850,24 @@
     "conditions_en": "The original post and making-of guide document an AI-assisted workflow. This is not a single model output or an independent reproduction.",
     "rights": "link_only",
     "license_url": null
+  },
+  {
+    "id": "aidens-revenge-creator-demo",
+    "case_id": "aidens-revenge",
+    "publisher": "Lex Toumbourou",
+    "model": "Claude Fable 5.2",
+    "run_date": null,
+    "run_period": "在早期原型上开发，后续经试玩迭代",
+    "run_period_en": "Built on an earlier prototype and refined after playtesting",
+    "published_on": "2026-11-10",
+    "collected_on": "2026-11-10",
+    "source_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "output_url": "https://aidens-revenge.pages.dev/",
+    "context_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "kind": "community_run",
+    "conditions": "据作者记录，Fable 5.2 在已有原型基础上大幅重写游戏。试玩后又调整招式、增加角色。原文也记录了用 ChatGPT Images 2.5 制作精灵。",
+    "conditions_en": "The creator reports that Fable 5.2 largely rewrote an existing prototype. Moves and characters were added or refined after playtesting. The article also credits ChatGPT Images 2.5 for the sprites.",
+    "rights": "link_only",
+    "license_url": null
   }
 ]

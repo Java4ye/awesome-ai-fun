@@ -1098,5 +1098,23 @@
       "Opus 5.5"
     ],
     "included_case_id": "sac-little-prince"
+  },
+  {
+    "id": "aidens-revenge",
+    "title": "Aiden's Revenge",
+    "title_zh": "艾登的复仇",
+    "category": "games",
+    "platform": "Creator blog",
+    "publisher": "Lex Toumbourou",
+    "source_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "discovery_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "demo_urls": [
+      "https://aidens-revenge.pages.dev/"
+    ],
+    "prompt_availability": "public",
+    "collected_on": "2026-11-10",
+    "verification": "source_record",
+    "rights": "link_only",
+    "included_case_id": "aidens-revenge"
   }
 ]

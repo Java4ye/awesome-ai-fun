@@ -4,9 +4,9 @@
 
 [首页](../README.zh-CN.md) · [打开作品画廊](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)
 
-**62 个作品与专题。** 专题里的作品可点进去逐个查看。
+**63 个作品与专题。** 专题里的作品可点进去逐个查看。
 
-[游戏 (10)](#category-games) · [3D 与空间 (13)](#category-3d) · [动画与物理 (27)](#category-animation) · [应用与交互 (9)](#category-applications) · [SVG 绘画 (3)](#category-svg)
+[游戏 (11)](#category-games) · [3D 与空间 (13)](#category-3d) · [动画与物理 (27)](#category-animation) · [应用与交互 (9)](#category-applications) · [SVG 绘画 (3)](#category-svg)
 
 <a id="category-games"></a>
 
@@ -22,6 +22,7 @@
 - [鱼叉捕鱼小游戏](categories/games.md#鱼叉捕鱼小游戏)
 - [种花养蜂与采蜜游戏](categories/games.md#种花养蜂与采蜜游戏)
 - [小王子：星辰之旅](categories/games.md#小王子星辰之旅)
+- [艾登的复仇](categories/games.md#艾登的复仇)
 
 <a id="category-3d"></a>
 

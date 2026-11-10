@@ -8,7 +8,7 @@
 
 **[Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/)** · [Suggest a work](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case-en.md) · [Work index](docs/en/INDEX.md)
 
-**62 works and collections**
+**63 works and collections**
 
 ## All works
 
@@ -16,7 +16,7 @@
 
 <a id="category-games"></a>
 
-### Games · 10
+### Games · 11
 
 <table>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top"><a href="https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29"><img src="assets/previews/historical/sac-little-prince.jpg" alt="The Little Prince: Across the Stars" width="240" loading="lazy"></a><br><strong><a href="docs/en/categories/games.md#the-little-prince-across-the-stars">The Little Prince: Across the Stars</a></strong><br><a href="https://littleprince.dev/">Play</a> · <a href="https://x.com/Saccc_c/status/2109962425512734739">Source</a></td>
-    <td></td>
+    <td width="33%" valign="top"><a href="https://aidens-revenge.pages.dev/"><img src="https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg" alt="Aiden&#x27;s Revenge" width="240" loading="lazy"></a><br><strong><a href="docs/en/categories/games.md#aidens-revenge">Aiden&#x27;s Revenge</a></strong><br><a href="https://aidens-revenge.pages.dev/">Play</a> · <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">Source</a></td>
     <td></td>
   </tr>
 </table>

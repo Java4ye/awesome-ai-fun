@@ -6,6 +6,41 @@
 
 > We provide the summaries and viewing notes. Follow the source links for original works and any published prompts.
 
+## Aiden's Revenge
+
+**ID**: `aidens-revenge` · **Source**: [Notes by Lex · Lex Toumbourou](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) (catalog source position 1)
+
+[<img src="https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg" alt="Aiden&#x27;s Revenge — Claude Fable 5.2" width="720">](https://aidens-revenge.pages.dev/)
+
+**Model:** Claude Fable 5.2 · **Author / publisher:** Lex Toumbourou
+
+Image: Lex Toumbourou · [Original image / work](https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg) · [Media notice](../../../docs/en/THIRD_PARTY_MEDIA.md)
+
+The cover links to a gameplay screenshot from the creator’s article, showing Hulk Owen slamming the boardwalk.
+
+Aiden drew the heroes and villains. His uncle Lex used Claude to turn the drawings into a browser beat ’em up with 12 stages, 18 playable characters, and local four-player co-op.
+
+**Source credit / attribution lead**: Lex Toumbourou (development and article) · Aiden (game concept and character drawings)
+
+**Prompt availability**: Public prompt
+
+**What to look for**
+
+- Compare the game sprites with Aiden’s drawings in the original article
+- Try the side-scrolling combat and each character’s special move
+
+**Tags**: `side-scrolling beat ’em up`, `local co-op`, `hand-drawn characters`
+
+### Historical outputs
+
+**Claude Fable 5.2** · Built on an earlier prototype and refined after playtesting · Lex Toumbourou
+
+[View output / demo](https://aidens-revenge.pages.dev/) · [Source record](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · [Test context](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+
+The creator reports that Fable 5.2 largely rewrote an existing prototype. Moves and characters were added or refined after playtesting. The article also credits ChatGPT Images 2.5 for the sprites.
+
+---
+
 ## Neon Arena multiplayer laser tag
 
 **ID**: `google-studio-neon_arena_laser_tag` · **Source**: [Google AI Studio / Build mode](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/) (catalog source position 1)

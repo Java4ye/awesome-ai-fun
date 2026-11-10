@@ -8,7 +8,7 @@
 
 **[打开作品画廊](https://java4ye.github.io/awesome-ai-fun/site/?lang=zh)** · [推荐作品](https://github.com/Java4ye/awesome-ai-fun/issues/new?template=new-case.md) · [作品索引](docs/INDEX.md)
 
-**62 个作品与专题**
+**63 个作品与专题**
 
 ## 全部作品
 
@@ -16,7 +16,7 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 10
+### 游戏 · 11
 
 <table>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top"><a href="https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29"><img src="assets/previews/historical/sac-little-prince.jpg" alt="小王子：星辰之旅" width="240" loading="lazy"></a><br><strong><a href="docs/categories/games.md#小王子星辰之旅">小王子：星辰之旅</a></strong><br><a href="https://littleprince.dev/">试玩</a> · <a href="https://x.com/Saccc_c/status/2109962425512734739">原出处</a></td>
-    <td></td>
+    <td width="33%" valign="top"><a href="https://aidens-revenge.pages.dev/"><img src="https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg" alt="艾登的复仇" width="240" loading="lazy"></a><br><strong><a href="docs/categories/games.md#艾登的复仇">艾登的复仇</a></strong><br><a href="https://aidens-revenge.pages.dev/">试玩</a> · <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">原出处</a></td>
     <td></td>
   </tr>
 </table>

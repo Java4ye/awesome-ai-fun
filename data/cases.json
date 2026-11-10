@@ -3673,5 +3673,41 @@
     "verified_on": "2026-11-09",
     "evidence_level": "source_record",
     "guide_url": "https://x.com/Saccc_c/status/2110694725640474759"
+  },
+  {
+    "id": "aidens-revenge",
+    "title": "艾登的复仇",
+    "title_en": "Aiden's Revenge",
+    "category": "games",
+    "summary": "Aiden 手绘了英雄和反派，叔叔 Lex 借助 Claude 把这些点子做成一款浏览器横版清版动作游戏。最终版本有 12 关、18 名可玩角色，支持本地四人合作。",
+    "summary_en": "Aiden drew the heroes and villains. His uncle Lex used Claude to turn the drawings into a browser beat ’em up with 12 stages, 18 playable characters, and local four-player co-op.",
+    "checks": [
+      "对照作者原文，看看手绘角色如何变成游戏精灵",
+      "体验横版战斗和角色的专属招式"
+    ],
+    "checks_en": [
+      "Compare the game sprites with Aiden’s drawings in the original article",
+      "Try the side-scrolling combat and each character’s special move"
+    ],
+    "tags": [
+      "横版动作",
+      "本地合作",
+      "手绘角色"
+    ],
+    "tags_en": [
+      "side-scrolling beat ’em up",
+      "local co-op",
+      "hand-drawn characters"
+    ],
+    "source_id": "aidens-revenge",
+    "source_item_no": 1,
+    "source_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "source_credit": "Lex Toumbourou（开发与文章） · Aiden（游戏创意与角色手绘）",
+    "source_credit_en": "Lex Toumbourou (development and article) · Aiden (game concept and character drawings)",
+    "prompt_status": "source_only",
+    "prompt_availability": "public",
+    "status": "collected_not_tested",
+    "verified_on": "2026-11-10",
+    "evidence_level": "source_record"
   }
 ]

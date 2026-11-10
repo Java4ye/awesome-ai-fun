@@ -115,6 +115,7 @@ CATEGORY_NAMES = {
 }
 
 PLAY_LINKS = {
+    'aidens-revenge': 'https://aidens-revenge.pages.dev/',
     'sac-little-prince': 'https://littleprince.dev/',
     'x-dotey-2102940980379017293': 'https://s.baoyu.io/files/taohuayuan/index.html',
     'x-studio_veco-2102684366996738511': 'https://powapowa.pages.dev/',

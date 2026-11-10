@@ -1737,5 +1737,21 @@
     "captured_on": "2026-11-09",
     "capture_video_time_seconds": 34.903,
     "preview_source_url": "https://video.twimg.com/amplify_video/2109941568253927424/vid/avc1/3840x2160/_NUImXhsfraGu0Tb.mp4?tag=29"
+  },
+  {
+    "case_id": "aidens-revenge",
+    "image_url": "https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg",
+    "source_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "output_url": "https://aidens-revenge.pages.dev/",
+    "publisher": "Lex Toumbourou",
+    "model": "Claude Fable 5.2",
+    "rights": "source_reference",
+    "license_status": "not_verified",
+    "media_kind": "image",
+    "verification": "source_record",
+    "collected_on": "2026-11-10",
+    "note": "封面引用作者原文的战斗截图，画面是 Hulk Owen 在木栈道发动重击。",
+    "note_en": "The cover links to a gameplay screenshot from the creator’s article, showing Hulk Owen slamming the boardwalk.",
+    "display_width": 720
   }
 ]

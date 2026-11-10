@@ -4,7 +4,7 @@
 
 [Home](../../README.md) · [Work index](INDEX.md)
 
-35 source groups. Counts are catalog records and include individual works in collections and prompt-only entries.
+36 source groups. Counts are catalog records and include individual works in collections and prompt-only entries.
 
 ## Pelican-bicycle alternatives
 
@@ -236,6 +236,12 @@ Post metadata checked through a public reader; work and model claims are publish
 [Source](https://x.com/Saccc_c/status/2109962425512734739) · 1 entries
 
 The creator’s launch post and making-of guide for The Little Prince: Across the Stars.
+
+## Notes by Lex · Lex Toumbourou
+
+[Source](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · 1 entries
+
+The creator’s article traces the game from drawings to browser release and includes the prompt, gameplay images, and a playable link.
 
 ## Further discovery resources
 

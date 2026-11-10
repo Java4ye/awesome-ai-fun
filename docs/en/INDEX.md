@@ -4,9 +4,9 @@
 
 [Home](../../README.md) · [Open the gallery](https://java4ye.github.io/awesome-ai-fun/site/)
 
-**62 works and collections.** Open a collection to browse its individual works.
+**63 works and collections.** Open a collection to browse its individual works.
 
-[Games (10)](#category-games) · [3D & Spaces (13)](#category-3d) · [Animation & Physics (27)](#category-animation) · [Apps & Interaction (9)](#category-applications) · [SVG Art (3)](#category-svg)
+[Games (11)](#category-games) · [3D & Spaces (13)](#category-3d) · [Animation & Physics (27)](#category-animation) · [Apps & Interaction (9)](#category-applications) · [SVG Art (3)](#category-svg)
 
 <a id="category-games"></a>
 
@@ -22,6 +22,7 @@
 - [Harpoon fishing game](categories/games.md#harpoon-fishing-game)
 - [Flower planting and beekeeping game](categories/games.md#flower-planting-and-beekeeping-game)
 - [The Little Prince: Across the Stars](categories/games.md#the-little-prince-across-the-stars)
+- [Aiden's Revenge](categories/games.md#aidens-revenge)
 
 <a id="category-3d"></a>
 

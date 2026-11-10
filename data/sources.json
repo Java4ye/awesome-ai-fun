@@ -389,5 +389,16 @@
     "verified_on": "2026-11-09",
     "note": "《小王子：星辰之旅》的作者首发与制作教程。",
     "note_en": "The creator’s launch post and making-of guide for The Little Prince: Across the Stars."
+  },
+  {
+    "id": "aidens-revenge",
+    "name": "Notes by Lex · Lex Toumbourou",
+    "name_en": "Notes by Lex · Lex Toumbourou",
+    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "about_url": "https://notesbylex.com/",
+    "count": 1,
+    "verified_on": "2026-11-10",
+    "note": "作者原文记录了从手绘角色到浏览器游戏的过程，附提示词、战斗画面和试玩入口。",
+    "note_en": "The creator’s article traces the game from drawings to browser release and includes the prompt, gameplay images, and a playable link."
   }
 ]
